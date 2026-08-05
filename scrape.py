@@ -1,14 +1,17 @@
 # -*- coding: utf-8 -*-
-"""한국 스타트업 정보 수집 파이프라인 (git-scraping).
+"""한국 스타트업 정보 수집 파이프라인 (git-scraping, 완전 규칙 기반 — API 비용 $0).
 
 매일 1회 실행: 수집 → dedupe → 상세 수집 → README 갱신 → 텔레그램 다이제스트.
 데이터는 data/items.jsonl(목록), data/details/{id}.md(상세), data/status.jsonl(진행 상태).
 헤르메스는 raw.githubusercontent.com 에서 이 파일들을 직접 읽는다.
 
-환경변수:
-  ANTHROPIC_API_KEY   필수에 가까움 — 게시판 추출·상세 정리·다이제스트에 사용. 없으면 해당 단계 스킵.
-  DATA_GO_KR_KEY      선택 — K-Startup 공공데이터 API. 없으면 그 소스만 스킵.
-  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  선택 — 없으면 다이제스트를 stdout에만 출력.
+LLM을 쓰지 않는다 — 소스마다 공식 API/RSS 또는 정규식 파서. 사이트 개편으로 파서가
+깨지면(연속 2회 이상 0건) data/source_health.json에 기록하고 다이제스트에 경고를 띄운다
+(ponytail: 정규식 파서는 조용히 깨지는 게 진짜 리스크 — 이 체크가 "고장 감지 피드백 루프").
+
+환경변수 (둘 다 선택 — 없어도 전체 파이프라인 정상 동작):
+  DATA_GO_KR_KEY      K-Startup 공공데이터 API. 없으면 그 소스만 스킵.
+  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  없으면 다이제스트를 stdout에만 출력.
 """
 import hashlib
 import json
@@ -16,6 +19,7 @@ import os
 import re
 import sys
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin
@@ -27,17 +31,18 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 ITEMS_PATH = DATA / "items.jsonl"
 STATUS_PATH = DATA / "status.jsonl"
+HEALTH_PATH = DATA / "source_health.json"
 DETAILS_DIR = DATA / "details"
 README_PATH = ROOT / "README.md"
 
 KST = timezone(timedelta(hours=9))
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) startup-info-bot"}
-MODEL = "claude-haiku-4-5"  # 추출·요약용 경량 모델 (플랜에서 확정)
 CATEGORIES = ["지원사업", "공지", "뉴스", "행사"]
 DETAIL_CATEGORIES = {"지원사업", "공지"}  # 지원서 작성 재료가 되는 것만 상세 수집
 MAX_DETAILS_PER_RUN = 10  # ponytail: 첫 실행 폭주 방지용 상한, 밀린 건 다음 실행이 처리
+HEALTH_ALERT_THRESHOLD = 2  # 연속 이 횟수 이상 0건이면 "파서 깨짐" 경고
 
-# 소스 추가 = 여기 한 줄. type: kstartup_api | ccei_json | rss | board(HTML→LLM)
+# 소스 추가 = 여기 한 줄 + fetch_* 함수 하나. type이 COLLECT의 dispatch 키와 대응.
 SOURCES = [
     {"name": "K-Startup 사업공고", "type": "kstartup_api", "category": "지원사업"},
     {
@@ -48,13 +53,13 @@ SOURCES = [
     },
     {
         "name": "세종창조경제혁신센터 지원프로그램",
-        "type": "board",
-        "url": "https://ccei.creativekorea.or.kr/sejong/service/program_list.do",
+        "type": "ccei_program",
+        "url": "https://ccei.creativekorea.or.kr/sejong/json/service/programLists.json",
         "category": "지원사업",
     },
     {
         "name": "세종테크노파크 사업공고",
-        "type": "board",
+        "type": "sjtp_board",
         "url": "https://sjtp.or.kr/bbs/board.php?bo_table=business01",
         "category": "지원사업",
     },
@@ -89,7 +94,7 @@ def make_record(source: str, category: str, title: str, url: str, org: str,
         "title": " ".join(str(title).split()),
         "url": url.strip(),
         "org": org or source,
-        "posted": posted or None,
+        "posted": normalize_date(posted),
         "deadline": normalize_date(deadline),
         "detail": None,
         "scraped_at": now_kst(),
@@ -111,7 +116,7 @@ def normalize_date(s):
 
 
 class TextWithLinks(HTMLParser):
-    """HTML → 텍스트. <a href>는 [텍스트](절대URL)로 보존해 LLM이 항목 URL을 뽑을 수 있게 한다."""
+    """HTML → 텍스트. <a href>는 [텍스트](절대URL)로 보존해 첨부파일 링크가 살아있게 한다."""
 
     def __init__(self, base_url: str):
         super().__init__(convert_charrefs=True)
@@ -143,7 +148,7 @@ class TextWithLinks(HTMLParser):
             self.out.append(data.strip() + " ")
 
     @classmethod
-    def convert(cls, html_text: str, base_url: str, limit: int = 16000) -> str:
+    def convert(cls, html_text: str, base_url: str, limit: int = 8000) -> str:
         p = cls(base_url)
         p.feed(html_text)
         text = re.sub(r"\n{3,}", "\n\n", "".join(p.out))
@@ -151,80 +156,14 @@ class TextWithLinks(HTMLParser):
         return text[:limit]
 
 
-# ---------------------------------------------------------------- LLM (Claude)
-def anthropic_client():
-    if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
-        return None
-    import anthropic
-
-    return anthropic.Anthropic()
-
-
-EXTRACT_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "items": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "title": {"type": "string"},
-                    "url": {"type": "string"},
-                    "org": {"type": "string"},
-                    "category": {"type": "string", "enum": CATEGORIES},
-                    "posted": {"type": ["string", "null"]},
-                    "deadline": {"type": ["string", "null"]},
-                },
-                "required": ["title", "url", "org", "category", "posted", "deadline"],
-                "additionalProperties": False,
-            },
-        }
-    },
-    "required": ["items"],
-    "additionalProperties": False,
-}
-
-
-def llm_json(client, prompt: str, schema: dict, max_tokens: int = 8192):
-    resp = client.messages.create(
-        model=MODEL,
-        max_tokens=max_tokens,
-        output_config={"format": {"type": "json_schema", "schema": schema}},
-        messages=[{"role": "user", "content": prompt}],
-    )
-    text = next(b.text for b in resp.content if b.type == "text")
-    return json.loads(text)
-
-
-def llm_text(client, prompt: str, max_tokens: int = 2048) -> str:
-    resp = client.messages.create(
-        model=MODEL,
-        max_tokens=max_tokens,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return next((b.text for b in resp.content if b.type == "text"), "")
-
-
-def extract_board_items(client, page_text: str, source: dict) -> list:
-    """게시판 페이지 텍스트에서 게시글 목록을 스키마로 추출 — 사이트별 셀렉터 대신 이 함수 하나."""
-    prompt = (
-        f"아래는 '{source['name']}' 게시판 페이지를 텍스트로 변환한 것이다. "
-        "게시글 목록(공고/공지)만 추출하라. 메뉴·페이지네이션·푸터는 제외. "
-        f"category는 {CATEGORIES} 중 게시글 성격에 맞는 것(기본값 '{source['category']}'). "
-        "url은 본문 내 [텍스트](URL) 형태에서 해당 게시글의 절대 URL을 그대로 사용. "
-        "posted(게시일)와 deadline(접수 마감일)은 YYYY-MM-DD로, 알 수 없으면 null.\n\n"
-        + page_text
-    )
-    data = llm_json(client, prompt, EXTRACT_SCHEMA)
-    return data.get("items", [])
-
-
 # ---------------------------------------------------------------- fetch (소스 타입별)
-def fetch_kstartup(source: dict) -> list:
+# 반환값 규약: 리스트(빈 리스트 포함) = 시도했음(헬스 체크 대상). None = 설정 누락 등으로
+# 의도적 스킵(헬스 체크 제외) — 이 구분이 없으면 키 미설정을 "파서 고장"으로 오인한다.
+def fetch_kstartup(source: dict):
     key = os.environ.get("DATA_GO_KR_KEY")
     if not key:
         print("  DATA_GO_KR_KEY 없음 — K-Startup API 스킵")
-        return []
+        return None
     r = requests.get(
         "https://apis.data.go.kr/B552735/kisedKstartupService01/getAnnouncementInformation01",
         params={"serviceKey": key, "page": 1, "perPage": 100, "returnType": "json"},
@@ -241,7 +180,7 @@ def fetch_kstartup(source: dict) -> list:
         out.append(make_record(
             source["name"], source["category"], title, url,
             org=pick(row, "pbanc_ntrp_nm", "excInstNm", "sprv_inst", default="창업진흥원"),
-            posted=normalize_date(pick(row, "pbanc_rcpt_bgng_dt", "reg_dt")),
+            posted=pick(row, "pbanc_rcpt_bgng_dt", "reg_dt"),
             deadline=pick(row, "pbanc_rcpt_end_dt", "pbanc_ddln_dt"),
         ))
     return out
@@ -260,15 +199,75 @@ def fetch_ccei_json(source: dict) -> list:
             continue
         out.append(make_record(
             source["name"], source["category"], title, url,
-            org=row.get("WRITER") or source["name"],
-            posted=normalize_date(row.get("REG_DATE")),
+            org=row.get("WRITER") or source["name"], posted=row.get("REG_DATE"),
         ))
     return out
 
 
-def fetch_rss(source: dict) -> list:
-    from email.utils import parsedate_to_datetime  # RFC822 pubDate는 정규식 말고 이걸로
+def _parse_ccei_programs(payload: dict) -> list:
+    """programLists.json 응답 파싱만 담당 — 네트워크 없이 테스트 가능."""
+    rows = []
+    for row in payload.get("result", {}).get("list", []):
+        title, seq = row.get("PROGRAM_TITLE"), row.get("SEQ")
+        if not title or not seq:
+            continue
+        url = (f"https://ccei.creativekorea.or.kr/sejong/service/program_view.do"
+               f"?no={seq}&sMenuType=00040001&cntry_nm=sejong")
+        rows.append({"title": title, "url": url,
+                     "posted": row.get("C_SDATE") or row.get("REG_DATE"),
+                     "deadline": row.get("C_EDATE")})
+    return rows
 
+
+def fetch_ccei_programs(source: dict) -> list:
+    """세종창경 지원프로그램 — programLists.json AJAX (UI가 쓰는 것과 동일한 파라미터)."""
+    r = requests.post(
+        source["url"],
+        data={"sMenuType": "00040001", "pn": 1, "pagePerContents": 50, "cntry_nm": "sejong"},
+        headers={**UA, "X-Requested-With": "XMLHttpRequest"}, timeout=30,
+    )
+    r.raise_for_status()
+    return [make_record(source["name"], source["category"], row["title"], row["url"],
+                         org=source["name"], posted=row["posted"], deadline=row["deadline"])
+            for row in _parse_ccei_programs(r.json())]
+
+
+_SJTP_ROW_RE = re.compile(r'<tr class="[^"]*">(.*?)</tr>', re.S)
+_SJTP_TITLE_RE = re.compile(r'<a href="([^"]+wr_id=\d+)">([^<]+)</a>')
+_SJTP_ORG_RE = re.compile(r"<span>주관기관</span>\s*<p>([^<]*)</p>")
+_SJTP_PERIOD_RE = re.compile(r"<span>신청기간</span>\s*<p>([^<]*)</p>")
+
+
+def _parse_sjtp_rows(html_text: str) -> list:
+    """<tr> 안 <ul class="bo_title"> 목록 정규식 파싱만 담당 — 네트워크 없이 테스트 가능."""
+    rows = []
+    for block in _SJTP_ROW_RE.findall(html_text):
+        m = _SJTP_TITLE_RE.search(block)
+        if not m:
+            continue
+        url, title = m.group(1).replace("&amp;", "&"), m.group(2).strip()
+        org_m, period_m = _SJTP_ORG_RE.search(block), _SJTP_PERIOD_RE.search(block)
+        posted = deadline = None
+        if period_m:
+            parts = [p.strip() for p in period_m.group(1).split("~")]
+            posted = parts[0] if parts else None
+            deadline = parts[1] if len(parts) > 1 else None
+        rows.append({"title": title, "url": url,
+                     "org": org_m.group(1).strip() if org_m else None,
+                     "posted": posted, "deadline": deadline})
+    return rows
+
+
+def fetch_sjtp_board(source: dict) -> list:
+    """세종테크노파크 사업공고 — 정적 HTML."""
+    r = requests.get(source["url"], headers=UA, timeout=30)
+    r.raise_for_status()
+    return [make_record(source["name"], source["category"], row["title"], row["url"],
+                         org=row["org"] or source["name"], posted=row["posted"], deadline=row["deadline"])
+            for row in _parse_sjtp_rows(r.text)]
+
+
+def fetch_rss(source: dict) -> list:
     r = requests.get(source["url"], headers=UA, timeout=30)
     r.raise_for_status()
     root = ElementTree.fromstring(r.content)
@@ -282,51 +281,63 @@ def fetch_rss(source: dict) -> list:
             posted = parsedate_to_datetime(it.findtext("pubDate", "")).strftime("%Y-%m-%d")
         except (ValueError, TypeError):
             posted = None
-        out.append(make_record(
-            source["name"], source["category"], title, link,
-            org=source["name"], posted=posted,
-        ))
+        out.append(make_record(source["name"], source["category"], title, link,
+                                org=source["name"], posted=posted))
     return out
 
 
-def fetch_board(source: dict, client) -> list:
-    if client is None:
-        print(f"  ANTHROPIC_API_KEY 없음 — {source['name']} (board) 스킵")
-        return []
-    r = requests.get(source["url"], headers=UA, timeout=30)
-    r.raise_for_status()
-    text = TextWithLinks.convert(r.text, source["url"])
-    items = extract_board_items(client, text, source)
-    out = []
-    for it in items:
-        if not it.get("title") or not it.get("url"):
-            continue
-        out.append(make_record(
-            source["name"], it.get("category") or source["category"],
-            it["title"], urljoin(source["url"], it["url"]),
-            org=it.get("org") or source["name"],
-            posted=normalize_date(it.get("posted")), deadline=it.get("deadline"),
-        ))
-    return out
+FETCHERS = {
+    "kstartup_api": fetch_kstartup,
+    "ccei_json": fetch_ccei_json,
+    "ccei_program": fetch_ccei_programs,
+    "sjtp_board": fetch_sjtp_board,
+    "rss": fetch_rss,
+}
 
 
-def collect(client) -> list:
-    """모든 소스 수집. 한 소스가 죽어도 나머지는 계속."""
-    fetchers = {
-        "kstartup_api": lambda s: fetch_kstartup(s),
-        "ccei_json": lambda s: fetch_ccei_json(s),
-        "rss": lambda s: fetch_rss(s),
-        "board": lambda s: fetch_board(s, client),
-    }
-    records = []
+# ---------------------------------------------------------------- 소스 헬스 체크 (고장 감지)
+def load_health() -> dict:
+    if not HEALTH_PATH.exists():
+        return {}
+    return json.loads(HEALTH_PATH.read_text(encoding="utf-8"))
+
+
+def save_health(health: dict):
+    DATA.mkdir(exist_ok=True)
+    HEALTH_PATH.write_text(json.dumps(health, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def update_health(health: dict, name: str, items) -> dict:
+    """items가 None이면 의도적 스킵이라 카운트하지 않는다. 빈 리스트가 연속되면 스트릭 증가,
+    한 건이라도 나오면 0으로 리셋 — 이 스트릭이 임계치를 넘으면 파서가 깨졌다고 본다."""
+    if items is None:
+        return health
+    prev = health.get(name, {})
+    streak = 0 if items else prev.get("streak", 0) + 1
+    health[name] = {"streak": streak, "last_ok": now_kst() if items else prev.get("last_ok")}
+    return health
+
+
+def collect() -> tuple:
+    """모든 소스 수집. 한 소스가 죽어도(예외) 나머지는 계속 — 예외도 헬스 스트릭에 반영."""
+    health = load_health()
+    records, broken = [], []
     for source in SOURCES:
+        name = source["name"]
         try:
-            got = fetchers[source["type"]](source)
-            print(f"[{source['name']}] {len(got)}건")
-            records.extend(got)
-        except Exception as e:  # ponytail: 소스 단위 격리 — 수집 실패가 전체를 죽이면 데이터 유실
-            print(f"[{source['name']}] 실패: {e}", file=sys.stderr)
-    return records
+            got = FETCHERS[source["type"]](source)
+        except Exception as e:  # ponytail: 소스 단위 격리 — 한 소스 실패가 전체를 죽이지 않음
+            print(f"[{name}] 실패: {e}", file=sys.stderr)
+            got = []
+        if got is None:
+            continue
+        print(f"[{name}] {len(got)}건")
+        records.extend(got)
+        health = update_health(health, name, got)
+        if health[name]["streak"] >= HEALTH_ALERT_THRESHOLD:
+            broken.append((name, health[name]["streak"], health[name]["last_ok"]))
+    save_health(health)
+    return records, broken
 
 
 # ---------------------------------------------------------------- 저장소 (jsonl)
@@ -364,35 +375,28 @@ def append_items(records: list):
 
 
 # ---------------------------------------------------------------- 상세 수집 (지원서 작성 재료)
-def fetch_detail(client, rec: dict) -> bool:
+def fetch_detail(rec: dict) -> bool:
+    """LLM 정리 없이 원문 텍스트를 그대로 저장 — 링크(첨부 포함)는 [텍스트](URL)로 보존."""
     r = requests.get(rec["url"], headers=UA, timeout=30)
     r.raise_for_status()
-    text = TextWithLinks.convert(r.text, rec["url"], limit=24000)
-    body = llm_text(client, (
-        "아래는 지원사업/공지 상세 페이지를 텍스트로 변환한 것이다. "
-        "지원서 작성에 필요한 정보를 마크다운으로 정리하라. 섹션: "
-        "## 개요 / ## 지원대상 / ## 지원내용 / ## 접수기간 / ## 신청방법 / ## 문의처 / ## 첨부파일. "
-        "첨부파일 섹션에는 본문 내 [텍스트](URL) 중 첨부(hwp/pdf/zip 등) 링크를 그대로 나열. "
-        "페이지에 없는 섹션은 '정보 없음'으로. 내용을 지어내지 마라.\n\n" + text
-    ), max_tokens=3000)
-    if not body.strip():
+    text = TextWithLinks.convert(r.text, rec["url"], limit=6000)
+    if not text.strip():
         return False
     DETAILS_DIR.mkdir(parents=True, exist_ok=True)
     md = (f"# {rec['title']}\n\n- 출처: {rec['source']}\n- 기관: {rec['org']}\n"
-          f"- 원문: {rec['url']}\n- 마감: {rec['deadline'] or '미상'}\n\n{body}\n")
+          f"- 원문: {rec['url']}\n- 마감: {rec['deadline'] or '미상'}\n\n"
+          "## 원문 (자동 추출, 미가공)\n\n" + text + "\n")
     (DETAILS_DIR / f"{rec['id']}.md").write_text(md, encoding="utf-8")
     rec["detail"] = f"data/details/{rec['id']}.md"
     return True
 
 
-def fetch_details(client, new_records: list):
-    if client is None:
-        return
+def fetch_details(new_records: list):
     targets = [r for r in new_records if r["category"] in DETAIL_CATEGORIES][:MAX_DETAILS_PER_RUN]
     for rec in targets:
         try:
-            fetch_detail(client, rec)
-            print(f"  상세 저장: {rec['title'][:40]}")
+            if fetch_detail(rec):
+                print(f"  상세 저장: {rec['title'][:40]}")
         except Exception as e:
             print(f"  상세 실패 ({rec['url']}): {e}", file=sys.stderr)
 
@@ -439,7 +443,7 @@ def render_readme(items: list, status_map: dict):
     README_PATH.write_text(readme, encoding="utf-8")
 
 
-# ---------------------------------------------------------------- 다이제스트 (알림)
+# ---------------------------------------------------------------- 다이제스트 (알림, 규칙 기반)
 def build_reminders(items: list, status_map: dict) -> list:
     today = datetime.now(KST).date()
     out = []
@@ -455,26 +459,35 @@ def build_reminders(items: list, status_map: dict) -> list:
     return out
 
 
-def send_digest(client, new_records: list, items: list, status_map: dict):
-    reminders = build_reminders(items, status_map)
-    if not new_records and not reminders:
-        print("신규·리마인드 없음 — 다이제스트 미발송")
-        return
-    listing = "\n".join(
-        f"- [{r['category']}] {r['title']} ({r['org']}, 마감 {r['deadline'] or '미상'}) {r['url']}"
-        for r in new_records[:40]
-    )
-    if client:
-        digest = llm_text(client, (
-            "너는 세종에서 활동하는 1인 창업가의 정보 비서다. 아래 신규 수집 항목을 브리핑 1건으로 요약하라. "
-            "우선순위: ①마감 임박 지원사업 ②세종·청년 대상 ③그 외. 항목당 한 줄(제목·마감·URL), "
-            "주목할 상위 3건을 먼저, 나머지는 카테고리별로 묶어 간단히. 인사말 없이 본문만.\n\n" + (listing or "(신규 없음)")
-        ), max_tokens=1500)
-    else:
-        digest = "오늘의 신규 수집:\n" + (listing or "(없음)")
+def format_digest(new_records: list, reminders: list, broken: list) -> str:
+    lines = [f"📋 스타트업 정보 브리핑 {datetime.now(KST).strftime('%m/%d')}"]
+    if broken:
+        lines.append("\n⚠️ 소스 점검 필요")
+        lines += [f"- {name}: {streak}일 연속 0건 (마지막 정상: {last_ok or '기록 없음'}) "
+                   "— 사이트 구조가 바뀌었을 수 있음, 파서 확인 필요"
+                   for name, streak, last_ok in broken]
+    if new_records:
+        biz = sorted((r for r in new_records if r["category"] == "지원사업"),
+                     key=lambda r: r["deadline"] or "9999")
+        rest = [r for r in new_records if r["category"] != "지원사업"]
+        if biz:
+            lines.append("\n🆕 신규 지원사업")
+            lines += [f"- [{r['deadline'] or '마감미상'}] {r['title']} ({r['org']}) {r['url']}" for r in biz[:15]]
+        if rest:
+            lines.append(f"\n🆕 그 외 신규 ({len(rest)}건)")
+            lines += [f"- [{r['category']}] {r['title']} {r['url']}" for r in rest[:15]]
     if reminders:
-        digest += "\n\n⏰ 진행 중 공고 마감 임박:\n" + "\n".join(reminders)
-    digest = f"📋 스타트업 정보 브리핑 {datetime.now(KST).strftime('%m/%d')}\n\n{digest}"
+        lines.append("\n⏰ 진행 중 공고 마감 임박")
+        lines += reminders
+    return "\n".join(lines)
+
+
+def send_digest(new_records: list, items: list, status_map: dict, broken: list):
+    reminders = build_reminders(items, status_map)
+    if not new_records and not reminders and not broken:
+        print("신규·리마인드·이상 없음 — 다이제스트 미발송")
+        return
+    digest = format_digest(new_records, reminders, broken)
 
     token, chat_id = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
     if token and chat_id:
@@ -491,21 +504,18 @@ def send_digest(client, new_records: list, items: list, status_map: dict):
 
 # ---------------------------------------------------------------- main
 def main():
-    client = anthropic_client()
-    if client is None:
-        print("경고: ANTHROPIC_API_KEY 없음 — 게시판 추출·상세·다이제스트 요약 스킵", file=sys.stderr)
-
     existing = load_jsonl(ITEMS_PATH)
     status_map = load_status()
 
-    new_records = dedupe_new(collect(client), existing)
+    records, broken = collect()
+    new_records = dedupe_new(records, existing)
     print(f"신규 {len(new_records)}건 / 기존 {len(existing)}건")
 
-    fetch_details(client, new_records)
+    fetch_details(new_records)
     append_items(new_records)
     all_items = existing + new_records
     render_readme(all_items, status_map)
-    send_digest(client, new_records, all_items, status_map)
+    send_digest(new_records, all_items, status_map, broken)
 
 
 if __name__ == "__main__":
