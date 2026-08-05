@@ -13,19 +13,26 @@ _자동 갱신: 2026-08-05 (KST)_
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
+| 2026-08-05 | [[ 모 집 ] GVC AI Platform Startup Enabling Program 참여 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178733) | 글로벌벤처센터 | K-Startup 사업공고 |
+| 2026-08-05 | [2026 빅웨이브 글로벌(일본4차) - 글로벌 오픈이노베이션 세미나 및 밋업(일본 츄가이제약) 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178681) | 인천창조경제혁신센터 대표이사 | K-Startup 사업공고 |
+| 2026-08-05 | [성북구 한성대 벤처창업지원센터 하반기 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178648) | 성북구 한성대 벤처창업지원센터 | K-Startup 사업공고 |
+| 2026-08-06 | [[서울과학기술대학교]3D프린터 장비교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178753) | 서울과학기술대학교 | K-Startup 사업공고 |
 | 2026-08-07 | [[2026-061호] 2026년 세종테크노파크 본관동 입주기업 비즈니스 고도화 지원 프로그램 참여기업 모집 2차 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1988) | 세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-08-10 | [[2026-060호]2026년 세종 지역특화 프로젝트 레전드50+2.0 기업진단 및 컨설팅 참여기업 모집](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1987) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-08-14 | [[2026-063호] 2026년 정보보호 기업육성(사업화) 지원사업 모집공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1989) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-08-14 | [[2026-064호] 세종 지역특화산업 기업 정보보호 신규 비즈니스 모델 전략 수립 지원기업 모집공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1990) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-08-28 | [[2026-047호] 2026년 디지털 콘텐츠 산업 규제개혁 어드바이저 참여기업 모집 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1972) | 정보통신산업진흥원 | 세종테크노파크 사업공고 |
-| 2026-09-06 | [[2026-059호] 2026 세종국제만화영상전(SICACO) 모집 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1985) | 세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-12-31 | [창업-BuS in 세종, 수요투자 라운드 참여기업 모집](https://ccei.creativekorea.or.kr/sejong/service/program_view.do?no=10434&sMenuType=00040001&cntry_nm=sejong) | 세종창조경제혁신센터 지원프로그램 | 세종창조경제혁신센터 지원프로그램 |
-| 2026-12-31 | [대국민 창업 오디션「모두의 창업」](https://ccei.creativekorea.or.kr/sejong/service/program_view.do?no=10358&sMenuType=00040001&cntry_nm=sejong) | 세종창조경제혁신센터 지원프로그램 | 세종창조경제혁신센터 지원프로그램 |
-| 2026-12-31 | [세종 스타트업 원스톱 지원센터] 2025년 12월 창업 상담 예약 신청 안내](https://ccei.creativekorea.or.kr/sejong/service/program_view.do?no=10228&sMenuType=00040001&cntry_nm=sejong) | 세종창조경제혁신센터 지원프로그램 | 세종창조경제혁신센터 지원프로그램 |
-| 2026-12-31 | [[2026-003호] 2026년도 세종테크노파크 본관동 입주기업 상시모집 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1928) | 세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-12-31 | [2026년 세종RISE센터 분야별 전문가 모집 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1936) | (재)세종테크노파크 세종RISE센터 | 세종테크노파크 사업공고 |
-| 2026-12-31 | [[2026-020호] 2026년 기술닥터제 지원사업 참여기업 모집공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1942) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
-| 2026-12-31 | [[2026-049호] 세종테크밸리 첨단기업 유치 임차료 지원사업 참여기업(임차기업) 모집 수정 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1974) | 세종특별자치시 | 세종테크노파크 사업공고 |
+| 2026-08-07 | [수원남문시장 「이어가게·열어가게」 창업아카데미 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178723) | 수원도시재단 | K-Startup 사업공고 |
+| 2026-08-07 | [고려대기술지주(주) 판교인큐베이팅센터 입주기업 모집공고(기간연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178700) | 고려대학교기술지주 주식회사  | K-Startup 사업공고 |
+| 2026-08-07 | [라이콘 창업 경진대회 참여팀 모집(로컬 창업 아이디어톤)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178699) | 유원대학교 충남 앵커사업단 | K-Startup 사업공고 |
+| 2026-08-07 | [2026 Blender와 AI로 완성하는 3D콘텐츠 제작교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178685) | 차세대융합기술연구원 | K-Startup 사업공고 |
+| 2026-08-07 | [[한양대학교] 2026년 제23기 한양스타트업아카데미 교육생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178677) | 한양대학교 창업지원단 | K-Startup 사업공고 |
+| 2026-08-07 | [2026년 대구콘텐츠코리아랩 캐릭터 글로벌 진입 프로젝트 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178674) | (재)대구디지털혁신진흥원 | K-Startup 사업공고 |
+| 2026-08-07 | [「제3회 DDM Union 청년 창업 아이디어 챌린지」참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178664) | 서울특별시 동대문구청 | K-Startup 사업공고 |
+| 2026-08-07 | [「2026 한국전자전(KES)」관악S밸리관 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178659) | 관악중소벤처진흥원 | K-Startup 사업공고 |
+| 2026-08-07 | [제조 AI 기술 사업화 지원 수혜기업 모집(~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178655) | 경북대학교 스타트업지원센터장 | K-Startup 사업공고 |
+| 2026-08-07 | [제품 양산 패키지 수혜기업 모집(~8/7)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178654) | 경북대학교 스타트업지원센터장 | K-Startup 사업공고 |
+| 2026-08-07 | [제3회 W-Venture 창업 경진대회(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178653) | (사)부울경여성벤처협회 | K-Startup 사업공고 |
+| 2026-08-07 | [2026년 대구 스타트업 오픈이노베이션 자율제안형(상향식) 실증 프로그램 지원기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178649) | (재)대구창조경제혁신센터 대표이사 | K-Startup 사업공고 |
+| 2026-08-07 | [KAIST 딥테크 유망랩 라운드테이블](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178645) | (주)아이비유 | K-Startup 사업공고 |
+| 2026-08-09 | [제5회 김해스타트업 창업캠프 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178717) | 김해의생명산업진흥원 | K-Startup 사업공고 |
+| 2026-08-09 | [2026년 재도전 커뮤니티 데이(수도권) 행사 사전등록 및 창업상담 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178663) | 인천대학교 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
