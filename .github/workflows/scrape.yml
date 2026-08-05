@@ -2,7 +2,7 @@ name: scrape
 
 on:
   schedule:
-    - cron: "0 22 * * *" # 매일 07:00 KST
+    - cron: "0 5 * * *" # 매일 14:00 KST
   workflow_dispatch:
 
 permissions:
