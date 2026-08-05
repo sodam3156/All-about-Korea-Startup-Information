@@ -488,6 +488,7 @@ def send_digest(new_records: list, items: list, status_map: dict, broken: list):
         print("신규·리마인드·이상 없음 — 다이제스트 미발송")
         return
     digest = format_digest(new_records, reminders, broken)
+    sent = False
 
     token, chat_id = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
     if token and chat_id:
@@ -497,8 +498,17 @@ def send_digest(new_records: list, items: list, status_map: dict, broken: list):
             timeout=30,
         )
         print(f"텔레그램 발송: {resp.status_code}")
-    else:
-        print("--- 다이제스트 (텔레그램 미설정) ---")
+        sent = True
+
+    webhook = os.environ.get("DISCORD_WEBHOOK_URL")
+    if webhook:
+        # UA 없이 보내면 Cloudflare가 403(1010)으로 차단 — 다른 fetch와 같은 UA 재사용
+        resp = requests.post(webhook, json={"content": digest[:2000]}, headers=UA, timeout=30)
+        print(f"디스코드 발송: {resp.status_code}")
+        sent = True
+
+    if not sent:
+        print("--- 다이제스트 (텔레그램·디스코드 미설정) ---")
         print(digest)
 
 
