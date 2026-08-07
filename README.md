@@ -7,13 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-06 (KST)_
+_자동 갱신: 2026-08-07 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-06 | [[서울과학기술대학교]3D프린터 장비교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178753) | 서울과학기술대학교 | K-Startup 사업공고 |
 | 2026-08-07 | [[2026-061호] 2026년 세종테크노파크 본관동 입주기업 비즈니스 고도화 지원 프로그램 참여기업 모집 2차 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1988) | 세종테크노파크 | 세종테크노파크 사업공고 |
 | 2026-08-07 | [수원남문시장 「이어가게·열어가게」 창업아카데미 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178723) | 수원도시재단 | K-Startup 사업공고 |
 | 2026-08-07 | [고려대기술지주(주) 판교인큐베이팅센터 입주기업 모집공고(기간연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178700) | 고려대학교기술지주 주식회사  | K-Startup 사업공고 |
@@ -33,21 +32,22 @@ _자동 갱신: 2026-08-06 (KST)_
 | 2026-08-10 | [[2026-060호]2026년 세종 지역특화 프로젝트 레전드50+2.0 기업진단 및 컨설팅 참여기업 모집](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1987) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
 | 2026-08-10 | [[코레일유통/본사] 제9차 청년창업 제휴사업자 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178732) | 코레일유통(주) | K-Startup 사업공고 |
 | 2026-08-10 | [2026년 제 5회 경남 스타트업 IR「A.C.E(에이스) 경진대회」오픈리그 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178713) | 재단법인 경남창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-08-11 | [2026년 제4차 대전창업허브 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178727) | (재)대전창조경제혁신센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-06 | [비즈니스온, B2B SaaS에 AI 심는다…AX 플랫폼 전환](https://www.venturesquare.net/1104025/) | 벤처스퀘어 |
-| 2026-08-06 | [호텔에서 통했다… 티핑, 일본 현장 실증으로 해외시장 두드린다](https://www.venturesquare.net/1104036/) | 벤처스퀘어 |
-| 2026-08-06 | [AI 주거플랫폼 트러스테이, 정보보호 국제표준 2종 동시 획득… 글로벌 공략 기반 강화](https://www.venturesquare.net/1104044/) | 벤처스퀘어 |
-| 2026-08-06 | [AI 성과 만드는 법 한자리에… 스노우플레이크, 연례 컨퍼런스 ‘월드 투어 서울’ 개최](https://www.venturesquare.net/1104051/) | 벤처스퀘어 |
-| 2026-08-06 | [“AI가 답할 때 우리 브랜드는 왜 없을까”…어센트AI 박세용 대표가 말하는 GEO](https://www.venturesquare.net/1103994/) | 벤처스퀘어 |
-| 2026-08-06 | [AI 공격도 미리 침투해본다… AI스페라, 모의해킹 서비스 강화](https://www.venturesquare.net/1104062/) | 벤처스퀘어 |
-| 2026-08-06 | [AI·로봇 스타트업, 투자자 만난다… 대전창업포럼 11일 개최](https://www.venturesquare.net/1104112/) | 벤처스퀘어 |
-| 2026-08-06 | [99% 자율비행 성공률…니어스랩, 방산 드론으로 코스닥 출사](https://www.venturesquare.net/1104120/) | 벤처스퀘어 |
-| 2026-08-06 | [성수가 스포티파이로 물든다…9월 ‘스포티파이 하우스 서울’ 개최](https://www.venturesquare.net/1104123/) | 벤처스퀘어 |
-| 2026-08-06 | [공공 복지망도 ‘실시간 관제’…와탭랩스, 사보원 K-테스트베드 실증 완료](https://www.venturesquare.net/1104130/) | 벤처스퀘어 |
+| 2026-08-06 | [공간을 이해하는 AI, 맥락을 읽는 기술…메이사의 ‘공간AI’](https://www.venturesquare.net/1104234/) | 벤처스퀘어 |
+| 2026-08-06 | [“걸음걸이가 곧 진단이다”… 박신기 에이트스튜디오 대표가 바꾸는 보행분석의 기준](https://www.venturesquare.net/1103980/) | 벤처스퀘어 |
+| 2026-08-06 | [“광고보다 콘텐츠가 소비되는 시대”…카카오벤처스가 투자한 애딧앤아크 최형빈 대표](https://www.venturesquare.net/1103434/) | 벤처스퀘어 |
+| 2026-08-07 | [[컬처슬로건 탐방기] 메이사 – 비효율적으로 유연한 조직](https://www.venturesquare.net/1104341/) | 벤처스퀘어 |
+| 2026-08-07 | [TIPA, ‘2026 ValueUP 19기’ 본격 가동…R&D 중소기업 40개사 투자유치 지원](https://www.venturesquare.net/1104345/) | 벤처스퀘어 |
+| 2026-08-07 | [유이크, 4천명 찾은 ‘피부 쿨링 충전소’…팝업 흥행 이어 일본 간다](https://www.venturesquare.net/1104385/) | 벤처스퀘어 |
+| 2026-08-07 | [공항 라운지 무료라더니?…카드 혜택, 출국 전 꼭 확인할 3가지](https://www.venturesquare.net/1104393/) | 벤처스퀘어 |
+| 2026-08-07 | [블랙웰 GPU 1천장 확보한 베슬AI… AI 팩토리 구축 속도 높인다](https://www.venturesquare.net/1104396/) | 벤처스퀘어 |
+| 2026-08-07 | [오케스트로 “AI 인프라 경쟁, GPU보다 운영 효율”…기업 관심도 ‘추론 최적화’로 이동](https://www.venturesquare.net/1104404/) | 벤처스퀘어 |
+| 2026-08-07 | [한성시스코·로바이, 고무·타이어 공정에 범용 로봇 AI 적용…현장 실증 나선다](https://www.venturesquare.net/1104417/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
