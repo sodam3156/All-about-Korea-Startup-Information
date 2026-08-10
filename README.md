@@ -7,14 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-09 (KST)_
+_자동 갱신: 2026-08-10 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-09 | [제5회 김해스타트업 창업캠프 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178717) | 김해의생명산업진흥원 | K-Startup 사업공고 |
-| 2026-08-09 | [2026년 재도전 커뮤니티 데이(수도권) 행사 사전등록 및 창업상담 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178663) | 인천대학교 | K-Startup 사업공고 |
 | 2026-08-10 | [[2026-060호]2026년 세종 지역특화 프로젝트 레전드50+2.0 기업진단 및 컨설팅 참여기업 모집](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1987) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
 | 2026-08-10 | [[코레일유통/본사] 제9차 청년창업 제휴사업자 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178732) | 코레일유통(주) | K-Startup 사업공고 |
 | 2026-08-10 | [2026년 제 5회 경남 스타트업 IR「A.C.E(에이스) 경진대회」오픈리그 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178713) | 재단법인 경남창조경제혁신센터 | K-Startup 사업공고 |
@@ -33,21 +31,23 @@ _자동 갱신: 2026-08-09 (KST)_
 | 2026-08-12 | [2026년도 방산 특화 창업중심대학 창업기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662) | 중소벤처기업부 장관 | K-Startup 사업공고 |
 | 2026-08-12 | [2026년 창업진흥원 대전 팁스타운 일본 파트너 초청 상담회 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178839) | 창업진흥원장 | K-Startup 사업공고 |
 | 2026-08-13 | [2026년 8월 동네창업학교 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178742) | 충남신용보증재단 | K-Startup 사업공고 |
+| 2026-08-13 | [앤틀러코리아 ANTLER FORGE 소개 웨비나 | 팀 당 6억원 규모 투자](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178725) | 앤틀러코리아 | K-Startup 사업공고 |
+| 2026-08-13 | [[대전관광공사] 2026 대전세종 관광기업 네트워킹 데이 3회차 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178703) | 대전관광공사 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-08 | [YC ‘또 창업’하겠다는 연쇄 창업가 454명…평균 5.1년만에 재창업](https://www.venturesquare.net/1104580/) | 벤처스퀘어 |
-| 2026-08-08 | [인터넷 허용된 ‘미토스 5’, 설정 오류 찾은 ‘키미 K3’…AI 에이전트 통제 경고](https://www.venturesquare.net/1104579/) | 벤처스퀘어 |
-| 2026-08-08 | [[VS기획 ③] 좋은 기업을 알아보는 안목은 어디서 오는가…액셀러레이터 23인이 고른 여름 필독서](https://www.venturesquare.net/1104626/) | 벤처스퀘어 |
-| 2026-08-08 | [ONEWMS, 라자다 연동…동남아 주문부터 국가별 배송 라벨까지 한 번에](https://www.venturesquare.net/1104682/) | 벤처스퀘어 |
-| 2026-08-08 | [두나무, 경찰청 압수 디지털자산 맡는다…업비트 커스터디로 24시간 관리](https://www.venturesquare.net/1104686/) | 벤처스퀘어 |
-| 2026-08-08 | [망고부스트, 글로벌 웹사이트 오픈…AI 추론 플랫폼 ‘망고 인퍼런스’ 공개 앞둬](https://www.venturesquare.net/1104697/) | 벤처스퀘어 |
-| 2026-08-08 | [커피값 오를 때 할인 늘린 라운지엑스24h…AI 로봇이 만든 가격 경쟁력](https://www.venturesquare.net/1104704/) | 벤처스퀘어 |
-| 2026-08-08 | [로레알-유네스코 세계여성과학자상, 5개 대륙 여성 과학자 5인 선정](https://www.venturesquare.net/1104723/) | 벤처스퀘어 |
-| 2026-08-08 | [지쿠, 엄태구와 올바른 주차 문화 알린다…전국 시민 참여 캠페인](https://www.venturesquare.net/1104742/) | 벤처스퀘어 |
-| 2026-08-08 | [에누마 ‘토도영어’, 대만 진출…중국·일본 이어 글로벌 시장 넓힌다](https://www.venturesquare.net/1104745/) | 벤처스퀘어 |
+| 2026-08-09 | [“다윗은 어떻게 골리앗을 이겼을까”…벤처스퀘어, 실전 협상 ‘OPEN UP’ 연다](https://www.venturesquare.net/1104714/) | 벤처스퀘어 |
+| 2026-08-09 | [추억의 챗봇’ 심심이는 어떻게 AI 기업이 됐나…최정회 대표의 24년 대화 실험](https://www.venturesquare.net/1097114/) | 벤처스퀘어 |
+| 2026-08-09 | [[기고] 기후위기는 국가 시스템 리스크다…미래는 이미 도착했다](https://www.venturesquare.net/1104819/) | 벤처스퀘어 |
+| 2026-08-10 | [투자자 앞에 설 AI·빅데이터 초기기업 찾는다…씨엔티테크 ‘로켓십 IR’](https://www.venturesquare.net/1104835/) | 벤처스퀘어 |
+| 2026-08-10 | [엘리스그룹이 AI 풀스택을 선언한 이유](https://www.venturesquare.net/1104846/) | 벤처스퀘어 |
+| 2026-08-10 | [외국인 인증은 API로, CAD는 웹으로…씨엔티테크가 고른 두 SaaS](https://www.venturesquare.net/1104838/) | 벤처스퀘어 |
+| 2026-08-10 | [AI로 가짜뉴스·디지털 소외 해법 찾았다…메가존클라우드 청소년 포럼](https://www.venturesquare.net/1104857/) | 벤처스퀘어 |
+| 2026-08-10 | [산업용 엣지 AI, 양산의 관건은 전력…마우저 설계 리소스 한곳에](https://www.venturesquare.net/1104866/) | 벤처스퀘어 |
+| 2026-08-10 | [공공기관은 어떤 AI를 골랐나…와이즈넛, 에이전트·검색·챗봇 1위](https://www.venturesquare.net/1104873/) | 벤처스퀘어 |
+| 2026-08-10 | [소비자 불편을 제품으로, 반응은 콘텐츠로…더벤처스가 오와이디에 투자한 이유](https://www.venturesquare.net/1104884/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
