@@ -7,18 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-12 (KST)_
+_자동 갱신: 2026-08-13 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-12 | [2026 산업단지 오픈이노베이션프로그램 KICXUP 챌린지 & 로컬 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178746) | 한국산업단지공단 | K-Startup 사업공고 |
-| 2026-08-12 | [청년 창업의 꿈, 『성동청년 창업이룸센터』 입주자 모집 공고【9차】](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178724) | 서울특별시 성동구청장 | K-Startup 사업공고 |
-| 2026-08-12 | [2026년 여성CEO 비즈니스 아카데미 경상권역 시즌 1](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178671) | 한국여성경제인협회 | K-Startup 사업공고 |
-| 2026-08-12 | [2026년도 방산 특화 창업중심대학 창업기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178662) | 중소벤처기업부 장관 | K-Startup 사업공고 |
-| 2026-08-12 | [2026년 창업진흥원 대전 팁스타운 일본 파트너 초청 상담회 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178839) | 창업진흥원장 | K-Startup 사업공고 |
-| 2026-08-12 | [?[무료] 정책자금·TIPS 심사를 좌우하는 재무제표 결산 포인트?](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178840) | 하임벤처투자 | K-Startup 사업공고 |
 | 2026-08-13 | [2026년 8월 동네창업학교 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178742) | 충남신용보증재단 | K-Startup 사업공고 |
 | 2026-08-13 | [앤틀러코리아 ANTLER FORGE 소개 웨비나 | 팀 당 6억원 규모 투자](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178725) | 앤틀러코리아 | K-Startup 사업공고 |
 | 2026-08-13 | [[대전관광공사] 2026 대전세종 관광기업 네트워킹 데이 3회차 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178703) | 대전관광공사 | K-Startup 사업공고 |
@@ -33,21 +27,27 @@ _자동 갱신: 2026-08-12 (KST)_
 | 2026-08-14 | [「2026 청년창업 지역정착 지원사업」 신규참여자 3차 추가모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178747) | 경상북도경제진흥원 | K-Startup 사업공고 |
 | 2026-08-14 | [2026년 『G-Bio Funding Lab』 경기 바이오스타트업 투자유치 역량강화 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178744) | (재)경기도경제과학진흥원 | K-Startup 사업공고 |
 | 2026-08-14 | [2026년 국토교통 중소벤처기업 투자유치설명회 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178729) | 국토교통과학기술진흥원 | K-Startup 사업공고 |
+| 2026-08-14 | [『춘천시 1인 창조기업 지원센터 입주기업 모집 』공고 (9월)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178720) | 공고 기업(기관)명 : 춘천시1인창조기업지원센터 | K-Startup 사업공고 |
+| 2026-08-14 | [2026년 특허출원·등록 비용 바우처 지원사업 10차(하반기 3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178716) | (사)한국중소기업발전협회 | K-Startup 사업공고 |
+| 2026-08-14 | [기술창업 성장패키지 지원 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178684) | (재)광주테크노파크 | K-Startup 사업공고 |
+| 2026-08-14 | [2026년 제1회 테크플러스 스테이지 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178683) | (재)광주테크노파크 | K-Startup 사업공고 |
+| 2026-08-14 | [[투자 및 TIPS 추천] 한림대학교 Station C 연계 창업기업 투자·육성 지원 프로그램 참가 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178682) | 한국바이오투자파트너스 | K-Startup 사업공고 |
+| 2026-08-14 | [2026년 창업 준비 아카데미 [원석 발굴 창업캠프 1차] 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178808) | 광운대학교 NCI창업패키지사업단 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-11 | [설계에서 검증까지 AI가 맡는다…지멘스 EDA의 ‘AI-Native Design’](https://www.venturesquare.net/1105293/) | 벤처스퀘어 |
-| 2026-08-11 | [K-브랜드 틱톡샵, 입점부터 크리에이터 매칭까지…바이버스 공식 파트너 선정](https://www.venturesquare.net/1105306/) | 벤처스퀘어 |
-| 2026-08-11 | [매출 23% 늘고 영업손실 31% 줄었다…루닛, 상반기 458억원](https://www.venturesquare.net/1105309/) | 벤처스퀘어 |
-| 2026-08-11 | [엑셀은 버겁고 SI는 비싸다…바틀, 맞춤 ERP 990만원 정찰제 제시](https://www.venturesquare.net/1105316/) | 벤처스퀘어 |
-| 2026-08-11 | [세포주 분석·NGS, 싱가포르 한곳에서…머크, 아태 바이오안전성 시험 강화](https://www.venturesquare.net/1105328/) | 벤처스퀘어 |
-| 2026-08-11 | [제주 당일배송 데이터로 수요·경로 예측…잇뉴, 시드투자 1억원 유치](https://www.venturesquare.net/1105335/) | 벤처스퀘어 |
-| 2026-08-11 | [전국 매장서 쌓은 DX 경험, LA로…디토닉 북미 리테일 첫발](https://www.venturesquare.net/1105338/) | 벤처스퀘어 |
-| 2026-08-11 | [가려움증·피부투과 기술, 일본서 PoC 기회…서울바이오허브 2개사 모집](https://www.venturesquare.net/1105345/) | 벤처스퀘어 |
-| 2026-08-11 | [차단기·정산기 없는 소형 주차장…케이지페이먼츠, AI 활용지원 선정](https://www.venturesquare.net/1105355/) | 벤처스퀘어 |
-| 2026-08-11 | [700만명이 2억9000만번 탔다…지쿠, 창립 9년 이동 데이터 공개](https://www.venturesquare.net/1105362/) | 벤처스퀘어 |
+| 2026-08-13 | [1년치 최대 매출을 반년 만에 넘었다…한국정보공학, 상반기 2,336억원](https://www.venturesquare.net/1105735/) | 벤처스퀘어 |
+| 2026-08-13 | [5개월 전 늘린 주식 다시 절반으로…파라택시스이더리움, 2대1 액면병합](https://www.venturesquare.net/1105746/) | 벤처스퀘어 |
+| 2026-08-13 | [화보도 공항 출국길도 사진 한 장으로…미브, K-POP 스타일 한·일 출시](https://www.venturesquare.net/1105752/) | 벤처스퀘어 |
+| 2026-08-13 | [‘반복해서 선택한 이유’를 다시 상품으로…와디즈 에디션 23억원 펀딩](https://www.venturesquare.net/1105760/) | 벤처스퀘어 |
+| 2026-08-13 | [쇼핑의 첫 질문, 검색창 대신 AI로…국내 기업 48% 상품 데이터 제공한다](https://www.venturesquare.net/1105763/) | 벤처스퀘어 |
+| 2026-08-13 | [공장마다 새로 짜던 로봇 자동화, ‘레고식 모듈’로 바꾼 브릴스…코스닥 도전](https://www.venturesquare.net/1105774/) | 벤처스퀘어 |
+| 2026-08-13 | [여행은 출국 전에 시작된다…틴더, 성수에 ‘패스포트 라운지’ 연다](https://www.venturesquare.net/1105777/) | 벤처스퀘어 |
+| 2026-08-13 | [뉴스레터에 쌓이는 고객 데이터, 국제표준으로 관리한다…스티비, 클라우드 보안 인증 3종 확보](https://www.venturesquare.net/1105786/) | 벤처스퀘어 |
+| 2026-08-13 | [181만건 국민 의견 처리한 ‘헬프나우’…베스핀글로벌, 공공 조달 문턱 낮췄다](https://www.venturesquare.net/1105797/) | 벤처스퀘어 |
+| 2026-08-13 | [GPU보다 중요한 것은 ‘통제권’…오케스트로, 도시 단위 소버린 AI 설계한다](https://www.venturesquare.net/1105800/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
