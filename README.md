@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-13 (KST)_
+_자동 갱신: 2026-08-14 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-13 | [2026년 8월 동네창업학교 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178742) | 충남신용보증재단 | K-Startup 사업공고 |
-| 2026-08-13 | [앤틀러코리아 ANTLER FORGE 소개 웨비나 | 팀 당 6억원 규모 투자](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178725) | 앤틀러코리아 | K-Startup 사업공고 |
-| 2026-08-13 | [[대전관광공사] 2026 대전세종 관광기업 네트워킹 데이 3회차 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178703) | 대전관광공사 | K-Startup 사업공고 |
-| 2026-08-13 | [2026 시흥시 스타트업 통합 IR DAY](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178680) | (주)엔슬파트너스 | K-Startup 사업공고 |
-| 2026-08-13 | [[2026년 G-Space 창업기업 홍보 콘텐츠 제작 지원사업] 창업기업 모집연장공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178667) | (재)경남창조경제혁신센터 대표이사 | K-Startup 사업공고 |
-| 2026-08-13 | [(재)여성기업종합지원센터 인천센터 2026년 제1차 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178665) | (재)여성기업종합지원센터 인천센터 | K-Startup 사업공고 |
-| 2026-08-13 | [여성 1인 창조기업 지원센터 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178643) | (사)한국여성벤처협회 여성특화 1인 창조기업지원 센터장 | K-Startup 사업공고 |
-| 2026-08-13 | [2026년 재도전성공패키지 충청·강원권 커뮤니티 데이](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178814) | 주식회사 알파브라더스 | K-Startup 사업공고 |
 | 2026-08-14 | [[2026-063호] 2026년 정보보호 기업육성(사업화) 지원사업 모집공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1989) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
 | 2026-08-14 | [[2026-064호] 세종 지역특화산업 기업 정보보호 신규 비즈니스 모델 전략 수립 지원기업 모집공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1990) | (재)세종테크노파크 | 세종테크노파크 사업공고 |
 | 2026-08-14 | [연구개발특구진흥재단 X HS효성/효성 2026년 오픈이노베이션 배치프로그램 참가기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178764) | 주식회사 베타랩 | K-Startup 사업공고 |
@@ -33,21 +25,29 @@ _자동 갱신: 2026-08-13 (KST)_
 | 2026-08-14 | [2026년 제1회 테크플러스 스테이지 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178683) | (재)광주테크노파크 | K-Startup 사업공고 |
 | 2026-08-14 | [[투자 및 TIPS 추천] 한림대학교 Station C 연계 창업기업 투자·육성 지원 프로그램 참가 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178682) | 한국바이오투자파트너스 | K-Startup 사업공고 |
 | 2026-08-14 | [2026년 창업 준비 아카데미 [원석 발굴 창업캠프 1차] 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178808) | 광운대학교 NCI창업패키지사업단 | K-Startup 사업공고 |
+| 2026-08-14 | [2026년 서울지식재산센터 IP디딤돌 IP창업존 32기 교육생 모집(2026년 1차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178793) | 재단법인 서울경제진흥원 | K-Startup 사업공고 |
+| 2026-08-14 | [로보어드바이저(RA) 신규 알고리즘 발굴 사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178787) | 키움증권 | K-Startup 사업공고 |
+| 2026-08-14 | [충북대학교 『글로벌(G)테크벤처센터』연구소기업 참여희망 기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178777) | 충북대학교 글로벌(G)테크벤처센터 | K-Startup 사업공고 |
+| 2026-08-14 | [하반기「스타트업 점프업 스쿨」 기술창업교육 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178761) | 성남산업진흥원 | K-Startup 사업공고 |
+| 2026-08-14 | [(재)여성기업종합지원센터 제주센터 제2차 입주기업 모집 연장 공고(~8/14)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178832) | (재)여성기업종합지원센터 제주센 | K-Startup 사업공고 |
+| 2026-08-16 | [[혁신창업캠프]청년 창업자를 위한 창업 인사이트 캠프](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178752) | 관악구청 | K-Startup 사업공고 |
+| 2026-08-16 | [26년 8월 스타트업 언론 홍보 지원사업 참가사 모집 공고(1차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178759) | 스타트업 데일리 | K-Startup 사업공고 |
+| 2026-08-16 | [2026년 AWS X AI 실무 프로젝트 아카데미 교육생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178842) | 인천대학교 창업지원단 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-13 | [1년치 최대 매출을 반년 만에 넘었다…한국정보공학, 상반기 2,336억원](https://www.venturesquare.net/1105735/) | 벤처스퀘어 |
-| 2026-08-13 | [5개월 전 늘린 주식 다시 절반으로…파라택시스이더리움, 2대1 액면병합](https://www.venturesquare.net/1105746/) | 벤처스퀘어 |
-| 2026-08-13 | [화보도 공항 출국길도 사진 한 장으로…미브, K-POP 스타일 한·일 출시](https://www.venturesquare.net/1105752/) | 벤처스퀘어 |
-| 2026-08-13 | [‘반복해서 선택한 이유’를 다시 상품으로…와디즈 에디션 23억원 펀딩](https://www.venturesquare.net/1105760/) | 벤처스퀘어 |
-| 2026-08-13 | [쇼핑의 첫 질문, 검색창 대신 AI로…국내 기업 48% 상품 데이터 제공한다](https://www.venturesquare.net/1105763/) | 벤처스퀘어 |
-| 2026-08-13 | [공장마다 새로 짜던 로봇 자동화, ‘레고식 모듈’로 바꾼 브릴스…코스닥 도전](https://www.venturesquare.net/1105774/) | 벤처스퀘어 |
-| 2026-08-13 | [여행은 출국 전에 시작된다…틴더, 성수에 ‘패스포트 라운지’ 연다](https://www.venturesquare.net/1105777/) | 벤처스퀘어 |
-| 2026-08-13 | [뉴스레터에 쌓이는 고객 데이터, 국제표준으로 관리한다…스티비, 클라우드 보안 인증 3종 확보](https://www.venturesquare.net/1105786/) | 벤처스퀘어 |
-| 2026-08-13 | [181만건 국민 의견 처리한 ‘헬프나우’…베스핀글로벌, 공공 조달 문턱 낮췄다](https://www.venturesquare.net/1105797/) | 벤처스퀘어 |
-| 2026-08-13 | [GPU보다 중요한 것은 ‘통제권’…오케스트로, 도시 단위 소버린 AI 설계한다](https://www.venturesquare.net/1105800/) | 벤처스퀘어 |
+| 2026-08-13 | [투자받고 더 막막한 6~18개월…KAIST, 바이오벤처 ‘성장 공백’ 메운다](https://www.venturesquare.net/1105997/) | 벤처스퀘어 |
+| 2026-08-13 | [AI가 먼저 만들고 사람은 검수…스팩스페이스, 생산성 6.5배 성과로 ‘서비스 AI 리더상’ 수상](https://www.venturesquare.net/1106008/) | 벤처스퀘어 |
+| 2026-08-13 | [전세·월세 다음은 ‘단기임대’…삼삼엠투가 읽은 주거의 변화](https://www.venturesquare.net/1106011/) | 벤처스퀘어 |
+| 2026-08-13 | [상반기 877억원 새 기록…디케이앤디, 합성피혁 다음은 ‘로봇 스킨’](https://www.venturesquare.net/1106021/) | 벤처스퀘어 |
+| 2026-08-13 | [“스타트업 성장의 병목은 어디에 있을까”…스케일업스쿼드 박승표 대표가 300개 프로젝트에서 찾은 답](https://www.venturesquare.net/1100238/) | 벤처스퀘어 |
+| 2026-08-13 | [연기금·기업 자금 1조원 벤처펀드로…‘LP성장펀드’가 출범한다](https://www.venturesquare.net/1106039/) | 벤처스퀘어 |
+| 2026-08-13 | [진주 스타트업 10곳, 투자자 앞에 선다…IR부터 후속 상담까지 잇는다](https://www.venturesquare.net/1106045/) | 벤처스퀘어 |
+| 2026-08-13 | [투자 뒤 사업까지 함께 만든다…그랜드벤처스, 증자 마치고 2기 투자 나선다](https://www.venturesquare.net/1106048/) | 벤처스퀘어 |
+| 2026-08-13 | [입점부터 도쿄 팝업·금융까지 묶는다…K뷰티 8곳의 일본 데뷔를 돕는다](https://www.venturesquare.net/1106051/) | 벤처스퀘어 |
+| 2026-08-13 | [AI는 어떤 브랜드를 답으로 고를까…박세용 대표, ‘브랜드, AI의 언어로 말하라’ 출간](https://www.venturesquare.net/1106082/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
