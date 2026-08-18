@@ -7,21 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-17 (KST)_
+_자동 갱신: 2026-08-18 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-17 | [한계를 뛰어넘는 연구와 기술에 투자하다 hosted by ARIA × Antler Korea 밋업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178730) | 앤틀러코리아 | K-Startup 사업공고 |
-| 2026-08-17 | [2027 서울관광플라자 신규 입주 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178711) | 서울관광재단 | K-Startup 사업공고 |
-| 2026-08-17 | [2026년 SaaS 전환지원센터xAWS SaaS 현대화 교육 2회차 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178782) | 정보통신산업진흥원, SaaS 전환지원센터 | K-Startup 사업공고 |
-| 2026-08-17 | [2026년 창업혁신공간(동부권) 하남시 스타트업 발굴 및 육성 지원사업 &apos;이루다+&apos; 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178757) | 경기도경제과학진흥원 | K-Startup 사업공고 |
-| 2026-08-17 | [[네스토리움] AI시대, 예비·초기창업기업 생존전략 세미나](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178822) | 네스토리움 주식회사 | K-Startup 사업공고 |
-| 2026-08-17 | [「2026년 대구콘텐츠기업지원센터 기업 경영 상담 프로그램(2차)」 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178876) | (재)대구디지털혁신진흥원 | K-Startup 사업공고 |
-| 2026-08-17 | [2026 주력산업분야 창업기업 스케일업 사업화지원](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178874) | 선문대학교 창업보육센터 | K-Startup 사업공고 |
-| 2026-08-17 | [2026 서울창업허브 공덕 8월 허브아워 - 투자, 보증, 공공데이터](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178866) | (재)서울경제진흥원 | K-Startup 사업공고 |
-| 2026-08-17 | [2026년 서울창업허브 창동-조이시티 오픈이노베이션 참가기업 추가모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178855) | 서울창업허브 창동 | K-Startup 사업공고 |
 | 2026-08-18 | [2026년 웰컴 투 팁스 1차 참가기업 모집 (충청권)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178845) | (주)로우파트너스 | K-Startup 사업공고 |
 | 2026-08-18 | [2026년 성남시 폴란드 방산 시장개척단 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178812) | 성남산업진흥원 | K-Startup 사업공고 |
 | 2026-08-18 | [중앙대-금천구 창업 협력공간(창업교육스튜디오) 입주자 모집 공고(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178807) | 중앙대학교 산학협력단 | K-Startup 사업공고 |
@@ -33,21 +24,30 @@ _자동 갱신: 2026-08-17 (KST)_
 | 2026-08-18 | [[모집기간연장] 제11회 소상공인 쇼케이스데이 참가기업 모집 (소상공인 투지유치 연계 & 판로확대 지원)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178869) | 재단법인 중소상공인희망재단  | K-Startup 사업공고 |
 | 2026-08-18 | [[경과원X메가존] AWS AI-DLC 기반 원데이 워크숍](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178865) | 경기도경제과학진흥원 | K-Startup 사업공고 |
 | 2026-08-18 | [2026 관광기업 베트남 오픈 이노베이션 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178862) | 한국관광공사  | K-Startup 사업공고 |
+| 2026-08-18 | [2026년 경기스타트업플랫폼 온라인 밋업위크(3차) 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178809) | 경기도경제과학진흥원 | K-Startup 사업공고 |
+| 2026-08-19 | [[글로벌] 2026 BIOHEALTH GLOBAL BRIDGE : JOHNS HOPKINS / HIKMA 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178743) | 서울창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-08-19 | [2026년 여성CEO 비즈니스 아카데미 서울권역 시즌 2](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178741) | 한국여성경제인협회 | K-Startup 사업공고 |
+| 2026-08-19 | [2026년 제3차 창업지원센터 입주기업 모집공고(~8/19, 수 16시까지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178708) | 용인시산업진흥원 | K-Startup 사업공고 |
+| 2026-08-19 | [[서초창업스테이션] 서리풀 소상공인 창업 클리닉(8월) - 소상공인 1:1 컨설팅](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178690) | 서초창업스테이션 | K-Startup 사업공고 |
+| 2026-08-19 | [경기 서부권 기술사업화 세미나](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178670) | 가톨릭대학교 | K-Startup 사업공고 |
+| 2026-08-19 | [구로구 청년창업지원센터 일반 창업교육(반기: 1회차): 정부지원사업 효율적인 활용 방법](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178769) | 구로구 청년창업지원센터 | K-Startup 사업공고 |
+| 2026-08-19 | [Se7en on the table 전문가 멘토링 프로그램 참가기업 모집 (~08.19)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178837) | 서강대학교 판교캠퍼스사업단 | K-Startup 사업공고 |
+| 2026-08-19 | [「2026년 로봇 기반 공간컴퓨팅 창업지원사업」예비창업자(팀) 모집 추가공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178833) | (재)대구테크노파크 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-16 | [92명→37명, 큐마켓→B2B SaaS…애즈위메이크가 꺼낸 정상화 카드](https://www.venturesquare.net/1106403/) | 벤처스퀘어 |
-| 2026-08-16 | [“반품은 비용이 아니라 자산”…윤대건 리터놀 대표가 다시 본 211조 시장](https://www.venturesquare.net/1096880/) | 벤처스퀘어 |
-| 2026-08-17 | [칫솔에 개월 수를 새겼더니…’월간칫솔’ 덴티넘이 브랜드를 만드는 법](https://www.venturesquare.net/1106420/) | 벤처스퀘어 |
-| 2026-08-15 | [스트리밍 음원을 소장형 IP로…뮤직카우가 지효X센시아 협업곡을 실물 앨범으로 만든다](https://www.venturesquare.net/1106377/) | 벤처스퀘어 |
-| 2026-08-15 | [해외 진단 매출 69% 차지…쓰리빌리언이 영업손실률을 31%포인트 낮췄다](https://www.venturesquare.net/1106382/) | 벤처스퀘어 |
-| 2026-08-15 | [제품 인증만 챙겼다면 늦었다…EU 수출 스타트업의 새 복병 ‘PPWR’](https://www.venturesquare.net/1106373/) | 벤처스퀘어 |
-| 2026-08-15 | [“급식카드가 아이를 위축시키지 않게”…김하연 나눔비타민 대표가 짠 복지 설계도](https://www.venturesquare.net/1092202/) | 벤처스퀘어 |
-| 2026-08-15 | [인천 첨단기업에 1500억원 보증 공급…기보·인천시·하나은행이 금융 문턱을 낮춘다](https://www.venturesquare.net/1106406/) | 벤처스퀘어 |
-| 2026-08-14 | [[김지현의 Scale-Up Note] 스케일업은 매출구조를 이해하는 데서 시작한다](https://www.venturesquare.net/1106183/) | 벤처스퀘어 |
-| 2026-08-14 | [중기부 글로벌 팁스 선정 레티널, AI 글래스 광학 모듈 두께 53% 줄인다](https://www.venturesquare.net/1106191/) | 벤처스퀘어 |
+| 2026-08-17 | [싸이월드 170억 건 데이터 복원한다는데…김호광 전 대표 “서버부터 확인해야”](https://www.venturesquare.net/1106460/) | 벤처스퀘어 |
+| 2026-08-17 | [밤 10시 주문·냉장고 안 배송이 거래를 키웠다…미트박스글로벌, 상반기 매출 797억원](https://www.venturesquare.net/1106498/) | 벤처스퀘어 |
+| 2026-08-17 | [드론을 띄우지 않고 출고 품질을 검사한다…위플로, 미국서 DRQC 시연](https://www.venturesquare.net/1106507/) | 벤처스퀘어 |
+| 2026-08-17 | [부츠·매닝스·올리브영 30년 경험을 화장품으로…달글로우인서울, 파리서 첫 시장 검증](https://www.venturesquare.net/1106511/) | 벤처스퀘어 |
+| 2026-08-17 | [핀버로 “대출 아닌 매출로 자금 조달”… 퍼스트밸류 송봉호 대표가 증명한 금융 해법](https://www.venturesquare.net/1106483/) | 벤처스퀘어 |
+| 2026-08-17 | [딥파인, 100억원 시리즈B 유치…현장별 AI 구축을 반복 매출 플랫폼으로 전환한다](https://www.venturesquare.net/1106541/) | 벤처스퀘어 |
+| 2026-08-17 | [소재부터 직접 개발한 몰든, 누적 매출 90억원…더벤처스 ‘오블리뷰’에 시드 투자](https://www.venturesquare.net/1106544/) | 벤처스퀘어 |
+| 2026-08-17 | [AI 에이전트가 매출 42%…와이즈넛, 상반기 적자 절반 줄였다](https://www.venturesquare.net/1106556/) | 벤처스퀘어 |
+| 2026-08-17 | [3,300시간 무인 주행, 거래소 심사대로…라이드플럭스 코스닥 예심 청구](https://www.venturesquare.net/1106563/) | 벤처스퀘어 |
+| 2026-08-18 | [위조상품에서 AI 사칭까지…마크비전 대형 고객 3배 늘었다](https://www.venturesquare.net/1106570/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
