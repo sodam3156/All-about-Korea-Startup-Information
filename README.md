@@ -7,47 +7,47 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-21 (KST)_
+_자동 갱신: 2026-08-22 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-21 | [2026 KB스타터스 전문가 세미나](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178748) | 서울창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 재도전 아이디어 경진대회 참가자 모집 (~08.21)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178738) | (재)대전창조경제혁신센터  | K-Startup 사업공고 |
-| 2026-08-21 | [[창원산업진흥원] CES2027 참가기업 지원사업 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178679) | (재)창원산업진흥원장 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 전주 로컬브랜딩 아이디어 해커톤 참가팀 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178675) | 전주시지역소통협력센터 | K-Startup 사업공고 |
-| 2026-08-21 | [[숭실대학교 캠퍼스타운] 2026 숭실 스타트업 아카데미 8월 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178666) | 숭실대학교 캠퍼스타운사업단 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 28청춘창업소 액셀러레이팅 프로그램 전문가 멘토링 2차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178815) | 고양산업진흥원 | K-Startup 사업공고 |
-| 2026-08-21 | [2026 빅웨이브 글로벌(일본5차) - ILS2026 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178794) | 인천창조경제혁신센터 대표이사 | K-Startup 사업공고 |
-| 2026-08-21 | [중견기업 스타트업 동행라운지(참여 스타트업 모집)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178784) | 한국산업지능화협회  | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 하반기 DDP B the B(비더비) 뷰티테크·뷰티 디바이스 전시·체험 및 테스트베드 지원기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178775) | 재단법인 서울경제진흥원 | K-Startup 사업공고 |
-| 2026-08-21 | [[인천] 2026년 IP창업존 50기 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178767) | 인천지식재산센터 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 대전 스타트업 원스톱 지원센터 아카데미 1차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178838) | 대전창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-08-21 | [[2026년 지역창업페스티벌 연계] 2026 스타트업 코리아 투자위크(SIW) 투자사, 유관기관, 스타트업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178826) | 대전창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 초기창업패키지 로켓십 IR 경진대회 참가기업 모집 (1회차: AI·빅데이터)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178824) | 씨엔티테크(주) | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 기술기반 창업 스케일업 지원 액셀러레이팅 프로그램 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178819) | (주)티비즈 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 서울시 기후테크 3D프린팅 장비 활용 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178813) | 서울기후테크산업지원센터장 | K-Startup 사업공고 |
-| 2026-08-21 | [제10회 소셜벤처 혁신경연대회 참여기업 모집 (~8/21 16:00)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178811) | (주)엠와이소셜컴퍼니 | K-Startup 사업공고 |
-| 2026-08-21 | [강남구 개포동지역 ㈜오피스허브 1인 창조기업 지원센터 입주기업 모집(1인실,2인실)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178877) | ㈜오피스허브 1인 창조기업 지원센터 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 창업 준비 아카데미 [원석 발굴 창업캠프 2차] 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178852) | 광운대학교 NCI창업패키지사업단 | K-Startup 사업공고 |
-| 2026-08-21 | [2026년 남동발전 창업·Start-UP 서포터스 지원사업 참가기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178836) | (재)경남창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-08-21 | [성남 기후테크 UpSkill 아카데미 Vol.1 - 기후테크 시장 현황과 투자트렌드](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178882) | 도시혁신그룹 무브먼트 주식회사 | K-Startup 사업공고 |
+| 2026-08-22 | [FIX 이노베이션 어워즈 프로그램 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178651) | (주)엑스코 FIX 사무국 | K-Startup 사업공고 |
+| 2026-08-23 | ['스타트업 SEO 마케팅 전략' 비대면 교육 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178704) | 서울핀테크랩 | K-Startup 사업공고 |
+| 2026-08-23 | [서대문구-서울시립대학교 창업지원센터 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178697) | 서울시립대학교 창업보육센터장 | K-Startup 사업공고 |
+| 2026-08-23 | [KAC 한국공항공사 창업 인큐베이팅 프로그램 참여자를 모집합니다. - "CRAFT YOUR RUNWAY!"](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178830) | 한국공항공사 | K-Startup 사업공고 |
+| 2026-08-23 | [예비 중장년 기업의 사업계획 기반의 생성형AI활용 및 바이브 코딩(초급)역량강화 교육(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178864) | 성북구 중장년 기술창업센터 | K-Startup 사업공고 |
+| 2026-08-24 | [2026년 모두의 창업 글로벌 프로그램 주관기관 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178779) | 중소벤처기업부 | K-Startup 사업공고 |
+| 2026-08-24 | [[서울과학기술대학교]SLA 3D프린터 장비교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178754) | 서울과학기술대학교 | K-Startup 사업공고 |
+| 2026-08-24 | [2026년 세종 스타트업 원스톱 지원센터 아카데미 2차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178726) | (주) 렛츠 | K-Startup 사업공고 |
+| 2026-08-24 | [『2026 오픈웨이브 with 한진』참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178796) | 재단법인 인천창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-08-24 | [2026년 구미시 스타트업 필드 3차 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178772) | 구미전자정보기술원 | K-Startup 사업공고 |
+| 2026-08-24 | [2026 강원권 LIPS 민간운영사 연합 INVESTOR DAY 8월 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178762) | (재)강원창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-08-24 | [2026 Startup for All Global(Silicon Valley) Program Public Announcement for Program Service Provider](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178848) | KISED Silicon Valley Office | K-Startup 사업공고 |
+| 2026-08-24 | [2026 한국관광공사 관광기업지원센터 관광기업 역량강화 3차 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178763) | 한국관광공사 관광기업지원센터(서울) | K-Startup 사업공고 |
+| 2026-08-24 | [2026년 강북창업지원센터 8월 창업교육 프로그램 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178904) | 강북청년창업마루 | K-Startup 사업공고 |
+| 2026-08-24 | [2026 아트코리아랩 AI+기술융합 오픈이노베이션(2차) 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178881) | 예술경영지원센터 | K-Startup 사업공고 |
+| 2026-08-25 | [[숭실대학교 캠퍼스타운] 2026 석·박사급 실험실 창업스쿨(유형1) 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178673) | 숭실대학교 캠퍼스타운사업단 | K-Startup 사업공고 |
+| 2026-08-25 | [2026년 대전 스타트업스쿨 스타트업 리딩클래스 (3회차 ㅣ ESG와 기후테크를 활용한 스타트업 투자유치 전략)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178820) | 대전창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-08-25 | [2026년 민간 산림복지 창업·성장 패키지 FOR:SEED [예비창업패키지] 2차 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178806) | 한국산림복지진흥원  | K-Startup 사업공고 |
+| 2026-08-25 | [Request for Proposals (RFP) for the 2026 Startup for All Global (New York) Program](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178847) | KISED | K-Startup 사업공고 |
+| 2026-08-25 | [2026년 2기 서울 AI 허브 멤버십 기업 모집 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178879) | 서울 AI 허브 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-20 | [인수 대신 새 법인으로 규제 문턱 넘었다…비트고코리아, 국내 VASP 수리](https://www.venturesquare.net/1107433/) | 벤처스퀘어 |
-| 2026-08-20 | [페이커가 에이블리 신입사원으로…T1 웹예능·한정 굿즈 동시 공개](https://www.venturesquare.net/1107438/) | 벤처스퀘어 |
-| 2026-08-20 | [에이블리 광고가 설치·구매로 이어졌나…에어브릿지, MMP 첫 연동](https://www.venturesquare.net/1107449/) | 벤처스퀘어 |
-| 2026-08-20 | [문서를 읽는 데서 업무를 끝내는 AI로…한국딥러닝, ‘무개입률’ 승부](https://www.venturesquare.net/1107456/) | 벤처스퀘어 |
-| 2026-08-20 | [볶음기·세척기·면삶기 한 화면에서…프리키친랩, LG전자·블루포인트 시드투자](https://www.venturesquare.net/1107463/) | 벤처스퀘어 |
-| 2026-08-20 | [소스코드 외부 전송 없이 AI 코딩…팀스파르타, ‘AI 서밋 서울 2026’서 AX 포트리스 공개](https://www.venturesquare.net/1107471/) | 벤처스퀘어 |
-| 2026-08-20 | [172억뷰 ‘아기상어’ 영상 속 소년, 솔로 아티스트로…첫 싱글 ‘WAVE’](https://www.venturesquare.net/1107479/) | 벤처스퀘어 |
-| 2026-08-20 | [계약서 서식·법률 용어 그대로…하비, 문서 번역 엔진으로 딥엘 채택](https://www.venturesquare.net/1107482/) | 벤처스퀘어 |
-| 2026-08-20 | [환급 먼저, 이용료는 나중…삼쩜삼 금액 변동 문의 60% 줄었다](https://www.venturesquare.net/1107493/) | 벤처스퀘어 |
-| 2026-08-20 | [문서 만들고 복지 신청 돕는 AI…제논, ‘모두의 제나’ 9월 출시](https://www.venturesquare.net/1107500/) | 벤처스퀘어 |
+| 2026-08-21 | [[AI 시대 리더의 대화법] AI가 만든 보고서에 판단이 없다면…리더가 건네야 할 4가지](https://www.venturesquare.net/1107676/) | 벤처스퀘어 |
+| 2026-08-21 | [AI 에이전트가 결제까지…더즌, 구글 클라우드·솔라나 해커톤 심사](https://www.venturesquare.net/1107711/) | 벤처스퀘어 |
+| 2026-08-21 | [로봇 아이돌부터 월드투어까지…갤럭시코퍼레이션, ‘GALAXY ROBOT PARK’서 피지컬 AI 로드맵 공개](https://www.venturesquare.net/1107719/) | 벤처스퀘어 |
+| 2026-08-22 | [민원 접수 전 위험도 예측…포티투마루, 화성시 도시데이터플랫폼 참여한다](https://www.venturesquare.net/1107736/) | 벤처스퀘어 |
+| 2026-08-22 | [도로의 실시간 변화를 읽는 지도…웨이즈원, LDM 기술 공개·정책지원 2027년까지](https://www.venturesquare.net/1107744/) | 벤처스퀘어 |
+| 2026-08-22 | [약국 데이터가 정책 연구로…비알피커넥트·의약품정책연구소 맞손](https://www.venturesquare.net/1107753/) | 벤처스퀘어 |
+| 2026-08-22 | [일본 도심형 캡슐호텔 국내 첫선…트윈미디어, ‘퍼스트 캐빈 명동’ 직판 기반 구축](https://www.venturesquare.net/1107756/) | 벤처스퀘어 |
+| 2026-08-22 | [물 위 태양광, 모듈별로 이상 감지…K-water 충주댐지사·커널로그 MLPE 실증](https://www.venturesquare.net/1107769/) | 벤처스퀘어 |
+| 2026-08-22 | [연구개발에서 생산까지 대전에…알테오젠, 둔곡에 2,532억 원 투자](https://www.venturesquare.net/1107777/) | 벤처스퀘어 |
+| 2026-08-22 | [배우 정준호, 제주의 비전 전한다…JDC 명예홍보대사 위촉](https://www.venturesquare.net/1107780/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
