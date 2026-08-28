@@ -7,25 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-08-28 (KST)_
+_자동 갱신: 2026-08-29 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-08-28 | [[2026-047호] 2026년 디지털 콘텐츠 산업 규제개혁 어드바이저 참여기업 모집 공고](https://sjtp.or.kr/bbs/board.php?bo_table=business01&wr_id=1972) | 정보통신산업진흥원 | 세종테크노파크 사업공고 |
-| 2026-08-28 | [2026년 2차 28청춘창업소 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178686) | 고양산업진흥원 | K-Startup 사업공고 |
-| 2026-08-28 | [2026 하반기 MARU 배치 스타트업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178676) | 재단법인 아산나눔재단 | K-Startup 사업공고 |
-| 2026-08-28 | [2026 경제계 주도 대국민 창업·육성 프로젝트 「더하기 창업」 참가팀 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178788) | 머스트액셀러레이터 | K-Startup 사업공고 |
-| 2026-08-28 | [2026년 이천시 청년창업지원센터 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178768) | 청강문화산업대학교 산학협력단 | K-Startup 사업공고 |
-| 2026-08-28 | [2026 대전 팁스타운 제2차 팁스 링크 일본 파트너 초청 상담회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178892) | 창업진흥원 | K-Startup 사업공고 |
-| 2026-08-28 | [『2026년 서울바이오허브- (일본 제약기업) 마루호 오픈이노베이션 프로그램』참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178849) | 서울바이오허브 | K-Startup 사업공고 |
-| 2026-08-28 | [일본 오사카(간사이) 지역 진출 지원사업 Plug in: Osaka #12 참가 스타트업 모집(~8/28 17:59까지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178920) | (재)부산창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-08-28 | [초도물량 양산 패키지 수혜기업 모집(~8/28)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178919) | 경북대학교 스타트업지원센터장 | K-Startup 사업공고 |
-| 2026-08-28 | [제품 런칭 패키지 수혜기업 모집(~8/28)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178918) | 경북대학교 스타트업지원센터장 | K-Startup 사업공고 |
-| 2026-08-28 | [2026년 대전 스타트업 원스톱 지원센터 아카데미 2회차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178860) | 대전창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-08-28 | [2026 AI 기반 소셜임팩트 기업 활성화 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178944) | ㈜포켓컴퍼니 | K-Startup 사업공고 |
-| 2026-08-28 | [2026년 한국지역난방공사 창업·벤처기업 지원사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179004) | 한국청년기업가정신재단 | K-Startup 사업공고 |
 | 2026-08-30 | [2026년 2nd S.Stage 개최 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178721) | 서울창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-08-30 | [2026 창업오디션, 고양IR데이 참가기업 추가모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178810) | 고양시장 | K-Startup 사업공고 |
 | 2026-08-30 | [2026년 판로확대 지원 참여 소상공인 모집(셀러허브)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178871) | 중소상공인희망재단 | K-Startup 사업공고 |
@@ -33,21 +20,34 @@ _자동 갱신: 2026-08-28 (KST)_
 | 2026-08-31 | [2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178745) | (주)엠비즈플래닛 산하 혁신기술경영인증지원센터 | K-Startup 사업공고 |
 | 2026-08-31 | [[국토교통부 x 물류산업진흥재단] 2026 물류상생 Meet-up 행사 기술기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178731) | 물류산업진흥재단 | K-Startup 사업공고 |
 | 2026-08-31 | [2026 대덕특구 딥테크 혁신성장 플랫폼(전략기술 발굴 및 매칭) (8/1 ~ 8/31)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178719) | 연구개발특구진흥재단 | K-Startup 사업공고 |
+| 2026-08-31 | [[KEA] IoT제품 개발 지원 및 빅데이터 분석 과제기획 수요기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178718) | 한국전자정보통신산업진흥회 | K-Startup 사업공고 |
+| 2026-08-31 | [(기간연장)[창업점검] 2026년 체육인 직업안정사업(창업열매) 참여자 추가 모집_(~8.31마감시)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178693) | 국민체육진흥공단 | K-Startup 사업공고 |
+| 2026-08-31 | [[무료 AI 역량강화 교육] 생성형 AI기반, 글로벌 마케팅 자동화 및 현지화 에이전트 구축과](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178672) | (주)글로벌창업연구소 | K-Startup 사업공고 |
+| 2026-08-31 | [2026 Nexus Connect 오픈이노베이션 밋업 데이](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178795) | (재)충남창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-08-31 | [충북대학교 『글로벌(G)테크벤처센터(BI) 』 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178781) | 충북대학교 글로벌(G)테크벤처센터 | K-Startup 사업공고 |
+| 2026-08-31 | [2026 협성대학교 창업보육센터 하반기 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178771) | 협성대학교 창업보육센터 | K-Startup 사업공고 |
+| 2026-08-31 | [해외진출 기업 대상 AI 통역 서비스 「아네스노트」 이용권 지원](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178765) | 주식회사 팀제로코드 | K-Startup 사업공고 |
+| 2026-08-31 | [2026년 스타 IR 데모데이 참여기업 모집공고(4차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178740) | 스타에셋파트너스 주식회사 | K-Startup 사업공고 |
+| 2026-08-31 | [제3회 K-ROBOTICS Startup CUP 참가팀 모집(~8/31 마감)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178841) | KAIST | K-Startup 사업공고 |
+| 2026-08-31 | [「민관협력 오픈이노베이션 지원」 '공공데이터 활용 지원' 창업기업 제안 협업 과제(Bottom-Up) 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178875) | 중소벤처기업부장관 | K-Startup 사업공고 |
+| 2026-08-31 | [「민관협력 오픈이노베이션 지원」'공공데이터 활용 지원' 공공기관 제안 협업 과제(Top-Down) 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178873) | 중소벤처기업 | K-Startup 사업공고 |
+| 2026-08-31 | [2026년 여성CEO 비즈니스 아카데미 호남권역 시즌 2](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178894) | 한국여성경제인협회 | K-Startup 사업공고 |
+| 2026-08-31 | [2026년 특허출원·등록 비용 바우처 지원사업 11차(하반기 4차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178870) | (사)한국중소기업발전협회 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-08-26 | [조선소 벽 타는 피지컬 AI…디든로보틱스, 포브스 아시아 유망기업 선정](https://www.venturesquare.net/1108879/) | 벤처스퀘어 |
-| 2026-08-27 | [미국 테크와 동남아 성장기업 잇는다…SBVA, 비전펀드 출신 2인 영입](https://www.venturesquare.net/1108892/) | 벤처스퀘어 |
-| 2026-08-27 | [지역의 자원을 서로 잇는다…경남 로컬기업 23곳 남해서 협업 모색](https://www.venturesquare.net/1108900/) | 벤처스퀘어 |
-| 2026-08-27 | [AI가 통역해도 영어는 더 중요해진다…스픽·암참이 짚은 글로벌 인재 전략](https://www.venturesquare.net/1108907/) | 벤처스퀘어 |
-| 2026-08-27 | [애니 보다가 미드로 갈아탄다…리얼클래스, 장르 칸막이 없앤 올인원 출시](https://www.venturesquare.net/1108917/) | 벤처스퀘어 |
-| 2026-08-27 | [찍어둔 흉부 X-ray로 골다공증 위험 찾는다…프로메디우스·대웅제약 전국 유통](https://www.venturesquare.net/1108931/) | 벤처스퀘어 |
-| 2026-08-27 | [한국서 18배 성장한 스노우플레이크…이제 AI가 ‘일하는 기업’ 만든다](https://www.venturesquare.net/1108964/) | 벤처스퀘어 |
-| 2026-08-27 | [분석은 하루→10분, 데이터 사용자는 6.5배…‘데이터 드라이버 어워드 2026’ 수상 기업은 달랐다](https://www.venturesquare.net/1108973/) | 벤처스퀘어 |
-| 2026-08-27 | [금융 AI, ‘무엇을 할 수 있나’에서 ‘어떻게 쓸까’로…AWS 파이낸셜 서비스 포럼 서울 2026](https://www.venturesquare.net/1108985/) | 벤처스퀘어 |
-| 2026-08-27 | [“금융 AI, PoC 넘어 AI 네이티브로”…AWS가 본 금융 AX의 다음 단계](https://www.venturesquare.net/1108997/) | 벤처스퀘어 |
+| 2026-08-27 | [닭갈비집 줄자로 재고 3D로 바꾼다…춘천기계공고 학생들 ‘가상 리모델링’](https://www.venturesquare.net/1109182/) | 벤처스퀘어 |
+| 2026-08-27 | [간판 바꾸고 매출도 움직였다…코카-콜라, 신흥시장 협업으로 에피 최고상 2연패](https://www.venturesquare.net/1109186/) | 벤처스퀘어 |
+| 2026-08-27 | [AI가 고르고 스테이블코인이 결제…두나무·비자, 미래 결제 모델 찾는다](https://www.venturesquare.net/1109193/) | 벤처스퀘어 |
+| 2026-08-27 | [장애 원인 찾는 데 4시간→30분…오케스트로, ‘고객 AX’ 앞서 내부부터 바꿨다](https://www.venturesquare.net/1109200/) | 벤처스퀘어 |
+| 2026-08-28 | [“이 도면, 법규에 맞나” AI가 계약서까지 대조…서치독, 팁스 선정](https://www.venturesquare.net/1109223/) | 벤처스퀘어 |
+| 2026-08-28 | [투자한 기술, 약 100명이 직접 써봤다…한국투자액셀러레이터의 ‘피지컬 AI 밸류업’](https://www.venturesquare.net/1109230/) | 벤처스퀘어 |
+| 2026-08-28 | [연 1,200조원 금융 인프라 들고 국경 밖으로…헥토파이낸셜, 아시아 핀테크 톱30](https://www.venturesquare.net/1109239/) | 벤처스퀘어 |
+| 2026-08-28 | [캠페인 생성·최적화에 AI 에이전트…더 트레이드 데스크, ‘코카이 주마’ 공개](https://www.venturesquare.net/1109242/) | 벤처스퀘어 |
+| 2026-08-28 | [유명 IP 없이 공인 매장 27곳…크릿벤처스, ‘스태커배틀’ 개발사 투자](https://www.venturesquare.net/1109260/) | 벤처스퀘어 |
+| 2026-08-28 | [‘1위 AI’ 클로드와 ‘1위 AI CRM’ 결합…세일즈포스·앤트로픽, ‘클로드포스’ 출범](https://www.venturesquare.net/1109267/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
