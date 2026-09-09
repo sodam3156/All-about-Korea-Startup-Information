@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-08 (KST)_
+_자동 갱신: 2026-09-09 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-08 | [[Try Everything 2026] 서울시 글로벌 창업행사 사전등록 신청](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178756) | 재단법인 서울경제진흥원 | K-Startup 사업공고 |
-| 2026-09-08 | [[SBS문화재단x한투AC] Media'X' challenge 2026 ｜ 총 5.2억원 상당 상금 및 크레딧 지급](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178863) | 한국투자액셀러레이터 | K-Startup 사업공고 |
-| 2026-09-08 | [2026년 하반기 D-테스트베드 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178949) | 한국핀테크지원센터 | K-Startup 사업공고 |
-| 2026-09-08 | [서울창업허브 공덕 x Saint Clair - 유럽 진출 토크 콘서트](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179026) | (재)서울경제진흥원 | K-Startup 사업공고 |
-| 2026-09-08 | [[강동구 청년해냄센터] 전문분야 창업멘토링 9월 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178999) | 강동구 청년해냄센터 | K-Startup 사업공고 |
-| 2026-09-08 | [2026 강원랜드 상생형 창업·벤처기업 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179044) | 한국생산성본부 | K-Startup 사업공고 |
-| 2026-09-08 | [청년창업 IR 경진대회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179101) | 달서구 청년창업지원센터 | K-Startup 사업공고 |
-| 2026-09-08 | [2026 경기 고양 MICE 연계 창업리그 참가자 모집 공고 (모집기간 연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179095) | (재)고양국제박람회재단 | K-Startup 사업공고 |
 | 2026-09-09 | [「민관협력 오픈이노베이션 지원」2026년 '규제자유특구 지원' 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178975) | 중소벤처기업부장관 | K-Startup 사업공고 |
 | 2026-09-09 | [2026년 WoW!메이커스 IR클리닉 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178992) | 수원대학교 WoW!메이커스 | K-Startup 사업공고 |
 | 2026-09-09 | [[경과원 X 노션] &apos;노션으로 만드는 스타트업 AI OS&apos; 특강 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179030) | 경기도경제과학진흥원 | K-Startup 사업공고 |
@@ -32,22 +24,30 @@ _자동 갱신: 2026-09-08 (KST)_
 | 2026-09-09 | [2026 서울 오픈이노베이션 인사이트 데이](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179028) | (주)마크앤컴퍼니 | K-Startup 사업공고 |
 | 2026-09-09 | [관악 마케팅 지원 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179076) | 관악구청 | K-Startup 사업공고 |
 | 2026-09-09 | [스타트업 자금조달 WEEK (투자) 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179074) | 서강대학교 판교캠퍼스사업단 | K-Startup 사업공고 |
+| 2026-09-09 | [2026 창업경진대회(IMPACT ON 강북 : 아이디어와 투자로 만드는 강북의 창업 무대) 관람객 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179165) | 강북청년창업마루 | K-Startup 사업공고 |
+| 2026-09-09 | [서울디자인런 2026 - 창업은 언제 혼자를 벗어나야 할까?](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179137) | (주)오픈놀 | K-Startup 사업공고 |
 | 2026-09-10 | [2026년 CAU Tech-Connecting Day [중앙대학교 기술세미나 및 기술상담회]](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178924) | 중앙대학교 창업보육센터(다빈치) | K-Startup 사업공고 |
+| 2026-09-10 | [2026 인도네시아 자카르타 할랄 식품전시회 지역 수출컨소시엄](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178984) | 성남산업진흥원 | K-Startup 사업공고 |
+| 2026-09-10 | [2026년 민간 산림복지 창업 아카데미[1차] 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179045) | 한국산림복지진흥원 | K-Startup 사업공고 |
+| 2026-09-10 | [2026년 대구 콘텐츠 스케일업 액셀러레이팅 프로그램 지원사업 참여기업 추가 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179039) | (재)대구디지털혁신진흥원 | K-Startup 사업공고 |
+| 2026-09-10 | [26년 AI·스마트전자제품 금형지원 기업모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179061) | 한국전자정보통신산업진흥회 | K-Startup 사업공고 |
+| 2026-09-10 | [홍콩 코스모프로프 미용 전시회(Cosmoprof Asia 2026) 서울 공동관 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179071) | 서울경제진흥원 | K-Startup 사업공고 |
+| 2026-09-10 | [2026년 서울창업센터 관악 관악S밸리 창업 페스티벌 &apos;창업 아이디어 경진대회&apos; 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179130) | 서울창업센터 관 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-09-07 | [불꽃이 뜨는 날, 사옥 문을 연다…에버스핀의 5년째 ‘고객 동행’](https://www.venturesquare.net/1111410/) | 벤처스퀘어 |
-| 2026-09-07 | [한 번의 후원이 10년 동행으로…SAP코리아·전인지, 2027년까지 파트너십 연장](https://www.venturesquare.net/1111430/) | 벤처스퀘어 |
-| 2026-09-07 | [원료부터 양극재까지 공급망 잇는다…코스모신소재, 피노에 150억 원 투자](https://www.venturesquare.net/1111433/) | 벤처스퀘어 |
-| 2026-09-07 | [기기 안에 들어간 AI, 모델 구조도 함께 노출된다…쿤텍·ETRI ‘선택적 보호’ 기술 개발](https://www.venturesquare.net/1111446/) | 벤처스퀘어 |
-| 2026-09-07 | [연구실 원천기술, 투자시장과 만난다…라플라스·ETRI 딥테크 6곳 피칭](https://www.venturesquare.net/1111449/) | 벤처스퀘어 |
-| 2026-09-07 | [북미 3곳 찍고 유럽 첫 고객…엠로 ‘케이던시아’, 에너지 공급망에 들어간다](https://www.venturesquare.net/1111460/) | 벤처스퀘어 |
-| 2026-09-07 | [AI 강국의 조건은 생태계 순환…스타트업얼라이언스, 국회에 12개 정책과제 제안](https://www.venturesquare.net/1111473/) | 벤처스퀘어 |
-| 2026-09-07 | [AI 말라리아 진단, 개별 병원 넘어 국가 체계로…노을 ‘마이랩’ 베냉 공공조달](https://www.venturesquare.net/1111478/) | 벤처스퀘어 |
-| 2026-09-07 | [CCTV부터 출입통제까지 한 화면에…버카다, 현대차 사옥서 AI 물리보안 시연](https://www.venturesquare.net/1111495/) | 벤처스퀘어 |
-| 2026-09-07 | [제주 스타트업 투자에서 바이오·우주로…JDC, 베트남과 미래산업 협력 논의](https://www.venturesquare.net/1111503/) | 벤처스퀘어 |
+| 2026-09-08 | [9,000원 항공권·2만9000원 호텔 타임딜…트립닷컴, ‘9.9 메가세일’](https://www.venturesquare.net/1111873/) | 벤처스퀘어 |
+| 2026-09-08 | [3D프린팅 인프라와 창업기업 잇는다…인천창경·재능대, 적층제조 생태계 협력](https://www.venturesquare.net/1111884/) | 벤처스퀘어 |
+| 2026-09-08 | [양자점 센서에 초정밀 광학 더한다…SDT·그린광학, 국산 SWIR 카메라 공동개발](https://www.venturesquare.net/1111887/) | 벤처스퀘어 |
+| 2026-09-08 | [CCTV가 위험 판단하고 보고서까지…모멘트큐브, 엔비디아 ‘엔업’ 선정](https://www.venturesquare.net/1111894/) | 벤처스퀘어 |
+| 2026-09-08 | [복지·세정·예산 잇는 공공 AI…메타빌드, AX 공급 영역 확장](https://www.venturesquare.net/1111906/) | 벤처스퀘어 |
+| 2026-09-08 | [‘옮긴 뒤’의 운영·비용까지…스마일샤크, AWS 마이그레이션 전략 공유](https://www.venturesquare.net/1111914/) | 벤처스퀘어 |
+| 2026-09-08 | [시험지 없이 영어 성장 추적…리딩앤, 학습과정 분석 ‘LISA’ 첫 적용](https://www.venturesquare.net/1111917/) | 벤처스퀘어 |
+| 2026-09-08 | [삼성전자가 택한 유럽 AI 주권…미스트랄, 30억 유로 시리즈 D 유치](https://www.venturesquare.net/1111928/) | 벤처스퀘어 |
+| 2026-09-08 | [코스모로보틱스, 보행재활 로봇 기술로 국무총리 표창](https://www.venturesquare.net/1111931/) | 벤처스퀘어 |
+| 2026-09-08 | [아이디어를 검증 가능한 사업으로…경남혁신센터, ‘GIFT BM PLUS’ 운영](https://www.venturesquare.net/1111942/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
