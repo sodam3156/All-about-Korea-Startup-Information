@@ -7,14 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-12 (KST)_
+_자동 갱신: 2026-09-13 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-12 | [<소셜벤처 프렙스쿨 14기> 사회연대경제기업 창업 육성 프로그램 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179091) | 유원대학교 충남 앵커사업단 | K-Startup 사업공고 |
-| 2026-09-12 | [모두의창업 지원서 작성법 특강 "모두의창업 지원서 작성포인트! 사례로 알려드립니다"](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179162) | 단국대학교 창업교육센터 | K-Startup 사업공고 |
 | 2026-09-13 | [2026년 부산 핀테크허브 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178945) | (사)글로벌핀테크산업진흥센터 | K-Startup 사업공고 |
 | 2026-09-13 | [중앙대-금천구 창업 협력공간(창업교육스튜디오) 입주자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179042) | 중앙대학교 산학협력단 | K-Startup 사업공고 |
 | 2026-09-13 | [중앙대-금천구 창업 협력공간(혁신지원거점센터) 입주자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179040) | 중앙대학교 산학협력단 | K-Startup 사업공고 |
@@ -33,21 +31,23 @@ _자동 갱신: 2026-09-12 (KST)_
 | 2026-09-14 | [2026년 제4차 국립공주대학교 창업보육센터 입주기업 모집 연장공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179097) | 국립공주대학교 산학협력 | K-Startup 사업공고 |
 | 2026-09-14 | [2026「판교 창업존」입주기업 및 투자사·협력기관 2차 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179084) | 경기창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-09-14 | [2026년 초기창업기업 마케팅 AX 지원 프로그램 「AD:START」 1기 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179079) | 이미지팩토리 | K-Startup 사업공고 |
+| 2026-09-14 | [[모집기간 연장] 2026 현대모비스 CSV 오픈 이노베이션 참여 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179159) | (주)엠와이소셜컴퍼니 | K-Startup 사업공고 |
+| 2026-09-14 | [SURF 2026 INCHEON (인천스타트업위크) 사전 등록 및 비즈니스 밋업 신청 오픈](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179156) | 인천창조경제혁신센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-09-12 | [340명에서 763명으로…비에이치아이, 일자리 으뜸기업·산업포장 겹경사](https://www.venturesquare.net/1112895/) | 벤처스퀘어 |
-| 2026-09-12 | [청년 채용 45%·정규직 90.4%…오토핸즈가 만든 ‘오래 일하는 일터’](https://www.venturesquare.net/1112906/) | 벤처스퀘어 |
-| 2026-09-12 | [마이크로RNA로 파킨슨병 읽는다…서울바이오허브·로슈진단, 제노헬릭스 선택](https://www.venturesquare.net/1112914/) | 벤처스퀘어 |
-| 2026-09-12 | [캐리어는 호텔로, 팬은 공연장으로…셀레트립·굿럭컴퍼니 맞손](https://www.venturesquare.net/1112917/) | 벤처스퀘어 |
-| 2026-09-12 | [수천 시간 영상도 한 문장으로 찾는다…트웰브랩스 마렝고, 베드록 첫 영상 모델](https://www.venturesquare.net/1112925/) | 벤처스퀘어 |
-| 2026-09-12 | [공부도 쇼핑도 AI에게 묻는다…10대 85%, 주 2회 이상 사용](https://www.venturesquare.net/1112933/) | 벤처스퀘어 |
-| 2026-09-12 | [1만 개 시나리오로 아기상어 AI 검증…셀렉트스타가 설계한 ‘안전한 콘텐츠’](https://www.venturesquare.net/1112941/) | 벤처스퀘어 |
-| 2026-09-12 | [약국에서 쌓은 10년, 구강케어 브랜드로…바이오루틱스 ‘오라코드’ 론칭](https://www.venturesquare.net/1112948/) | 벤처스퀘어 |
-| 2026-09-12 | [부산에서 일하고 로컬 비즈니스 만났다…부산창경, 일본 워케이션 22명 유치](https://www.venturesquare.net/1112960/) | 벤처스퀘어 |
-| 2026-09-12 | [경남 로컬 창업팀 7곳, 제주서 ‘지역자원 사업화’ 해법 찾았다](https://www.venturesquare.net/1112963/) | 벤처스퀘어 |
+| 2026-09-12 | [[기고] AI 시대 공공행정, 기술 도입에서 ‘현장 문제 해결’로…송석언 JDC 이사장](https://www.venturesquare.net/1112754/) | 벤처스퀘어 |
+| 2026-09-12 | [21개 문항으로 최근 6개월 살핀다…트로스트, 성인 ADHD 자가점검 출시](https://www.venturesquare.net/1113123/) | 벤처스퀘어 |
+| 2026-09-12 | [40개 세션, 2초 안에 언어 장벽 넘었다…엑스엘에이트, 트라이에브리싱 통번역](https://www.venturesquare.net/1113134/) | 벤처스퀘어 |
+| 2026-09-12 | [서울 AI 스타트업, 타이베이서 시장성 검증한다…양 도시 혁신거점 연결](https://www.venturesquare.net/1113141/) | 벤처스퀘어 |
+| 2026-09-12 | [말하고 더빙하고 영상 만든다…이스트소프트, 페르소에이아이 해외 판로 확장](https://www.venturesquare.net/1113144/) | 벤처스퀘어 |
+| 2026-09-12 | [브랜드의 말을 공간으로 옮기는 법…스위트스팟, 성수서 실무 세션 연다](https://www.venturesquare.net/1113157/) | 벤처스퀘어 |
+| 2026-09-12 | [담보 대신 기술력 본다…기보, 코스타리카형 기술금융 체계 구축](https://www.venturesquare.net/1113165/) | 벤처스퀘어 |
+| 2026-09-12 | [무상 서비스 거절하자 ‘별점 테러’…중기부·플랫폼 6개사 해법 논의](https://www.venturesquare.net/1113168/) | 벤처스퀘어 |
+| 2026-09-12 | [“기술 발견 넘어 세계로 보낸다”…서울, AI 스타트업 글로벌 성장판 키웠다](https://www.venturesquare.net/1113236/) | 벤처스퀘어 |
+| 2026-09-12 | [의정부의 문제, 스타트업이 푼다…경콘진 ‘로컬 스타트업 챌린지’ 10개사 선발](https://www.venturesquare.net/1113243/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
