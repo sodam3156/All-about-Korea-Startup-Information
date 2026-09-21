@@ -7,18 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-20 (KST)_
+_자동 갱신: 2026-09-21 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-20 | [[환경재단] 2027 어스샷 상 혁신 환경 솔루션 공모](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178997) | 환경재단 | K-Startup 사업공고 |
-| 2026-09-20 | [[숭실대학교 캠퍼스타운] 숭실대 캠퍼스타운 x 에네이 클라우드 AX전환 PBL과정 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179117) | 숭실대학교 캠퍼스타운사업단 | K-Startup 사업공고 |
-| 2026-09-20 | [2026년 서강비즈니스센터 입주기업 모집(~9/20)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179198) | 서강대학교 창업지원단 | K-Startup 사업공고 |
-| 2026-09-20 | [[고양시×스타필드 고양] 2026 고양 스타트업 팝업스토어 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179191) | 고양시장 | K-Startup 사업공고 |
-| 2026-09-20 | [2026년 과천시 지식정보타운 무상임대 입주기업(과천크리에이션타워) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179228) | 과천시 창업지원센터 | K-Startup 사업공고 |
-| 2026-09-20 | [2026년 과천시 지식정보타운 무상임대 입주기업(과천상상자이타워) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179227) | 과천시 창업지원센터 | K-Startup 사업공고 |
 | 2026-09-21 | [2026년 GovTech 창업경진대회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178968) | 정보통신산업진흥원 | K-Startup 사업공고 |
 | 2026-09-21 | [인천스타트업파크 부스트 스타트업 SCEWC 2026 참가기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179104) | (재)인천테크노파크 원장 | K-Startup 사업공고 |
 | 2026-09-21 | [2026 고양시 청년 창업가 네트워킹 및 선배 창업가 특강](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179185) | 고양산업진흥원 | K-Startup 사업공고 |
@@ -33,21 +27,27 @@ _자동 갱신: 2026-09-20 (KST)_
 | 2026-09-22 | [2026 광명시 기업박람회 (GM TECH EXPO 2026) 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179109) | 광명시청 | K-Startup 사업공고 |
 | 2026-09-22 | [2026 부산 창업기획자 전문인력 양성과정 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179069) | (재)부산기술창업투자원 | K-Startup 사업공고 |
 | 2026-09-22 | [[2026 SK임팩트부스터 데이] SK와 스타트업이 만드는 협력의 시작점, 9/22 SK임팩트부스터 데이에 초대합니다](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179166) | 마크앤컴퍼니 | K-Startup 사업공고 |
+| 2026-09-22 | [2026 한·독 바이오·헬스케어 온라인 사전 세미나](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179124) | 123 Factory | K-Startup 사업공고 |
+| 2026-09-22 | [2026년 스타트업 96 입주 예비창업자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179199) | (재)대전일자리경제진흥원장 | K-Startup 사업공고 |
+| 2026-09-22 | [2026년 튀르키예 이스탄불 식품 박람회 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179229) | 서울경제진흥원 | K-Startup 사업공고 |
+| 2026-09-22 | [[글로벌 인재] 2026 이공계 GKS 대학원생 산학프로젝트 및 인턴십 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179275) | 충남대학교 미래창업원 | K-Startup 사업공고 |
+| 2026-09-22 | [바이오스타 2.0 예비창업자 모집 공고 및 설명회 개최](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179256) | 한국과학기술연구원 | K-Startup 사업공고 |
+| 2026-09-23 | [[창업] 고객 경험(CX) 설계 실전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178956) | 마포청년창업취업지원센터 나루 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-09-19 | [창업은 캠퍼스에서, 성장은 시장에서…‘PARTNER CONNECT’가 만든 연결](https://www.venturesquare.net/1115285/) | 벤처스퀘어 |
-| 2026-09-20 | [모집 기간 줄었는데 9만명 몰렸다…‘모두의 창업’ 2차, 지역·청년 도전 커졌다](https://www.venturesquare.net/1115296/) | 벤처스퀘어 |
-| 2026-09-18 | [추석 차례상 19만6630원이라지만…어디서 무엇을 사느냐에 따라 달라진다](https://www.venturesquare.net/1115261/) | 벤처스퀘어 |
-| 2026-09-19 | [“한국 진은 왜 없나”…양평 부자(父子)가 빚은 진, 세계 무대에 서다](https://www.venturesquare.net/1115273/) | 벤처스퀘어 |
-| 2026-09-19 | [[AI 시대 리더의 대화법] 똑같이 말했는데 한 사람만 움직인다…리더가 먼저 확인할 두 가지](https://www.venturesquare.net/1115265/) | 벤처스퀘어 |
-| 2026-09-18 | [위얼라이브, 매출 2년 새 7.7배 성장…시리즈A 투자로 아시아 공연 IP 확장](https://www.venturesquare.net/1114983/) | 벤처스퀘어 |
-| 2026-09-18 | [AI스페라, 취약점 뜨면 영향받는 자산 AI가 찾는다…AITEM에 MS 파운드리 적용](https://www.venturesquare.net/1114991/) | 벤처스퀘어 |
-| 2026-09-18 | [카카오벤처스, AI 창업가 한곳에 모았다…템프서울 열고 상하이 빌더와 연결](https://www.venturesquare.net/1115005/) | 벤처스퀘어 |
-| 2026-09-18 | [로브로스, 휴머노이드 36대 생산·18대 판매…제조 AI 전환 성과로 산업부 장관 표창](https://www.venturesquare.net/1115015/) | 벤처스퀘어 |
-| 2026-09-18 | [오케스트로 클라우드·KT, AI 서비스부터 GPU·데이터센터까지 묶는다…5개 분야 공동 사업](https://www.venturesquare.net/1115018/) | 벤처스퀘어 |
+| 2026-09-20 | [“속도 늦추자”면서 데이터센터는 확대…AI 기업들의 엇갈린 셈법](https://www.venturesquare.net/1115306/) | 벤처스퀘어 |
+| 2026-09-20 | [[컬처슬로건 탐방기] 데이블 – AI 시대에 일 잘하는 방법](https://www.venturesquare.net/1115319/) | 벤처스퀘어 |
+| 2026-09-21 | [유이크, 피부 관리 뒤 무거운 크림 부담 줄였다…저점도 장벽 로션 출시](https://www.venturesquare.net/1115318/) | 벤처스퀘어 |
+| 2026-09-21 | [강북삼성병원·자이메드, 검진 때 찍은 의료영상 AI로 다시 본다…질환 위험 조기 선별 협력](https://www.venturesquare.net/1115331/) | 벤처스퀘어 |
+| 2026-09-21 | [스탠리, 2.3kg 체인톱부터 제설용 살포기까지…20V 정원공구 3종 출시](https://www.venturesquare.net/1115338/) | 벤처스퀘어 |
+| 2026-09-21 | [케어링, 추석에 부모님 냉장고·약봉투 살펴보세요…돌봄 징후 10가지 알린다](https://www.venturesquare.net/1115345/) | 벤처스퀘어 |
+| 2026-09-21 | [울산창조경제혁신센터, 청년 아이디어 12팀 실제 제품으로…로컬기업과 협업 기회 연다](https://www.venturesquare.net/1115360/) | 벤처스퀘어 |
+| 2026-09-21 | [펀진·육군교육사령부, AI로 미래 전투실험 고도화…무인체계·클라우드까지 협력](https://www.venturesquare.net/1115367/) | 벤처스퀘어 |
+| 2026-09-21 | [딥브레인AI, 고민 말하기 어려운 청소년에 AI 아바타 먼저…상담 연결 문턱 낮춘다](https://www.venturesquare.net/1115377/) | 벤처스퀘어 |
+| 2026-09-21 | [정보통신산업진흥원·한국엔젤투자협회, AICT 스타트업 국내외 진출 지원 협약](https://www.venturesquare.net/1115380/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
