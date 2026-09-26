@@ -7,15 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-25 (KST)_
+_자동 갱신: 2026-09-26 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-25 | [[국비지원] AI 기반 서비스 개발·사업화 1인 창업가 캠프 7기 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178831) | 넥스트러너스 주식회사 | K-Startup 사업공고 |
-| 2026-09-25 | [연구개발특구진흥재단 X 현대차증권 Corporate Venture Connect 오픈이노베이션 배치프로그램 참가기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179098) | 연구개발특구진흥재단 | K-Startup 사업공고 |
-| 2026-09-25 | [2026 천안 C-STAR Awards 기술/투자 상담회 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179163) | 주식회사 킹고스프링 | K-Startup 사업공고 |
 | 2026-09-26 | [앤틀러코리아 ANTLER INCEPTION 참여 기업 모집 | Build Money-making AI](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179189) | 앤틀러코리아 | K-Startup 사업공고 |
 | 2026-09-27 | [하드웨어 제조 고민, 현직 엔지니어가 1:1 무료 진단합니다.](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179112) | 인탑스(주) | K-Startup 사업공고 |
 | 2026-09-27 | [Midnight Korea Hackathon 2026 & Privacy Night 참가 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179179) | 서울핀테크랩 | K-Startup 사업공고 |
@@ -33,21 +30,24 @@ _자동 갱신: 2026-09-25 (KST)_
 | 2026-09-28 | [제7회 원주권 스타트업 커뮤니티 데이 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179273) | 상지대학교 벤처창업본부  | K-Startup 사업공고 |
 | 2026-09-29 | [2026 투자 유치 세미나 - 투자사 관점에서 보는 투자유치를 위한 실전 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179224) | 서울창업허브 창동 | K-Startup 사업공고 |
 | 2026-09-29 | [[인천] 2026년 IP창업존 51기 교육(모두의창업 연계과정) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179271) | 인천지식재산센터 | K-Startup 사업공고 |
+| 2026-09-29 | [「서울소셜벤처허브」2026년 ‘허브 멤버스’ 입주사 추가모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179270) | 서울소셜벤처허브 | K-Startup 사업공고 |
+| 2026-09-29 | [‘2026년 글로컬 창업사관학교 액셀러레이팅’ 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179308) | 국립순천대학교 창업지원단장국립순천대학교 창업지원단장 | K-Startup 사업공고 |
+| 2026-09-29 | [[창업BuS x Station C] 2026년 강원BRIDGE 배치프로그램 2차 창업기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179305) | 재단법인 강원창조경제혁신센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
+| 2026-09-25 | [케어젠, 25년 펩타이드 기술 다음은 siRNA…글로벌 파트너와 신제품 시장 확대 논의](https://www.venturesquare.net/1116211/) | 벤처스퀘어 |
+| 2026-09-25 | [패스트캠퍼스·마이라이트·콜로소·제베, 추석 연휴 ‘무료 체험’으로 남은 100일 자기계발](https://www.venturesquare.net/1116214/) | 벤처스퀘어 |
+| 2026-09-25 | [데일리페이, 추석 대목 정산 기다리지 않는다…컬리 스몰브랜드에 판매대금 바로 지급](https://www.venturesquare.net/1116224/) | 벤처스퀘어 |
+| 2026-09-25 | [플래티어, 금융 AI도 ‘답변’ 넘어 업무 실행으로…에이전틱 AI ‘엑스젠’ 공개](https://www.venturesquare.net/1116236/) | 벤처스퀘어 |
+| 2026-09-25 | [빅밸류, AI가 쓸 데이터부터 만든다…국가데이터처와 금융·방역 AX 논의](https://www.venturesquare.net/1116244/) | 벤처스퀘어 |
+| 2026-09-25 | [‘중소기업’ 문턱 낮춘다…지원 대상 넓히고 공공시장 3억5000만원까지](https://www.venturesquare.net/1116163/) | 벤처스퀘어 |
+| 2026-09-25 | [법무법인 임팩터스, 미국 진출은 법인 설립 전부터…뷰티·헬스케어 스타트업에 실무 전략 공유](https://www.venturesquare.net/1116257/) | 벤처스퀘어 |
+| 2026-09-26 | [‘착한 기업’에서 ‘성장 기업’으로…사회연대경제에 TIPS·투자·공공판로 붙인다](https://www.venturesquare.net/1116251/) | 벤처스퀘어 |
 | 2026-09-24 | [지쿠, 누적 이동 3억건 돌파…98%는 ‘5km 이하’ 생활 이동](https://www.venturesquare.net/1116042/) | 벤처스퀘어 |
 | 2026-09-24 | [경기창조경제혁신센터, K-스타트업 통합본선 22곳 중 7곳 배출…더에이스컴퍼니 최우수상](https://www.venturesquare.net/1116049/) | 벤처스퀘어 |
-| 2026-09-24 | [아스테로모프, 논문 찾던 AI가 가설 세우고 실험까지…‘Scientific AI’ 경쟁](https://www.venturesquare.net/1116062/) | 벤처스퀘어 |
-| 2026-09-24 | [파일러, 라이브 방송도 장면별로 읽는다…엔비디아 APAC AI 스타트업 Top 10](https://www.venturesquare.net/1116065/) | 벤처스퀘어 |
-| 2026-09-24 | [디캠프·한국무라타전자, K-딥테크 9곳 일본 기술과 연결…리피즈·오션스바이오 우수기업](https://www.venturesquare.net/1116068/) | 벤처스퀘어 |
-| 2026-09-24 | [리얼월드, 로봇 AI는 실험실보다 현장부터…산업 데이터로 ‘손재주’ 학습한다](https://www.venturesquare.net/1116079/) | 벤처스퀘어 |
-| 2026-09-24 | [다임리서치·KAIST·스카이인텔리전스, 로봇부터 공장 전체까지 잇는다…제조 피지컬 AI 협력](https://www.venturesquare.net/1116094/) | 벤처스퀘어 |
-| 2026-09-24 | [제주창조경제혁신센터 보육기업 푸른콩방주, 9422곳 경쟁 뚫고 전국 TOP 11](https://www.venturesquare.net/1116097/) | 벤처스퀘어 |
-| 2026-09-24 | [딥엑스, CES 2027서 ‘피지컬 AI’ 전면에…저전력 AI 반도체 상용화 사례 공개](https://www.venturesquare.net/1116106/) | 벤처스퀘어 |
-| 2026-09-24 | [부산창조경제혁신센터, 일본 진출 스타트업 6곳 찾는다…도쿄서 대기업·CVC 연결](https://www.venturesquare.net/1116109/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
