@@ -7,13 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-26 (KST)_
+_자동 갱신: 2026-09-27 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-26 | [앤틀러코리아 ANTLER INCEPTION 참여 기업 모집 | Build Money-making AI](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179189) | 앤틀러코리아 | K-Startup 사업공고 |
 | 2026-09-27 | [하드웨어 제조 고민, 현직 엔지니어가 1:1 무료 진단합니다.](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179112) | 인탑스(주) | K-Startup 사업공고 |
 | 2026-09-27 | [Midnight Korea Hackathon 2026 & Privacy Night 참가 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179179) | 서울핀테크랩 | K-Startup 사업공고 |
 | 2026-09-27 | [2026년 서경대학교 창업보육센터 입주기업 모집(3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179220) | 서경대학교 창업보육센터 | K-Startup 사업공고 |
@@ -33,11 +32,14 @@ _자동 갱신: 2026-09-26 (KST)_
 | 2026-09-29 | [「서울소셜벤처허브」2026년 ‘허브 멤버스’ 입주사 추가모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179270) | 서울소셜벤처허브 | K-Startup 사업공고 |
 | 2026-09-29 | [‘2026년 글로컬 창업사관학교 액셀러레이팅’ 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179308) | 국립순천대학교 창업지원단장국립순천대학교 창업지원단장 | K-Startup 사업공고 |
 | 2026-09-29 | [[창업BuS x Station C] 2026년 강원BRIDGE 배치프로그램 2차 창업기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179305) | 재단법인 강원창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-09-29 | [청년창업 거주지원시설(창업하여家) 입주자 3차 모집(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179292) | (재)광주테크노파크 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
+| 2026-09-26 | [수출은 좋아진다는데 왜 8개 품목은 흐릴까…4분기 수출의 두 얼굴](https://www.venturesquare.net/1116284/) | 벤처스퀘어 |
+| 2026-09-27 | [AI 데이터센터, 짓는 것보다 운영이 더 비싸다…2050년까지 31.6조달러 투입 전망](https://www.venturesquare.net/1116273/) | 벤처스퀘어 |
 | 2026-09-25 | [케어젠, 25년 펩타이드 기술 다음은 siRNA…글로벌 파트너와 신제품 시장 확대 논의](https://www.venturesquare.net/1116211/) | 벤처스퀘어 |
 | 2026-09-25 | [패스트캠퍼스·마이라이트·콜로소·제베, 추석 연휴 ‘무료 체험’으로 남은 100일 자기계발](https://www.venturesquare.net/1116214/) | 벤처스퀘어 |
 | 2026-09-25 | [데일리페이, 추석 대목 정산 기다리지 않는다…컬리 스몰브랜드에 판매대금 바로 지급](https://www.venturesquare.net/1116224/) | 벤처스퀘어 |
@@ -46,8 +48,6 @@ _자동 갱신: 2026-09-26 (KST)_
 | 2026-09-25 | [‘중소기업’ 문턱 낮춘다…지원 대상 넓히고 공공시장 3억5000만원까지](https://www.venturesquare.net/1116163/) | 벤처스퀘어 |
 | 2026-09-25 | [법무법인 임팩터스, 미국 진출은 법인 설립 전부터…뷰티·헬스케어 스타트업에 실무 전략 공유](https://www.venturesquare.net/1116257/) | 벤처스퀘어 |
 | 2026-09-26 | [‘착한 기업’에서 ‘성장 기업’으로…사회연대경제에 TIPS·투자·공공판로 붙인다](https://www.venturesquare.net/1116251/) | 벤처스퀘어 |
-| 2026-09-24 | [지쿠, 누적 이동 3억건 돌파…98%는 ‘5km 이하’ 생활 이동](https://www.venturesquare.net/1116042/) | 벤처스퀘어 |
-| 2026-09-24 | [경기창조경제혁신센터, K-스타트업 통합본선 22곳 중 7곳 배출…더에이스컴퍼니 최우수상](https://www.venturesquare.net/1116049/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
