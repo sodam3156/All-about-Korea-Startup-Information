@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-28 (KST)_
+_자동 갱신: 2026-09-29 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-28 | [[서초창업스테이션] 서리풀 소상공인 창업 클리닉(9월) - 소상공인 1:1 컨설팅](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179048) | 서초창업스테이션 | K-Startup 사업공고 |
-| 2026-09-28 | [[투자연계&사업화] 더인벤션랩 2026 엣지업 크리에이터스 4기 AX/LX Challenge 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179038) | 더인벤션랩 | K-Startup 사업공고 |
-| 2026-09-28 | [2026년 하반기 서울창업허브 성수 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179187) | 서울경제진흥원 | K-Startup 사업공고 |
-| 2026-09-28 | [2026년 강동 K-ISS멘토링센터 4차 교육 및 튜토링 과정 투자 유치 전략과 IR 피칭 스킬업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179180) | 주식회사 이노시아 | K-Startup 사업공고 |
-| 2026-09-28 | [2026년 대전 스타트업스쿨 스타트업 리딩클래스 (5회차 ㅣ 예비 및 초기창업자가 1년 안에 가장 후회하는 3가지)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179257) | 대전창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-09-28 | [연구개발특구진흥재단 × 대구창조경제혁신센터 「2026 이노폴리스 오픈이노베이션 밋업데이」참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179223) | 연구개발특구진흥재단 | K-Startup 사업공고 |
-| 2026-09-28 | [2026년 하반기 경기도여성창업보육센터 입주기업 모집 연장공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179289) | 경기도일자리재단 남부사업본부장 | K-Startup 사업공고 |
-| 2026-09-28 | [제7회 원주권 스타트업 커뮤니티 데이 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179273) | 상지대학교 벤처창업본부  | K-Startup 사업공고 |
 | 2026-09-29 | [2026 투자 유치 세미나 - 투자사 관점에서 보는 투자유치를 위한 실전 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179224) | 서울창업허브 창동 | K-Startup 사업공고 |
 | 2026-09-29 | [[인천] 2026년 IP창업존 51기 교육(모두의창업 연계과정) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179271) | 인천지식재산센터 | K-Startup 사업공고 |
 | 2026-09-29 | [「서울소셜벤처허브」2026년 ‘허브 멤버스’ 입주사 추가모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179270) | 서울소셜벤처허브 | K-Startup 사업공고 |
@@ -33,21 +25,29 @@ _자동 갱신: 2026-09-28 (KST)_
 | 2026-09-30 | [2026년 중소기업 동행교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178817) | 근로복지공단 인재개발원 | K-Startup 사업공고 |
 | 2026-09-30 | [취약분야 상시 컨설팅 9월 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178948) | 강동구 청년해냄센터 | K-Startup 사업공고 |
 | 2026-09-30 | [2026년 한국외대 창업보육센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179002) | 한국외국어대학교연구산학협력단 | K-Startup 사업공고 |
+| 2026-09-30 | [창업부트캠프 바이오큐브 17차 교육 신청 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179020) | 한국바이오협회 | K-Startup 사업공고 |
+| 2026-09-30 | [2026 대덕특구 딥테크 혁신성장 플랫폼(전략기술 발굴 및 매칭) (9/1 ~ 9/30)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179057) | 연구개발특구진흥재단 | K-Startup 사업공고 |
+| 2026-09-30 | [2026 벤처확인 인증준비기업 맞춤형 무료 진단 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179052) | (주)엠비즈플래닛 산하 혁신기술경영인증지원센터 | K-Startup 사업공고 |
+| 2026-09-30 | [국내 특허(IP) 보유기업 투자&사업화 스케일업 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179049) | (주)엠비즈플래닛 산하 혁신기술경영인증지원센터 | K-Startup 사업공고 |
+| 2026-09-30 | [해외진출 기업 대상 AI 통역 서비스 「아네스노트」 이용권 지원 (9월)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179047) | 주식회사 팀제로코드 | K-Startup 사업공고 |
+| 2026-09-30 | [2026년도 한국도로공사 청년 AI 스타트업 지원 시범사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179035) | 한국도로공사 | K-Startup 사업공고 |
+| 2026-09-30 | [[롯데장학재단]「2026년 제3회 신격호 롯데 청년기업가대상」모집공고 (~9/30)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179058) | 롯데장학재단 | K-Startup 사업공고 |
+| 2026-09-30 | [(창업공모전) 2026 여성벤처 성장 챌린지 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179105) | 한국여성벤처협회장 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-09-27 | [포시에스, 이름·서명란까지 AI가 알아서 만든다…전자서식 자동 완성 기술 특허](https://www.venturesquare.net/1116304/) | 벤처스퀘어 |
-| 2026-09-27 | [네이버클라우드, DB·서버 접속 한곳서 통제한다…개인정보 접근기록 자동 관리 ‘DSAC’ 출시](https://www.venturesquare.net/1116307/) | 벤처스퀘어 |
-| 2026-09-27 | [“버려지는 열로 습도 잡고 전력 56% 줄였다”…김보선 클레네어 대표가 바꾸는 산업용 공조](https://www.venturesquare.net/1113680/) | 벤처스퀘어 |
-| 2026-09-28 | [오케스트로, VM웨어 바꾼 뒤가 더 중요하다…장애 이력부터 물리망까지 추적](https://www.venturesquare.net/1116323/) | 벤처스퀘어 |
-| 2026-09-28 | [서울대기술지주, 엔비디아 밖에서도 로봇 AI 돌린다…바이스트라타 투자](https://www.venturesquare.net/1116329/) | 벤처스퀘어 |
-| 2026-09-28 | [제이앤피메디, FDA 제출 전부터 전략 짠다…의료기기 미국 진출 웨비나 2회 개최](https://www.venturesquare.net/1116341/) | 벤처스퀘어 |
-| 2026-09-28 | [부산창조경제혁신센터, 바운스 10주년…기업 25곳·투자사 30곳과 스타트업 연결](https://www.venturesquare.net/1116350/) | 벤처스퀘어 |
-| 2026-09-28 | [딥브레인AI, 상담 인력 부족한 중소기업에 AI 아바타 투입…4개 업종서 실증](https://www.venturesquare.net/1116353/) | 벤처스퀘어 |
-| 2026-09-28 | [극지연구소·콜즈다이나믹스, 빙하·해류·극한생물 데이터로 사업할 스타트업 찾는다](https://www.venturesquare.net/1116365/) | 벤처스퀘어 |
-| 2026-09-28 | [부산창경·AXMOS·NC AI, 부산 제조기업 데이터 밖으로 안 보낸다…현장형 AI 공동 개발](https://www.venturesquare.net/1116373/) | 벤처스퀘어 |
+| 2026-09-28 | [“양자컴퓨터, 한국에서 함께 만들겠다”…콴델라가 韓 제조업에 손 내민 이유](https://www.venturesquare.net/1116489/) | 벤처스퀘어 |
+| 2026-09-28 | [[VS기획] 화재 줄인 물 기반 배터리로 AI 데이터센터 공략하는 폼·에오스·코스모스랩의 3사 3색 전략](https://www.venturesquare.net/1116209/) | 벤처스퀘어 |
+| 2026-09-29 | [네이버, 멕시코 AI 생태계 공략…정부·기업 만나 공공AX·소버린AI 협력 논의](https://www.venturesquare.net/1116513/) | 벤처스퀘어 |
+| 2026-09-29 | [프레인글로벌, AI 검색 시대 B2B 고객은 어떻게 찾나…LG AI연구원·두산·SK바사 사례 공개](https://www.venturesquare.net/1116552/) | 벤처스퀘어 |
+| 2026-09-29 | [딥세일즈, ‘살 가능성 높은’ 해외 바이어 AI가 먼저 찾는다…딥테크 팁스 선정](https://www.venturesquare.net/1116559/) | 벤처스퀘어 |
+| 2026-09-29 | [부산창경, 아이는 바다·숲 체험 부모는 업무…부산서 ‘가족형 워케이션’ 운영](https://www.venturesquare.net/1116567/) | 벤처스퀘어 |
+| 2026-09-29 | [디엘지, 한국 기업 이탈리아 진출 때 현지 로펌 다시 찾을 필요 줄인다…AMAM Legal과 파트너십](https://www.venturesquare.net/1116570/) | 벤처스퀘어 |
+| 2026-09-29 | [와디즈파트너스, 환동해 소셜벤처 10곳 키운다…최소 1곳에 1억원 이상 투자](https://www.venturesquare.net/1116582/) | 벤처스퀘어 |
+| 2026-09-29 | [BARC, 연세의료원에 기부…재활의학과 의사들이 만든 신발에서 의료 나눔으로](https://www.venturesquare.net/1116589/) | 벤처스퀘어 |
+| 2026-09-29 | [코딩 테스트 표준 만든 그렙, ‘AI 역량 평가’와 글로벌 시험감독으로 2028년 IPO 도전](https://www.venturesquare.net/1116597/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
