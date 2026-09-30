@@ -7,19 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-09-29 (KST)_
+_자동 갱신: 2026-09-30 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-09-29 | [2026 투자 유치 세미나 - 투자사 관점에서 보는 투자유치를 위한 실전 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179224) | 서울창업허브 창동 | K-Startup 사업공고 |
-| 2026-09-29 | [[인천] 2026년 IP창업존 51기 교육(모두의창업 연계과정) 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179271) | 인천지식재산센터 | K-Startup 사업공고 |
-| 2026-09-29 | [「서울소셜벤처허브」2026년 ‘허브 멤버스’ 입주사 추가모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179270) | 서울소셜벤처허브 | K-Startup 사업공고 |
-| 2026-09-29 | [‘2026년 글로컬 창업사관학교 액셀러레이팅’ 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179308) | 국립순천대학교 창업지원단장국립순천대학교 창업지원단장 | K-Startup 사업공고 |
-| 2026-09-29 | [[창업BuS x Station C] 2026년 강원BRIDGE 배치프로그램 2차 창업기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179305) | 재단법인 강원창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-09-29 | [청년창업 거주지원시설(창업하여家) 입주자 3차 모집(연장)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179292) | (재)광주테크노파크 | K-Startup 사업공고 |
-| 2026-09-29 | [2026년 제2회 테크플러스 스테이지 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179291) | (재)광주테크노파크 | K-Startup 사업공고 |
 | 2026-09-30 | [남서울대학교 창업보육센터 입주기업 모집 (천안소재)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178706) | 남서울대학교 창업보육센터 | K-Startup 사업공고 |
 | 2026-09-30 | [「2026년 강소특구 이노테크 발굴 및 창업지원사업」예비 창업자 사업화 지원 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178786) | 한국전력공사 강소특구 육성사업단장, 나주 강소특구 공동연구기관장 | K-Startup 사업공고 |
 | 2026-09-30 | [2026년 중소기업 동행교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178817) | 근로복지공단 인재개발원 | K-Startup 사업공고 |
@@ -33,21 +26,28 @@ _자동 갱신: 2026-09-29 (KST)_
 | 2026-09-30 | [2026년도 한국도로공사 청년 AI 스타트업 지원 시범사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179035) | 한국도로공사 | K-Startup 사업공고 |
 | 2026-09-30 | [[롯데장학재단]「2026년 제3회 신격호 롯데 청년기업가대상」모집공고 (~9/30)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179058) | 롯데장학재단 | K-Startup 사업공고 |
 | 2026-09-30 | [(창업공모전) 2026 여성벤처 성장 챌린지 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179105) | 한국여성벤처협회장 | K-Startup 사업공고 |
+| 2026-09-30 | [[동대문구 창업지원센터] 9월 메이커스페이스(레이저커터, 3D프린팅) 교육 일정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179096) | 동대문구 창업지원센터 | K-Startup 사업공고 |
+| 2026-09-30 | [2026년 09월 초기 창업기업 대상 벤처기업 인증 행정자문&전략 수립 기업모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179093) | 박준범행정사사무소 | K-Startup 사업공고 |
+| 2026-09-30 | [출연연, 대학 연구소기업 Business Development 프로그램 참여 예비창업자 모집 (9월)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179085) | 연구개발특구진흥재단 | K-Startup 사업공고 |
+| 2026-09-30 | [2026년 안양산업진흥원 제3차 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179081) | 안양산업진흥원 | K-Startup 사업공고 |
+| 2026-09-30 | [2026년 2차 CNU Startup to TIPS 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179080) | 충남대학교기술지주(주) | K-Startup 사업공고 |
+| 2026-09-30 | [[성동구 관내기업] 「모두의 창업⸥ 정부R&D사업 및 베트남 해외진출 컨설팅 지원기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179078) | 성동구청 | K-Startup 사업공고 |
+| 2026-09-30 | [2026년 스마트상점 기술보급사업 참여 소상공인 모집공고(2차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179106) | 소상공인시장진흥공단 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-09-28 | [“양자컴퓨터, 한국에서 함께 만들겠다”…콴델라가 韓 제조업에 손 내민 이유](https://www.venturesquare.net/1116489/) | 벤처스퀘어 |
-| 2026-09-28 | [[VS기획] 화재 줄인 물 기반 배터리로 AI 데이터센터 공략하는 폼·에오스·코스모스랩의 3사 3색 전략](https://www.venturesquare.net/1116209/) | 벤처스퀘어 |
-| 2026-09-29 | [네이버, 멕시코 AI 생태계 공략…정부·기업 만나 공공AX·소버린AI 협력 논의](https://www.venturesquare.net/1116513/) | 벤처스퀘어 |
-| 2026-09-29 | [프레인글로벌, AI 검색 시대 B2B 고객은 어떻게 찾나…LG AI연구원·두산·SK바사 사례 공개](https://www.venturesquare.net/1116552/) | 벤처스퀘어 |
-| 2026-09-29 | [딥세일즈, ‘살 가능성 높은’ 해외 바이어 AI가 먼저 찾는다…딥테크 팁스 선정](https://www.venturesquare.net/1116559/) | 벤처스퀘어 |
-| 2026-09-29 | [부산창경, 아이는 바다·숲 체험 부모는 업무…부산서 ‘가족형 워케이션’ 운영](https://www.venturesquare.net/1116567/) | 벤처스퀘어 |
-| 2026-09-29 | [디엘지, 한국 기업 이탈리아 진출 때 현지 로펌 다시 찾을 필요 줄인다…AMAM Legal과 파트너십](https://www.venturesquare.net/1116570/) | 벤처스퀘어 |
-| 2026-09-29 | [와디즈파트너스, 환동해 소셜벤처 10곳 키운다…최소 1곳에 1억원 이상 투자](https://www.venturesquare.net/1116582/) | 벤처스퀘어 |
-| 2026-09-29 | [BARC, 연세의료원에 기부…재활의학과 의사들이 만든 신발에서 의료 나눔으로](https://www.venturesquare.net/1116589/) | 벤처스퀘어 |
-| 2026-09-29 | [코딩 테스트 표준 만든 그렙, ‘AI 역량 평가’와 글로벌 시험감독으로 2028년 IPO 도전](https://www.venturesquare.net/1116597/) | 벤처스퀘어 |
+| 2026-09-29 | [파로스아이바이오, 호주를 AI 신약개발 R&D 거점으로…공동연구·사업개발 확대](https://www.venturesquare.net/1116789/) | 벤처스퀘어 |
+| 2026-09-29 | [엔젤로보틱스, 사람 움직임을 AI 학습 데이터로 바꾼다…피지컬 AI 연구로봇 ‘phai-x1’ 공개](https://www.venturesquare.net/1116796/) | 벤처스퀘어 |
+| 2026-09-29 | [연 1조 투자시장 된 액셀러레이터…전화성 KAIA 회장, 3년의 성과와 다음 과제](https://www.venturesquare.net/1116815/) | 벤처스퀘어 |
+| 2026-09-29 | [텐마인즈, 잠들면 베개가 코골이에 반응하고 조명도 꺼진다…‘AI 슬립봇’ 스마트싱스 연동](https://www.venturesquare.net/1116810/) | 벤처스퀘어 |
+| 2026-09-29 | [[컬처슬로건 탐방기] 그렙 – 위대한 사람, 성장, 그리고 신뢰](https://www.venturesquare.net/1116830/) | 벤처스퀘어 |
+| 2026-09-29 | [패스트파이브, AI 스타트업 10곳에 사무실 최대 6개월 지원…‘창업 베이스캠프’ 2기 모집](https://www.venturesquare.net/1116832/) | 벤처스퀘어 |
+| 2026-09-29 | [버즈니·KEA, KES 2026 참가기업 500곳 AI 숏폼 제작 돕는다…‘비스킷AI’ 지원](https://www.venturesquare.net/1116833/) | 벤처스퀘어 |
+| 2026-09-29 | [팔로알토 네트웍스, AI가 공격자처럼 상시 보안 테스트…GPT-5.6·클로드 미토스 투입](https://www.venturesquare.net/1116846/) | 벤처스퀘어 |
+| 2026-09-29 | [AI스페라, IP만 넣으면 연결된 도메인 AI가 찾는다…네트워크 위협 분석 기술 특허](https://www.venturesquare.net/1116850/) | 벤처스퀘어 |
+| 2026-09-29 | [시마AI, 2036억원 시리즈C 유치…휴머노이드·드론 겨냥 ‘1000 TOPS’ 피지컬 AI 칩 개발](https://www.venturesquare.net/1116862/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
