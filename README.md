@@ -7,13 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-01 (KST)_
+_자동 갱신: 2026-10-02 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-01 | [2026 Silicon Valley GTM(Go-To-Market) Program - Public Announcement for Service Provider](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179293) | KISED Silicon Valley Office | K-Startup 사업공고 |
 | 2026-10-02 | [2026년 영등포 청년 창업 도약 아카데미](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179116) | 서울창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-10-02 | [2026년 바이오벤치마킹스쿨(BBS) 16기 수강자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179145) | 주식회사 비티비벤처스 | K-Startup 사업공고 |
 | 2026-10-02 | [「충북 제조창업 마스터 매칭 프로그램」 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179288) | 충북창조경제혁신센터, 충북Pro메이커센터, 충부테크노파크 | K-Startup 사업공고 |
@@ -33,21 +32,22 @@ _자동 갱신: 2026-10-01 (KST)_
 | 2026-10-06 | [「민관협력 오픈이노베이션 지원」 '공공데이터 활용 지원' 공공기관 제안형(Top-Down) 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179232) | 중소벤처기업부장관 | K-Startup 사업공고 |
 | 2026-10-06 | [2026. 하반기 도봉구 외식업 창업 교육생 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179286) | 도봉구청  | K-Startup 사업공고 |
 | 2026-10-06 | [동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179296) | 동국대학교 창업보육센터 | K-Startup 사업공고 |
+| 2026-10-06 | [[경희창업보육센터(서울)] 2026년 하반기 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179345) | 경희창업보육센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-09-30 | [엘리스그룹, 10월 코스닥 상장…최대 2011억원 조달해 AI 데이터센터 확충](https://www.venturesquare.net/1117073/) | 벤처스퀘어 |
-| 2026-09-30 | [팩트블록, 디지털자산 넘어 ‘온체인 금융·AI 경제’로…KBW2026 개막](https://www.venturesquare.net/1117089/) | 벤처스퀘어 |
-| 2026-09-30 | [브릴스, 송도에 4654㎡ 휴머노이드 센터 짓는다…로봇이 로봇 만드는 공장 추진](https://www.venturesquare.net/1117102/) | 벤처스퀘어 |
-| 2026-09-30 | [스파크랩, ‘프로그래밍 필요 없는’ 용접 로봇 알비웨어에 투자…16개국 250대 설치](https://www.venturesquare.net/1117111/) | 벤처스퀘어 |
-| 2026-09-30 | [“성장 멈추지 않게 다리 놓겠다”…센디에 10억 투자한 강종수 콜즈다이나믹스 대표, ‘성장 공백’ 메운다](https://www.venturesquare.net/1117115/) | 벤처스퀘어 |
-| 2026-09-30 | [성수동고릴라, 10월 성수는 아이돌 캐릭터·로컬·애니·페스티벌…팝업 리스트 공개](https://www.venturesquare.net/1117095/) | 벤처스퀘어 |
-| 2026-09-30 | [리필드, 탈모케어 성분 ‘모낭 어디까지 가나’ 추적…IFSCC서 연구 공개](https://www.venturesquare.net/1117131/) | 벤처스퀘어 |
-| 2026-09-30 | [와디즈, 잣 솔방울 샴푸바부터 재활용 플라스틱 AI 기기까지…기후테크 22곳 시장 검증](https://www.venturesquare.net/1117132/) | 벤처스퀘어 |
-| 2026-09-30 | [아키스케치, AI가 3D 공간 이해하고 설계한다…국토부 장관상 수상](https://www.venturesquare.net/1117136/) | 벤처스퀘어 |
-| 2026-10-01 | [디지트론, 방산 수주잔고 1000억원 쌓았다…100억원 Pre-IPO 유치](https://www.venturesquare.net/1117159/) | 벤처스퀘어 |
+| 2026-10-01 | [대화의 기록을 ‘다음 대화의 근거’로… 리버스마운틴 김경민 대표가 만드는 원온원](https://www.venturesquare.net/1116492/) | 벤처스퀘어 |
+| 2026-10-01 | [앰플몬스터, 일본 돈키호테 100곳에 들어간다…NMN·PDRN 4종 오프라인 확대](https://www.venturesquare.net/1117500/) | 벤처스퀘어 |
+| 2026-10-02 | [크라우드웍스, 사람이 로봇 움직이면 학습 데이터로 바꾼다…‘AI Festa 2026’서 시연](https://www.venturesquare.net/1117524/) | 벤처스퀘어 |
+| 2026-10-02 | [수이·오픈애셋, 증권·펀드 토큰화 ‘공통 언어’ 만든다…OTAS 표준 개발](https://www.venturesquare.net/1117533/) | 벤처스퀘어 |
+| 2026-10-02 | [관악연구소, 금융권 ‘누구부터 관리할지’ AI가 제안한다…서울대기술지주 3억원 투자](https://www.venturesquare.net/1117536/) | 벤처스퀘어 |
+| 2026-10-02 | [코드잇, 강남역 16개 층 통째로 교육공간 만든다…첫 오프라인 거점 ‘텐엑스 강남’](https://www.venturesquare.net/1117542/) | 벤처스퀘어 |
+| 2026-10-02 | [쓰리빌리언, 미국 첫 임상검사실 구축 맡길 전문가 영입…CLIA·CAP 인증 추진](https://www.venturesquare.net/1117549/) | 벤처스퀘어 |
+| 2026-10-02 | [케어닥, 안양·남양주 시니어하우징에 694억원 PF…누적 조달 1000억원 넘어](https://www.venturesquare.net/1117552/) | 벤처스퀘어 |
+| 2026-10-02 | [크릿벤처스, ‘오딘’ CTO가 세운 제이드래곤게임즈에 투자…신작 MMORPG 개발](https://www.venturesquare.net/1117561/) | 벤처스퀘어 |
+| 2026-10-02 | [알스퀘어, 성수서 베리시 두 번째 매장 연결…300평·4층 복합공간 출점 자문](https://www.venturesquare.net/1117573/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
