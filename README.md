@@ -7,13 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-04 (KST)_
+_자동 갱신: 2026-10-05 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-04 | [2026 「Go to Market」동남권 창업기업 온라인 판로개척 교육 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179339) | 경상국립대학교 창업중심대학사업단 | K-Startup 사업공고 |
 | 2026-10-05 | [2026년 강북창업지원센터 하반기 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179092) | 강북청년창업마루 | K-Startup 사업공고 |
 | 2026-10-05 | [2026년 10월 크립톤 IR피칭 & 오피스아워 신청 접수](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179304) | 크립톤 부산센터 | K-Startup 사업공고 |
 | 2026-10-05 | [2026 옥천군 로컬 크리에이터 아카데미](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179354) | (주)렛츠 | K-Startup 사업공고 |
@@ -33,21 +32,22 @@ _자동 갱신: 2026-10-04 (KST)_
 | 2026-10-07 | [[숭실대학교 캠퍼스타운] 2026 석·박사급 실험실 창업스쿨(유형2) 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179054) | 숭실대학교 캠퍼스타운사업단 | K-Startup 사업공고 |
 | 2026-10-07 | [2026년 투자 유치 역량 강화 특강](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179183) | 동대문구 창업지원센터 | K-Startup 사업공고 |
 | 2026-10-07 | [2026년 민간 산림복지 창업 아카데미[2차] 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179276) | 한국산림복지진흥원 | K-Startup 사업공고 |
+| 2026-10-07 | [2026년 블록체인 기업성장허브 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179303) | 한국인터넷진흥원 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
+| 2026-10-03 | [AI로 사람 줄이는 게 답일까…가트너가 다시 쓴 ‘미래의 일’](https://www.venturesquare.net/1117788/) | 벤처스퀘어 |
+| 2026-10-04 | [AI가 무섭지만 멈출 생각은 없다…68.4%의 공포와 63.9%의 현실론](https://www.venturesquare.net/1117797/) | 벤처스퀘어 |
+| 2026-10-04 | [경기콘텐츠진흥원, 게임사·학교 18곳 묶었다…AI 시대 맞춰 ‘게임 인재’ 함께 키운다](https://www.venturesquare.net/1117808/) | 벤처스퀘어 |
+| 2026-10-04 | [SNS 못 쓰게 하면 덜 쓸까…호주·유럽 데이터가 보여준 ‘청소년 금지의 역설’](https://www.venturesquare.net/1117815/) | 벤처스퀘어 |
+| 2026-10-05 | [“AI 시대 기술적 해자는 없다”… 한기용 업젠 대표가 말하는 스타트업의 새로운 해자 공식](https://www.venturesquare.net/1115207/) | 벤처스퀘어 |
 | 2026-10-03 | [[AI 시대 리더의 대화법] A를 지시했는데 B를 해왔다…면담 끝나기 전 확인할 세 가지](https://www.venturesquare.net/1117740/) | 벤처스퀘어 |
 | 2026-10-03 | [[VS 기획] 36→495개, 투자액은 147배…7개 키워드로 본 한국 액셀러레이터 10년](https://www.venturesquare.net/1117764/) | 벤처스퀘어 |
 | 2026-10-01 | [대화의 기록을 ‘다음 대화의 근거’로… 리버스마운틴 김경민 대표가 만드는 원온원](https://www.venturesquare.net/1116492/) | 벤처스퀘어 |
 | 2026-10-01 | [앰플몬스터, 일본 돈키호테 100곳에 들어간다…NMN·PDRN 4종 오프라인 확대](https://www.venturesquare.net/1117500/) | 벤처스퀘어 |
 | 2026-10-02 | [크라우드웍스, 사람이 로봇 움직이면 학습 데이터로 바꾼다…‘AI Festa 2026’서 시연](https://www.venturesquare.net/1117524/) | 벤처스퀘어 |
-| 2026-10-02 | [수이·오픈애셋, 증권·펀드 토큰화 ‘공통 언어’ 만든다…OTAS 표준 개발](https://www.venturesquare.net/1117533/) | 벤처스퀘어 |
-| 2026-10-02 | [관악연구소, 금융권 ‘누구부터 관리할지’ AI가 제안한다…서울대기술지주 3억원 투자](https://www.venturesquare.net/1117536/) | 벤처스퀘어 |
-| 2026-10-02 | [코드잇, 강남역 16개 층 통째로 교육공간 만든다…첫 오프라인 거점 ‘텐엑스 강남’](https://www.venturesquare.net/1117542/) | 벤처스퀘어 |
-| 2026-10-02 | [쓰리빌리언, 미국 첫 임상검사실 구축 맡길 전문가 영입…CLIA·CAP 인증 추진](https://www.venturesquare.net/1117549/) | 벤처스퀘어 |
-| 2026-10-02 | [케어닥, 안양·남양주 시니어하우징에 694억원 PF…누적 조달 1000억원 넘어](https://www.venturesquare.net/1117552/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
