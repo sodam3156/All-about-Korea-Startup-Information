@@ -7,16 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-05 (KST)_
+_자동 갱신: 2026-10-06 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-05 | [2026년 강북창업지원센터 하반기 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179092) | 강북청년창업마루 | K-Startup 사업공고 |
-| 2026-10-05 | [2026년 10월 크립톤 IR피칭 & 오피스아워 신청 접수](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179304) | 크립톤 부산센터 | K-Startup 사업공고 |
-| 2026-10-05 | [2026 옥천군 로컬 크리에이터 아카데미](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179354) | (주)렛츠 | K-Startup 사업공고 |
-| 2026-10-05 | [2026년 성북구 중장년 기술창업센터 입주기업 모집공고(3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179320) | 성북구중장년기술창업센터장 | K-Startup 사업공고 |
 | 2026-10-06 | [2026 LX세미콘 x 충남창조경제혁신센터 Nexus Connect 오픈이노베이션 밋업 데이](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179190) | (재)충남창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-10-06 | [2026 마포 청년 창업 아이디어 경진대회(MAPO NEXT STAGE)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179252) | 마포청년창업취업지원센터 나루 | K-Startup 사업공고 |
 | 2026-10-06 | [「민관협력 오픈이노베이션 지원」 '공공데이터 활용 지원' 공공기관 제안형(Top-Down) 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179232) | 중소벤처기업부장관 | K-Startup 사업공고 |
@@ -33,21 +29,25 @@ _자동 갱신: 2026-10-05 (KST)_
 | 2026-10-07 | [2026년 투자 유치 역량 강화 특강](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179183) | 동대문구 창업지원센터 | K-Startup 사업공고 |
 | 2026-10-07 | [2026년 민간 산림복지 창업 아카데미[2차] 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179276) | 한국산림복지진흥원 | K-Startup 사업공고 |
 | 2026-10-07 | [2026년 블록체인 기업성장허브 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179303) | 한국인터넷진흥원 | K-Startup 사업공고 |
+| 2026-10-07 | [구로구 청년창업지원센터 일반 창업교육(하반기: 4회차): 온라인 마케팅 실전 가이드](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179300) | 구로구 청년창업지원센터 | K-Startup 사업공고 |
+| 2026-10-07 | [창업 초보를 위한 창업 A-Z 교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179247) | 하우그로우 원격평생교육원 | K-Startup 사업공고 |
+| 2026-10-07 | [로컬창업캠프 2기](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179314) | 관악구청 | K-Startup 사업공고 |
+| 2026-10-07 | [2026 전북-수도권 기업 『투자 & 비즈니스 라운드』](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179349) | 쿠키미디어(주) | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-03 | [AI로 사람 줄이는 게 답일까…가트너가 다시 쓴 ‘미래의 일’](https://www.venturesquare.net/1117788/) | 벤처스퀘어 |
-| 2026-10-04 | [AI가 무섭지만 멈출 생각은 없다…68.4%의 공포와 63.9%의 현실론](https://www.venturesquare.net/1117797/) | 벤처스퀘어 |
-| 2026-10-04 | [경기콘텐츠진흥원, 게임사·학교 18곳 묶었다…AI 시대 맞춰 ‘게임 인재’ 함께 키운다](https://www.venturesquare.net/1117808/) | 벤처스퀘어 |
-| 2026-10-04 | [SNS 못 쓰게 하면 덜 쓸까…호주·유럽 데이터가 보여준 ‘청소년 금지의 역설’](https://www.venturesquare.net/1117815/) | 벤처스퀘어 |
-| 2026-10-05 | [“AI 시대 기술적 해자는 없다”… 한기용 업젠 대표가 말하는 스타트업의 새로운 해자 공식](https://www.venturesquare.net/1115207/) | 벤처스퀘어 |
-| 2026-10-03 | [[AI 시대 리더의 대화법] A를 지시했는데 B를 해왔다…면담 끝나기 전 확인할 세 가지](https://www.venturesquare.net/1117740/) | 벤처스퀘어 |
-| 2026-10-03 | [[VS 기획] 36→495개, 투자액은 147배…7개 키워드로 본 한국 액셀러레이터 10년](https://www.venturesquare.net/1117764/) | 벤처스퀘어 |
-| 2026-10-01 | [대화의 기록을 ‘다음 대화의 근거’로… 리버스마운틴 김경민 대표가 만드는 원온원](https://www.venturesquare.net/1116492/) | 벤처스퀘어 |
-| 2026-10-01 | [앰플몬스터, 일본 돈키호테 100곳에 들어간다…NMN·PDRN 4종 오프라인 확대](https://www.venturesquare.net/1117500/) | 벤처스퀘어 |
-| 2026-10-02 | [크라우드웍스, 사람이 로봇 움직이면 학습 데이터로 바꾼다…‘AI Festa 2026’서 시연](https://www.venturesquare.net/1117524/) | 벤처스퀘어 |
+| 2026-10-05 | [‘모두의 IR’ 다음은 진짜 투자…6만3000명 ‘모두의 창업’의 두 번째 시험대](https://www.venturesquare.net/1117839/) | 벤처스퀘어 |
+| 2026-10-05 | [인포시즈, 보안 로그 0.068%만 LLM이 다시 본다…그래프 AI ‘GOS’ 출시](https://www.venturesquare.net/1117848/) | 벤처스퀘어 |
+| 2026-10-05 | [아이싸이, 움직이는 해군 함정서 SAR 위성정보 바로 받았다…‘ISR Cell’ 함상 운용](https://www.venturesquare.net/1117851/) | 벤처스퀘어 |
+| 2026-10-05 | [브이씨루트, 지방 스타트업에 ‘지역 의무투자 펀드’ 먼저 찾는다…159개·2.3조원 매칭](https://www.venturesquare.net/1117858/) | 벤처스퀘어 |
+| 2026-10-05 | [네이버페이·하나은행·서울신보, 골목상권에 687.5억원 보증…청년 사업자 한도 130% 우대](https://www.venturesquare.net/1117871/) | 벤처스퀘어 |
+| 2026-10-06 | [부산창조경제혁신센터, K스타트업 11곳 오사카·고베로…GSE 2026서 일본 기업과 사업 연결](https://www.venturesquare.net/1117886/) | 벤처스퀘어 |
+| 2026-10-06 | [네이버, 1926년 한글 점자부터 2003년 가계부까지…한글날 100년 기록 꺼냈다](https://www.venturesquare.net/1117901/) | 벤처스퀘어 |
+| 2026-10-06 | [AI스페라, 자산 찾는 ASM 넘어 ‘어떤 위협부터 막을지’ AI가 추린다…싱가포르서 AITEM 공개](https://www.venturesquare.net/1117908/) | 벤처스퀘어 |
+| 2026-10-06 | [넷플릭스, K콘텐츠 더빙 비중 40% 넘었다…멕시코서 ‘언어 장벽’ 넘는 현지화 조명](https://www.venturesquare.net/1117914/) | 벤처스퀘어 |
+| 2026-10-06 | [원프레딕트, 공장마다 다시 만들던 AI ‘공통 모듈’로…7368억원 국가 피지컬AI 사업 참여](https://www.venturesquare.net/1117936/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
