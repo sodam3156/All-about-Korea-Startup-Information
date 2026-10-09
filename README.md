@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-08 (KST)_
+_자동 갱신: 2026-10-09 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-08 | [[임팩트스퀘어] 롯데케미칼 자원순환 스타트업 지원 프로그램 &apos;프로젝트루프소셜 5기&apos; 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179242) | (주)임팩트스퀘어 | K-Startup 사업공고 |
-| 2026-10-08 | [2026 Innopolis×LG Open Innovation Meet-up Day](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179250) | 와이앤아처 주식회사 | K-Startup 사업공고 |
-| 2026-10-08 | [2026 제10회 G밸리창업경진대회 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179309) | 한국산업단지공단 | K-Startup 사업공고 |
-| 2026-10-08 | [2026 서초AICT 데모데이 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179328) | 서초AICT 운영센터 | K-Startup 사업공고 |
-| 2026-10-08 | [제 22기 K-water 협력스타트업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179322) | K-water 기후테크혁신처장 | K-Startup 사업공고 |
-| 2026-10-08 | [2026년 한수원 우문현답 현장 클리닉센터 지원사업 「원전·에너지 분야 선택형 과제」참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179380) | (사)경기중소벤처기업연합회 | K-Startup 사업공고 |
-| 2026-10-08 | [[온라인] chatGPT로 만드는 내 퍼스널 브랜딩 플랫폼 만들기 | 바이브코딩 실전 클래스](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179368) | 스쿨모아 주식회사 | K-Startup 사업공고 |
-| 2026-10-08 | [싱가포르 현지 진출 지원 국내 블록체인 기업 모집 재공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179364) | 한국인터넷진흥원 | K-Startup 사업공고 |
 | 2026-10-09 | [2026년 실리콘밸리 GTM(Go-To-Market) 프로그램 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179294) | 창업진흥원 실리콘밸리사무소장 | K-Startup 사업공고 |
 | 2026-10-09 | [2026-11회 호남권 엔젤투자 피칭룸 in 전남광주](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179265) | 한국엔젤투자협회 호남권 엔젤투자허브 | K-Startup 사업공고 |
 | 2026-10-09 | [2026 대전로컬창업포럼 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179436) | 주식회사 온랩 | K-Startup 사업공고 |
@@ -30,14 +22,25 @@ _자동 갱신: 2026-10-08 (KST)_
 | 2026-10-11 | [2026 DMC 이노베이션 캠프 경진대회 (DIC2026)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179399) | ㈜디엠씨산학진흥재단 | K-Startup 사업공고 |
 | 2026-10-11 | [2026년 SaaS 전환지원센터xAWS SaaS 현대화 교육 4회차 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179371) | 정보통신산업진흥원, SaaS 전환지원센터 | K-Startup 사업공고 |
 | 2026-10-11 | [2026 극지 데이터 융합 스케일업 프로그램](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179357) | 극지연구소 | K-Startup 사업공고 |
+| 2026-10-11 | [2026년 세종 한글 상품 박람회 및 세종 한글 술술 축제](https://ccei.creativekorea.or.kr/sejong/service/program_view.do?no=10584&sMenuType=00040001&cntry_nm=sejong) | 세종창조경제혁신센터 지원프로그램 | 세종창조경제혁신센터 지원프로그램 |
 | 2026-10-12 | [신약개발 실증지원 네트워크](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179195) | 비엑스플랜트 | K-Startup 사업공고 |
 | 2026-10-12 | [2027년도 초격차 스타트업 프로젝트 기술 사업화 및 투자유치 주관기관 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179287) | 중소벤처기업부 장관 | K-Startup 사업공고 |
 | 2026-10-12 | [[GBSA] 2026 판교스타트업 투자교류회 제 3차 투자교류회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179283) | ㈜내비온파트너스 | K-Startup 사업공고 |
+| 2026-10-12 | [2026년 웰컴 투 팁스 4차 참가기업 모집 (강원권)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179341) | (주)로우파트너스 | K-Startup 사업공고 |
+| 2026-10-12 | [2026 대전 재도전 네트워킹 데이 「Re-Boot Networking Day」](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179342) | 대전창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-10-12 | [2026년 제4회 ICT콤플렉스 스타트업 투자상담회 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179329) | ICT콤플렉스 | K-Startup 사업공고 |
+| 2026-10-12 | [디캠프 10월 오피스아워 #벤처투자·#사업협력 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179319) | 재단법인 은행권청년창업재단 | K-Startup 사업공고 |
+| 2026-10-12 | [창업특강 : AI시대에 창업한다는 것](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179315) | 관악구청 | K-Startup 사업공고 |
+| 2026-10-12 | [[서울핀테크랩] 2026 핀테크 스타트업의 유럽 시장 진출 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179311) | 서울핀테크랩 | K-Startup 사업공고 |
+| 2026-10-12 | [2026년 B the B 뷰티 기반 융복합 콘텐츠 전시(다운타운) 팝업 참여기업 모집(3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179410) | (재)서울경제진흥원 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
+| 2026-10-09 | [한글날 100주년, 글꼴에서 코딩까지…네이버·산돌·셈틀이 넓히는 한글의 쓰임](https://www.venturesquare.net/1118645/) | 벤처스퀘어 |
+| 2026-10-09 | [시리즈벤처스, 부울경 스타트업 11곳 글로벌 투자자 앞에 세웠다…FLY ASIA서 IR 데모데이 개최](https://www.venturesquare.net/1118688/) | 벤처스퀘어 |
+| 2026-10-09 | [100만 명 홀린 ‘부캉이’…편의점 매출 76% 뛰고 소주·AI 서비스까지 등장](https://www.venturesquare.net/1118676/) | 벤처스퀘어 |
 | 2026-10-07 | [힘펠, 출산·육아 지원에 장기근속 휴가까지…경기도 ‘가족친화 기업’ 선정](https://www.venturesquare.net/1118465/) | 벤처스퀘어 |
 | 2026-10-07 | [중고나라, 택배 보내러 안 나가도 된다…‘문앞택배’ 판매자 44% 한 달 만에 이용](https://www.venturesquare.net/1118450/) | 벤처스퀘어 |
 | 2026-10-07 | [부산에서 아시아로, 세계로…‘FLY ASIA 2026’, 해양 AI·투자·협력의 장 열었다](https://www.venturesquare.net/1118473/) | 벤처스퀘어 |
@@ -45,9 +48,6 @@ _자동 갱신: 2026-10-08 (KST)_
 | 2026-10-08 | [마스오토, 자율주행 트럭 8개 노선 운영 경험 美 교통부와 공유…강릉 ITS 세계총회 참가](https://www.venturesquare.net/1118481/) | 벤처스퀘어 |
 | 2026-10-08 | [[VS 기획] MIT가 그린 ‘건설 AI 지도’…설계부터 조달까지 산업 문법 바뀐다](https://www.venturesquare.net/1118343/) | 벤처스퀘어 |
 | 2026-10-08 | [두나무, “시세 조회에 API 키 필요 없다”…업비트 계정 대여 신종 사기 경고](https://www.venturesquare.net/1118560/) | 벤처스퀘어 |
-| 2026-10-08 | [CCK솔루션, 리벨리온 투자 유치…국산 NPU에 회계·문서 AI 결합해 공공·금융 공략](https://www.venturesquare.net/1118559/) | 벤처스퀘어 |
-| 2026-10-08 | [삼삼엠투, 인구감소지역 89곳 중 84곳서 단기임대 계약…국토부 장관상 수상](https://www.venturesquare.net/1118563/) | 벤처스퀘어 |
-| 2026-10-08 | [와디즈, 보드게임 ‘보이드폴’ 47분 만에 1억원…최종 4억4000만원 모았다](https://www.venturesquare.net/1118577/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
