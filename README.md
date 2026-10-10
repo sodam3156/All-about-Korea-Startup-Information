@@ -7,15 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-09 (KST)_
+_자동 갱신: 2026-10-10 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-09 | [2026년 실리콘밸리 GTM(Go-To-Market) 프로그램 창업기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179294) | 창업진흥원 실리콘밸리사무소장 | K-Startup 사업공고 |
-| 2026-10-09 | [2026-11회 호남권 엔젤투자 피칭룸 in 전남광주](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179265) | 한국엔젤투자협회 호남권 엔젤투자허브 | K-Startup 사업공고 |
-| 2026-10-09 | [2026 대전로컬창업포럼 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179436) | 주식회사 온랩 | K-Startup 사업공고 |
 | 2026-10-11 | ['애자일 피보팅: 시장의 변화를 기회로 만드는 기술창업 전략'](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179295) | 주식회사 이노시아 | K-Startup 사업공고 |
 | 2026-10-11 | [2026년 서울창업센터 관악 X SK에코플랜트 오픈이노베이션 프로그램 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179347) | 서울창업센터 관악 | K-Startup 사업공고 |
 | 2026-10-11 | [2026 제2회 반려동물 창업 아이디어 경진대회 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179323) | (사)한국반려동물산업협회 | K-Startup 사업공고 |
@@ -33,21 +30,24 @@ _자동 갱신: 2026-10-09 (KST)_
 | 2026-10-12 | [창업특강 : AI시대에 창업한다는 것](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179315) | 관악구청 | K-Startup 사업공고 |
 | 2026-10-12 | [[서울핀테크랩] 2026 핀테크 스타트업의 유럽 시장 진출 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179311) | 서울핀테크랩 | K-Startup 사업공고 |
 | 2026-10-12 | [2026년 B the B 뷰티 기반 융복합 콘텐츠 전시(다운타운) 팝업 참여기업 모집(3차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179410) | (재)서울경제진흥원 | K-Startup 사업공고 |
+| 2026-10-12 | [제8차 기술융합포럼 연계 제107회 대전창업포럼(양자) 참가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179400) | (재)대전창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-10-12 | [「Station C TIPS 발굴지원사업」 브릿지 IR 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179398) | (주)리벤처스 대표 | K-Startup 사업공고 |
+| 2026-10-12 | [[투자연계형] 2026 넥스트밸류 그라운드(NextValue Ground)-참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179369) | (재)경기창조경제혁신센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
+| 2026-10-10 | [가전은 더 신중하게, 구매는 더 실속 있게…AI까지 동원하는 한국 소비자](https://www.venturesquare.net/1118687/) | 벤처스퀘어 |
+| 2026-10-10 | [구루이엔티, 산사태 복원에 드론·기계화 기술 적용…인도·나이지리아와 해외 실증 논의](https://www.venturesquare.net/1118718/) | 벤처스퀘어 |
+| 2026-10-10 | [미스터마인드, AI 말벗 인형으로 어르신 위험 신호 감지…경기도 31개 시·군에 돌봄 서비스 소개](https://www.venturesquare.net/1118717/) | 벤처스퀘어 |
+| 2026-10-10 | [베슬AI, 업스테이지 ‘솔라 프로4’ 글로벌 추론 맡았다…하루 1550억 토큰 처리 뒷받침](https://www.venturesquare.net/1118725/) | 벤처스퀘어 |
+| 2026-10-10 | [숙소 하나 창업하는 데 필요한 모든 것…‘K-Stay EXPO 2026’, 공유숙박 산업의 가능성 확인](https://www.venturesquare.net/1118712/) | 벤처스퀘어 |
 | 2026-10-09 | [한글날 100주년, 글꼴에서 코딩까지…네이버·산돌·셈틀이 넓히는 한글의 쓰임](https://www.venturesquare.net/1118645/) | 벤처스퀘어 |
 | 2026-10-09 | [시리즈벤처스, 부울경 스타트업 11곳 글로벌 투자자 앞에 세웠다…FLY ASIA서 IR 데모데이 개최](https://www.venturesquare.net/1118688/) | 벤처스퀘어 |
 | 2026-10-09 | [100만 명 홀린 ‘부캉이’…편의점 매출 76% 뛰고 소주·AI 서비스까지 등장](https://www.venturesquare.net/1118676/) | 벤처스퀘어 |
 | 2026-10-07 | [힘펠, 출산·육아 지원에 장기근속 휴가까지…경기도 ‘가족친화 기업’ 선정](https://www.venturesquare.net/1118465/) | 벤처스퀘어 |
 | 2026-10-07 | [중고나라, 택배 보내러 안 나가도 된다…‘문앞택배’ 판매자 44% 한 달 만에 이용](https://www.venturesquare.net/1118450/) | 벤처스퀘어 |
-| 2026-10-07 | [부산에서 아시아로, 세계로…‘FLY ASIA 2026’, 해양 AI·투자·협력의 장 열었다](https://www.venturesquare.net/1118473/) | 벤처스퀘어 |
-| 2026-10-08 | [유이크, 라이즈와 4번째 전속모델 계약…팝업 4000명 방문 이어 립밤 협업 제품 출시](https://www.venturesquare.net/1118503/) | 벤처스퀘어 |
-| 2026-10-08 | [마스오토, 자율주행 트럭 8개 노선 운영 경험 美 교통부와 공유…강릉 ITS 세계총회 참가](https://www.venturesquare.net/1118481/) | 벤처스퀘어 |
-| 2026-10-08 | [[VS 기획] MIT가 그린 ‘건설 AI 지도’…설계부터 조달까지 산업 문법 바뀐다](https://www.venturesquare.net/1118343/) | 벤처스퀘어 |
-| 2026-10-08 | [두나무, “시세 조회에 API 키 필요 없다”…업비트 계정 대여 신종 사기 경고](https://www.venturesquare.net/1118560/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
