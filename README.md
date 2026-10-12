@@ -7,19 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-11 (KST)_
+_자동 갱신: 2026-10-12 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-11 | ['애자일 피보팅: 시장의 변화를 기회로 만드는 기술창업 전략'](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179295) | 주식회사 이노시아 | K-Startup 사업공고 |
-| 2026-10-11 | [2026년 서울창업센터 관악 X SK에코플랜트 오픈이노베이션 프로그램 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179347) | 서울창업센터 관악 | K-Startup 사업공고 |
-| 2026-10-11 | [2026 제2회 반려동물 창업 아이디어 경진대회 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179323) | (사)한국반려동물산업협회 | K-Startup 사업공고 |
-| 2026-10-11 | [2026 DMC 이노베이션 캠프 경진대회 (DIC2026)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179399) | ㈜디엠씨산학진흥재단 | K-Startup 사업공고 |
-| 2026-10-11 | [2026년 SaaS 전환지원센터xAWS SaaS 현대화 교육 4회차 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179371) | 정보통신산업진흥원, SaaS 전환지원센터 | K-Startup 사업공고 |
-| 2026-10-11 | [2026 극지 데이터 융합 스케일업 프로그램](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179357) | 극지연구소 | K-Startup 사업공고 |
-| 2026-10-11 | [2026년 세종 한글 상품 박람회 및 세종 한글 술술 축제](https://ccei.creativekorea.or.kr/sejong/service/program_view.do?no=10584&sMenuType=00040001&cntry_nm=sejong) | 세종창조경제혁신센터 지원프로그램 | 세종창조경제혁신센터 지원프로그램 |
 | 2026-10-12 | [신약개발 실증지원 네트워크](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179195) | 비엑스플랜트 | K-Startup 사업공고 |
 | 2026-10-12 | [2027년도 초격차 스타트업 프로젝트 기술 사업화 및 투자유치 주관기관 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179287) | 중소벤처기업부 장관 | K-Startup 사업공고 |
 | 2026-10-12 | [[GBSA] 2026 판교스타트업 투자교류회 제 3차 투자교류회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179283) | ㈜내비온파트너스 | K-Startup 사업공고 |
@@ -33,21 +26,28 @@ _자동 갱신: 2026-10-11 (KST)_
 | 2026-10-12 | [제8차 기술융합포럼 연계 제107회 대전창업포럼(양자) 참가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179400) | (재)대전창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-10-12 | [「Station C TIPS 발굴지원사업」 브릿지 IR 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179398) | (주)리벤처스 대표 | K-Startup 사업공고 |
 | 2026-10-12 | [[투자연계형] 2026 넥스트밸류 그라운드(NextValue Ground)-참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179369) | (재)경기창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-10-12 | [「 동명청년창작소 D-MADE 오디션」참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179394) | 동명청년창작소 | K-Startup 사업공고 |
+| 2026-10-13 | [[무료 AI 역량강화 교육] 생성형 AI 기반 무역 금융 리스크 최적화 과정 (대전)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178891) | (주)글로벌창업연구소 | K-Startup 사업공고 |
+| 2026-10-13 | [2026 경기 스타트업 서밋(G-SUMMIT 2026) 사전등록 오픈](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179009) | (재)경기도경제과학진흥원 | K-Startup 사업공고 |
+| 2026-10-13 | [2026년 과학기술분야 R&D 대체인력 활용 지원사업 4차 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179121) | 한국여성과학기술인육성재단 | K-Startup 사업공고 |
+| 2026-10-13 | [「청년창업기업·사회적경제기업·예비창업자(소상공인) 대상」 2025년 제1기 서울콜라보레이션 청년 성공창업스쿨 교육생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179218) | 서대문구청장 | K-Startup 사업공고 |
+| 2026-10-13 | [구로구 청년창업지원센터_입주기업 모집·선발](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179285) | 구로구 청년창업지원센터 | K-Startup 사업공고 |
+| 2026-10-13 | [[무료 세미나] ChatGPT·Gemini 시대, 우리 브랜드 AI 검색 노출 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179306) | 토스페이먼츠 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-10 | [[최앤리의 스타트업 법률 가이드] SAFE는 간단하고 RCPS는 복잡하다? 스타트업 첫 투자계약에서 놓치기 쉬운 것들](https://www.venturesquare.net/1117960/) | 벤처스퀘어 |
-| 2026-10-11 | [중기부·국세청, AI 스타트업 2559곳에 R&D부터 세무조사 유예까지 연계 지원한다](https://www.venturesquare.net/1118763/) | 벤처스퀘어 |
-| 2026-10-11 | [당근, 첫 ‘당근절’에 중고거래 141% 급증…1시간 만에 평소 하루 거래량 넘어](https://www.venturesquare.net/1118772/) | 벤처스퀘어 |
-| 2026-10-11 | [메디컬에이아이, 심전도 2000만건 학습한 AI로 기술평가 A·A 재획득…딥테크 상장 추진](https://www.venturesquare.net/1118780/) | 벤처스퀘어 |
-| 2026-10-11 | [서울 AI 허브, 시민이 만든 AI 해법 13개 정책 논의로 연결…59건 의견서 후속 과제 발굴](https://www.venturesquare.net/1118779/) | 벤처스퀘어 |
-| 2026-10-10 | [가전은 더 신중하게, 구매는 더 실속 있게…AI까지 동원하는 한국 소비자](https://www.venturesquare.net/1118687/) | 벤처스퀘어 |
-| 2026-10-10 | [구루이엔티, 산사태 복원에 드론·기계화 기술 적용…인도·나이지리아와 해외 실증 논의](https://www.venturesquare.net/1118718/) | 벤처스퀘어 |
-| 2026-10-10 | [미스터마인드, AI 말벗 인형으로 어르신 위험 신호 감지…경기도 31개 시·군에 돌봄 서비스 소개](https://www.venturesquare.net/1118717/) | 벤처스퀘어 |
-| 2026-10-10 | [베슬AI, 업스테이지 ‘솔라 프로4’ 글로벌 추론 맡았다…하루 1550억 토큰 처리 뒷받침](https://www.venturesquare.net/1118725/) | 벤처스퀘어 |
-| 2026-10-10 | [숙소 하나 창업하는 데 필요한 모든 것…‘K-Stay EXPO 2026’, 공유숙박 산업의 가능성 확인](https://www.venturesquare.net/1118712/) | 벤처스퀘어 |
+| 2026-10-11 | [“처방은 병원이, 그다음은 삐약이”… 천예슬 비비드헬스 대표가 데이터로 그리는 ‘GLP-1 관리 시장’](https://www.venturesquare.net/1118501/) | 벤처스퀘어 |
+| 2026-10-11 | [메타브랜딩, AI 검색에 선택받는 브랜드는 어떻게 만들까…16일 브랜딩 실전 세미나](https://www.venturesquare.net/1118793/) | 벤처스퀘어 |
+| 2026-10-11 | [kt 밀리의서재, 노벨문학상 수상 앤 카슨 대표작 3종 공개…‘빨강의 자서전’ 주간 2위](https://www.venturesquare.net/1118810/) | 벤처스퀘어 |
+| 2026-10-12 | [“감으로 맺던 계약, 데이터로 설계한다”…BHSN, 법무팀 없는 중소기업의 계약 비서](https://www.venturesquare.net/1118844/) | 벤처스퀘어 |
+| 2026-10-12 | [네이버지도, 길 찾을 때 스마트폰 꺼낼 필요 없어진다…메타·구글·삼성 AI 글래스에 음성 길안내](https://www.venturesquare.net/1118811/) | 벤처스퀘어 |
+| 2026-10-12 | [페이브먼트 셀레트립, 더보이즈 상연 목소리로 도쿄 여행…첫 일본 단독 팬미팅 패키지 출시](https://www.venturesquare.net/1118870/) | 벤처스퀘어 |
+| 2026-10-12 | [티비지파트너스, K-바이오 스타트업 7곳 싱가포르 의료기관·투자자 연결…‘커넥트 2026’ 개최](https://www.venturesquare.net/1118883/) | 벤처스퀘어 |
+| 2026-10-12 | [콘스탄트 리필드, 탈모케어 전 제품 뷰티컬리 입점…특허 성분 앞세워 3040 여성 공략](https://www.venturesquare.net/1118890/) | 벤처스퀘어 |
+| 2026-10-12 | [고미몰제너럴트레이딩, ‘두바이 뷰티월드 2026’ 참가…중동 K-뷰티 유통 확대](https://www.venturesquare.net/1118910/) | 벤처스퀘어 |
+| 2026-10-12 | [딥브레인AI, AI가 만든 콘텐츠 배포 전 한 번 더 검사한다…딥페이크 판별 정확도 96%](https://www.venturesquare.net/1118919/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
