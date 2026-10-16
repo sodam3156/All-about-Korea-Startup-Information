@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-15 (KST)_
+_자동 갱신: 2026-10-16 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-15 | [2026년 하반기 화성시 벤처인증 비용 지원사업](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178737) | (재)화성산업진흥원 | K-Startup 사업공고 |
-| 2026-10-15 | [26년 10월 스타트업 언론 홍보 지원사업 참가사 모집 공고(1차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179361) | 스타트업 데일리 | K-Startup 사업공고 |
-| 2026-10-15 | [[부산울산경남센터] 사회적협동조합 설립인가 및 경영공시 교육 안내 (10.14.(수), 10.15.(목) - 온라인병행)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179337) | 한국사회적기업진흥원 부산울산경남센터 | K-Startup 사업공고 |
-| 2026-10-15 | [(Plug in: Tokyo) 일본 도쿄 Startup JAPAN expo 2026 참여 스타트업 모집(~10/15)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179326) | (재)부산창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-10-15 | [[강동구 청년해냄센터] 고덕비즈밸리 강동U1센터 청년창업공간 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179402) | 강동구 청년해냄센터 | K-Startup 사업공고 |
-| 2026-10-15 | [[숭실대학교 캠퍼스타운 x 스팩스페이스] 생성형 AI활용 사업계획서 마스터링 과정 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179372) | 숭실대학교 캠퍼스타운사업단 | K-Startup 사업공고 |
-| 2026-10-15 | [모두의 창업 등 정부지원사업 완벽 대비! 「1:1 맞춤형 창업 멘토링」 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179422) | 강남구여성능력개발센터 | K-Startup 사업공고 |
-| 2026-10-15 | [(창업도시조성프로젝트)울산 벤처빌더 플랫폼(Step1) 참여팀 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179469) | (재)울산창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-10-16 | [2026년 전시회 부스 지원 참여 소상공인 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179217) | 중소상공인희망재단 | K-Startup 사업공고 |
 | 2026-10-16 | [ETRI 기술활용 신사업 모델 공모전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179280) | 에트리홀딩스 | K-Startup 사업공고 |
 | 2026-10-16 | [2026년 특허출원·등록 비용 바우처 지원사업 14차(하반기 7차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179356) | (사)한국중소기업발전협회 | K-Startup 사업공고 |
@@ -32,22 +24,30 @@ _자동 갱신: 2026-10-15 (KST)_
 | 2026-10-16 | [2026년 서울 라이프스타일 거점(일본) 진출사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179454) | 서울경제진흥원 | K-Startup 사업공고 |
 | 2026-10-16 | [2026 오세아니아 전략시장 진출 사업 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179453) | 서울경제진흥원 | K-Startup 사업공고 |
 | 2026-10-16 | [[제주창조경제혁신센터]「상시매칭 오픈이노베이션 플랫폼」&apos;에코프로 계열사&apos;&apos;수요과제 매칭 스타트업 모집 (~10/16)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179487) | 제주창조경제혁신센터 | K-Startup 사업공고 |
+| 2026-10-16 | [성남 기후테크 UpSkill 아카데미 Vol.3 - 투자유치를 위한 IR 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179490) | 도시혁신그룹 무브먼트 주식회사 | K-Startup 사업공고 |
 | 2026-10-18 | [2026 강동구 창업가 네트워킹 데이 참가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179388) | 강동구 청년해냄센터 | K-Startup 사업공고 |
+| 2026-10-18 | [「2026 전북특구 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업」배치프로그램 4기 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179367) | 연구개발특구진흥재단 | K-Startup 사업공고 |
+| 2026-10-18 | [2026 D-Global 딥테크 스케일업 세미나 참가 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179494) | 조슈아파트너스(주) | K-Startup 사업공고 |
+| 2026-10-19 | [2026년 대한민국 물산업 혁신 창업대전(Startup Water 2026) 참가자(팀) 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178976) | 기후에너지환경부 | K-Startup 사업공고 |
+| 2026-10-19 | [UNIST 연구자-예비창업자 팀빌딩 프로그램](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179358) | 울산과학기술원(UNIST) | K-Startup 사업공고 |
+| 2026-10-19 | [영도 창업오피스 크립톤 1:1 멘토링 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179424) | 크립톤 부산센터 | K-Startup 사업공고 |
+| 2026-10-19 | [2026년「강남 취‧창업허브센터」8차 입주 기업 신규 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179435) | 서울특별시 강남구청 | K-Startup 사업공고 |
+| 2026-10-19 | [2026 Invest Seoul Partners Night](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179515) | 서울투자진흥재단 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-15 | [파라택시스이더리움, 이더리움 42억원어치 추가 취득…총 보유량 1만1729개로 확대](https://www.venturesquare.net/1120019/) | 벤처스퀘어 |
-| 2026-10-15 | [씨엔티테크·경기북부 청년창업사관학교, 수도·강원권 스타트업 10개사 투자 IR 개최](https://www.venturesquare.net/1120018/) | 벤처스퀘어 |
-| 2026-10-15 | [부산창조경제혁신센터, ‘모두의 창업’ 지역오디션 개최…29명 중 12명 선발](https://www.venturesquare.net/1120022/) | 벤처스퀘어 |
-| 2026-10-15 | [윗유, 틱톡코리아와 미국 틱톡샵 진출 지원…국내 브랜드 10개사 집중 육성](https://www.venturesquare.net/1120030/) | 벤처스퀘어 |
-| 2026-10-15 | [그린다, 스케일업 팁스 특화형 선정…SAF 원료 대량생산 기술에 최대 30억원 지원](https://www.venturesquare.net/1120043/) | 벤처스퀘어 |
-| 2026-10-15 | [더벤처스, 미국 K-베이커리 카페 ‘스모킹 타이거’ 시드 투자…5개 주 이상 진출 추진](https://www.venturesquare.net/1120046/) | 벤처스퀘어 |
-| 2026-10-15 | [딥엑스 NPU, 라즈베리 파이 공식 뉴스룸 소개…3W 전력으로 비전·언어 AI 구현](https://www.venturesquare.net/1120048/) | 벤처스퀘어 |
-| 2026-10-15 | [미미박스 누니, 일본 라쿠텐 립오일 랭킹 1위…로프트 입점으로 오프라인 공략](https://www.venturesquare.net/1120061/) | 벤처스퀘어 |
-| 2026-10-15 | [에이슨, 미세전류 뷰티 디바이스 ‘루바’ 첫 팝업 완판…백화점 유통 확대 추진](https://www.venturesquare.net/1120062/) | 벤처스퀘어 |
-| 2026-10-15 | [틱톡, ‘틱톡 서밋 코리아 2026’ 개최…AI 광고부터 K브랜드 해외 진출까지](https://www.venturesquare.net/1120074/) | 벤처스퀘어 |
+| 2026-10-15 | [부스터스 이퀄베리, 아마존 할인 행사 매출 5배 성장…NAD+ 세럼·크림이 실적 견인](https://www.venturesquare.net/1120284/) | 벤처스퀘어 |
+| 2026-10-15 | [휴로틱스, 250억원 시리즈A 투자 유치…대웅·네이버·롯데 합류로 웨어러블 로봇 사업 확대](https://www.venturesquare.net/1120296/) | 벤처스퀘어 |
+| 2026-10-15 | [경기창조경제혁신센터, 9개 기관과 ‘경기 스타트업 플렉스’ 개최…모빌리티원 중기부 장관상](https://www.venturesquare.net/1120321/) | 벤처스퀘어 |
+| 2026-10-15 | [시높시스, 딥엑스 등 경기 팹리스 4개사와 협력…AI·반도체 스타트업 성장 지원](https://www.venturesquare.net/1120320/) | 벤처스퀘어 |
+| 2026-10-15 | [디셈버앤컴퍼니 핀트, KB증권과 AI 투자 이벤트…직접투자·자동운용 결합](https://www.venturesquare.net/1120331/) | 벤처스퀘어 |
+| 2026-10-15 | [번개장터, 찜한 상품에만 48시간 할인…‘비밀가격제안’ 도입 후 평균 7.4시간 만에 거래](https://www.venturesquare.net/1120330/) | 벤처스퀘어 |
+| 2026-10-15 | [AI스페라, 일본 보안 전시회서 AI 위협 노출 관리 플랫폼 ‘AITEM’ 공개](https://www.venturesquare.net/1120263/) | 벤처스퀘어 |
+| 2026-10-15 | [“기술이 남긴 문제, 기술로 해결한다”…블루포인트, 12개 스타트업이 펼친 ‘기술낙관주의’](https://www.venturesquare.net/1120338/) | 벤처스퀘어 |
+| 2026-10-15 | [망고슬래브 AI 점자 프린터 ‘네모닉닷’, 美 타임 ‘2026 최고의 발명품’ 선정](https://www.venturesquare.net/1120356/) | 벤처스퀘어 |
+| 2026-10-15 | [[VS 현장] “투자자도, 고객도 한자리에서”…인천 SuRF 2026, 스타트업 성장 기회 잇다](https://www.venturesquare.net/1118746/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
