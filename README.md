@@ -7,15 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-18 (KST)_
+_자동 갱신: 2026-10-19 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-18 | [2026 강동구 창업가 네트워킹 데이 참가 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179388) | 강동구 청년해냄센터 | K-Startup 사업공고 |
-| 2026-10-18 | [「2026 전북특구 이노폴리스 캠퍼스(액셀러레이팅 지원) 사업」배치프로그램 4기 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179367) | 연구개발특구진흥재단 | K-Startup 사업공고 |
-| 2026-10-18 | [2026 D-Global 딥테크 스케일업 세미나 참가 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179494) | 조슈아파트너스(주) | K-Startup 사업공고 |
 | 2026-10-19 | [2026년 대한민국 물산업 혁신 창업대전(Startup Water 2026) 참가자(팀) 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178976) | 기후에너지환경부 | K-Startup 사업공고 |
 | 2026-10-19 | [UNIST 연구자-예비창업자 팀빌딩 프로그램](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179358) | 울산과학기술원(UNIST) | K-Startup 사업공고 |
 | 2026-10-19 | [영도 창업오피스 크립톤 1:1 멘토링 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179424) | 크립톤 부산센터 | K-Startup 사업공고 |
@@ -33,21 +30,24 @@ _자동 갱신: 2026-10-18 (KST)_
 | 2026-10-20 | [2026-5회 호남 엔젤리더스포럼 in 전남광주](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179475) | 한국엔젤투자협회 호남권 엔젤투자허브 | K-Startup 사업공고 |
 | 2026-10-20 | [2026년 프로젝트 창업 인큐베이팅 : 2027 모두의 창업 선정 프로젝트](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179446) | 2026년 프로젝트 창업 인큐베이팅 운영사무국 | K-Startup 사업공고 |
 | 2026-10-20 | [가죽·패션 제품개발 협업사업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179507) | 서울시 강동가죽제조지원센터 | K-Startup 사업공고 |
+| 2026-10-21 | [파주청년창업지원센터 하반기 청년 창업아카데미 참여기업/팀 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179318) | 파주시, (재)경기테크노파크 | K-Startup 사업공고 |
+| 2026-10-21 | [[서초창업스테이션] 서리풀 소상공인 창업 클리닉(10월) - 소상공인 1:1 컨설팅](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179370) | 서초창업스테이션 | K-Startup 사업공고 |
+| 2026-10-21 | [2026년 제3차 I-PLEX광주 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179442) | (재)광주테크노파크 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-17 | [“성수 상권의 변화부터 AI 데이터센터 투자까지”…알스퀘어가 짚은 부동산 시장의 새 흐름](https://www.venturesquare.net/1120741/) | 벤처스퀘어 |
-| 2026-10-17 | [[김지현의 Scale-Up Note] 스타트업은 언제 ‘꼰대 조직’이 되는가](https://www.venturesquare.net/1120771/) | 벤처스퀘어 |
-| 2026-10-18 | [[VS 기획] AGI를 먼저 개발한 나라가 세계를 지배할까…미중 AI 패권 경쟁의 진짜 위험](https://www.venturesquare.net/1120777/) | 벤처스퀘어 |
-| 2026-10-16 | [엑시나, SK하이닉스와 AI 메모리 기술 협력…‘OCP 글로벌 서밋’서 CXL 기반 추론 솔루션 공개](https://www.venturesquare.net/1120582/) | 벤처스퀘어 |
-| 2026-10-16 | [엔젤로보틱스, 창업자 공경철 대표 경영 복귀…피지컬 AI 중심 기술 전략 강화](https://www.venturesquare.net/1120589/) | 벤처스퀘어 |
-| 2026-10-16 | [스포티파이, 하츠투하츠 단독 퍼포먼스 영상 공개…K팝 아티스트 글로벌 팬덤 연결](https://www.venturesquare.net/1120588/) | 벤처스퀘어 |
-| 2026-10-16 | [테스티파이, 생성형 AI로 소프트웨어 테스트 자동화…‘G-스타 오디션’ 1위 기술 공개](https://www.venturesquare.net/1120601/) | 벤처스퀘어 |
-| 2026-10-16 | [쓰리빌리언, AI 유전체 분석 속도 4배 높였다…희귀질환 진단 연구 4건 공개했다](https://www.venturesquare.net/1120605/) | 벤처스퀘어 |
-| 2026-10-16 | [KOSA·TTA, 피지컬 AI 국제표준 선점 나선다…로봇·센서·데이터 통합 기준 마련](https://www.venturesquare.net/1120630/) | 벤처스퀘어 |
-| 2026-10-16 | [경남창조경제혁신센터, 제조 현장 바꿀 피지컬 AI 스타트업 3개사 투자유치 지원한다](https://www.venturesquare.net/1120633/) | 벤처스퀘어 |
+| 2026-10-19 | [부스터스 이퀄베리, 미국 얼타뷰티 입점…오프라인 월평균 매출 10배 성장](https://www.venturesquare.net/1120890/) | 벤처스퀘어 |
+| 2026-10-19 | [클레온, 삼성 무안경 3D 디스플레이에 대화형 AI 적용…서울역 ‘AI 역무원’ 시범 운영](https://www.venturesquare.net/1120893/) | 벤처스퀘어 |
+| 2026-10-19 | [스파크랩, AI 창업팀 76곳 육성…10주 만에 첫 매출 10개 팀·신규 고객 확보 24개 팀](https://www.venturesquare.net/1120904/) | 벤처스퀘어 |
+| 2026-10-19 | [스페이스브이, 단기임대 플랫폼 ‘삼삼엠투’ 거래액 4500억원 돌파…서울시 우수기업 인증](https://www.venturesquare.net/1120910/) | 벤처스퀘어 |
+| 2026-10-19 | [지엔테크놀로지스, 선박 철 구조물 활용한 무선통신 기술로 글로벌 시장 확대](https://www.venturesquare.net/1120552/) | 벤처스퀘어 |
+| 2026-10-19 | [주빅, 40억원 규모 스케일업 팁스 선정…바이오의약품 마이크로니들 양산기술 고도화](https://www.venturesquare.net/1120918/) | 벤처스퀘어 |
+| 2026-10-19 | [블루포인트·한국원자력협력재단, 원자력 딥테크 스타트업 6개 팀 투자유치 무대 마련](https://www.venturesquare.net/1120928/) | 벤처스퀘어 |
+| 2026-10-19 | [마크앤컴퍼니, 스타트업 성장 데이터로 이직 판단 돕는다…‘혁신의숲 career’ 출시](https://www.venturesquare.net/1120930/) | 벤처스퀘어 |
+| 2026-10-19 | [더파운더즈, 북미 세포라 1200개 매장 진출한 ‘프롬랩스’ 글로벌 마케팅 인재 채용](https://www.venturesquare.net/1120938/) | 벤처스퀘어 |
+| 2026-10-19 | [플럭스, OLED 증착 기술로 차세대 배터리용 금속 음극 맞춤 제작](https://www.venturesquare.net/1120843/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
