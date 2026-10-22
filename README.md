@@ -7,19 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-21 (KST)_
+_자동 갱신: 2026-10-22 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-21 | [파주청년창업지원센터 하반기 청년 창업아카데미 참여기업/팀 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179318) | 파주시, (재)경기테크노파크 | K-Startup 사업공고 |
-| 2026-10-21 | [[서초창업스테이션] 서리풀 소상공인 창업 클리닉(10월) - 소상공인 1:1 컨설팅](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179370) | 서초창업스테이션 | K-Startup 사업공고 |
-| 2026-10-21 | [2026년 제3차 I-PLEX광주 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179442) | (재)광주테크노파크 | K-Startup 사업공고 |
-| 2026-10-21 | [구로구 청년창업지원센터 일반 창업교육(하반기: 5회차): 투자를 위한 비즈니스 모델 수립 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179457) | 구로구 청년창업지원센터 | K-Startup 사업공고 |
-| 2026-10-21 | [바이오/헬스케어 기업들을 위한 「2026 혁신신약살롱 마곡」 참여 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179492) | (재)서울경제진흥원 | K-Startup 사업공고 |
-| 2026-10-21 | [2026 충남창업마루나비 하반기 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179524) | 충남창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-10-21 | [충북테크노파크 차세대에너지 스타트업 DEMO DAY](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179537) | 주식회사 내비온파트너스 | K-Startup 사업공고 |
 | 2026-10-22 | [2026년 강북창업지원센터 10월 창업 교육 및 그룹상담 프로그램 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179418) | 강북청년창업마루 | K-Startup 사업공고 |
 | 2026-10-22 | [쇼미더임팩트 시즌6 참가자 모집 [IMPACT IR 경연대회]](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179375) | 충남사회적경제지원센터장 | K-Startup 사업공고 |
 | 2026-10-22 | [[강동구 청년해냄센터] 2026 모의창업스쿨 2차 교육 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179460) | 강동구 청년해냄센터 | K-Startup 사업공고 |
@@ -33,21 +26,28 @@ _자동 갱신: 2026-10-21 (KST)_
 | 2026-10-23 | [2026년 제2차 대전센터 여성BI 입주기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179338) | (재)여성기업종합지원센터 대전센터장 | K-Startup 사업공고 |
 | 2026-10-23 | [2026년 하반기 남동구 청년창업지원센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179411) | 남동구 청년창업지원센터 | K-Startup 사업공고 |
 | 2026-10-23 | [2026년 위치정보 보호조치 교육 (6차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179393) |  (주)아이전스 | K-Startup 사업공고 |
+| 2026-10-23 | [[ 칠곡군 중장년 기술창업센터]제3차 Pre-인큐베이팅 창업교육 수강생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179381) | 칠곡군중장년기술창업센터 | K-Startup 사업공고 |
+| 2026-10-23 | [경기창업혁신공간 서부권 「스담스담」(오픈 네트워킹) 3회차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179416) | 경기도경제과학진흥원 | K-Startup 사업공고 |
+| 2026-10-23 | [[서초창업스테이션] 10월 1:1 전문 분야 컨설팅 - 지식재산권/특허 전략, 브랜딩 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179434) | 서초창업스테이션 | K-Startup 사업공고 |
+| 2026-10-23 | [2027년 K-water 해외시장개척단 참여기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179477) | K-water 기후테크혁신처장 | K-Startup 사업공고 |
+| 2026-10-23 | [2026년 초기창업패키지 로켓십 IR 경진대회 참가기업 모집 (3회차: 기후·ESG)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179474) | 씨엔티테크(주) | K-Startup 사업공고 |
+| 2026-10-23 | [2026 산업단지 오픈이노베이션프로그램 KICXUP 챌린지 & 로컬 스타트업 2차 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179496) | 한국산업단지공단 | K-Startup 사업공고 |
+| 2026-10-23 | [2026년 나주형 청년 에너지 창업 사관학교(직·주·락·비) 사업 1차 수행기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179519) |  (재)전남테크노파크 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-20 | [샌디플로어, 중기부 팁스 선정…AI 기반 게임 개발·배포 자동화 기술 개발](https://www.venturesquare.net/1121539/) | 벤처스퀘어 |
-| 2026-10-20 | [NC AI, ‘바르코 3D·사운드’ 첫 달 구독료 50% 할인…AI 콘텐츠 제작 지원](https://www.venturesquare.net/1121533/) | 벤처스퀘어 |
-| 2026-10-20 | [핀다, 보험 퍼미션 기업 더열심히와 협력…금융 플랫폼 기반 보험 고객 발굴 확대](https://www.venturesquare.net/1121547/) | 벤처스퀘어 |
-| 2026-10-20 | [에코마케팅, 틱톡 ‘프리미어 에이전시’ 선정…AI 기반 글로벌 광고·커머스 사업 강화](https://www.venturesquare.net/1121554/) | 벤처스퀘어 |
-| 2026-10-20 | [노이즈앤피치, ‘창창프로젝트’ 크리에이터 컨설팅 완료…AI 데이터 분석으로 성장 전략 제시](https://www.venturesquare.net/1121557/) | 벤처스퀘어 |
-| 2026-10-20 | [그립컴퍼니, 카카오톡 라이브 방송 알림 ‘방송톡’ 출시…크리에이터 매출·시청자 유입 지원](https://www.venturesquare.net/1121568/) | 벤처스퀘어 |
-| 2026-10-20 | [메디웨이브, 카카오톡 기반 병원 서류 발급·환자 관리 솔루션 ‘메디챗’ 100개 병·의원 도입](https://www.venturesquare.net/1121576/) | 벤처스퀘어 |
-| 2026-10-20 | [“AI가 일하기 시작했다, 기업은 무엇이 달라졌나”…씽킹AI 서밋 2026, AI 에이전트의 실전 성적표](https://www.venturesquare.net/1121590/) | 벤처스퀘어 |
-| 2026-10-20 | [릴리스AI 오현수 대표, 130만 명이 선택한 AI를 다시 만든 이유…글로벌 겨냥 ‘리드레이’ 26일 출시](https://www.venturesquare.net/1121220/) | 벤처스퀘어 |
-| 2026-10-20 | [직방, 스마트홈 AI 브랜드 ‘소마’ 출범…자녀 귀가 알리는 도어록 ‘소마 케어 P1’ 출시](https://www.venturesquare.net/1121611/) | 벤처스퀘어 |
+| 2026-10-21 | [핀다, 대원저축은행 지분 60% 인수 승인…대출 중개 넘어 금융상품 직접 공급](https://www.venturesquare.net/1121776/) | 벤처스퀘어 |
+| 2026-10-21 | [에이딘로보틱스, ROBEX 2026서 로봇 힘 제어 기술 시연…HD현대로보틱스와 협력 확대](https://www.venturesquare.net/1121791/) | 벤처스퀘어 |
+| 2026-10-21 | [울산창조경제혁신센터, 기술 스타트업 3개사 영국 진출 지원…런던·버밍엄서 협력 기회 발굴](https://www.venturesquare.net/1121795/) | 벤처스퀘어 |
+| 2026-10-21 | [중기부, 대구·경북 첫 통합 지역성장펀드 1300억원 결성…2000억원 벤처펀드 조성 추진](https://www.venturesquare.net/1121806/) | 벤처스퀘어 |
+| 2026-10-21 | [네이션에이, 85억원 시리즈A 투자 유치…AI 영상 제작 플랫폼 통합·글로벌 확장 추진](https://www.venturesquare.net/1121809/) | 벤처스퀘어 |
+| 2026-10-21 | [칼렛바이오, 친환경 포장 기술로 국무총리표창 수상…재활용 종이테이프 상용화 성과](https://www.venturesquare.net/1121819/) | 벤처스퀘어 |
+| 2026-10-21 | [줌, 회의·채팅·고객 데이터 연결하는 ‘통합 컨텍스트 레이어’ 공개…AI 업무 자동화 확대](https://www.venturesquare.net/1121829/) | 벤처스퀘어 |
+| 2026-10-21 | [오후두시랩 설수경 대표, 탄소 데이터를 소비자의 선택 기준으로 바꾸다](https://www.venturesquare.net/1121444/) | 벤처스퀘어 |
+| 2026-10-22 | [노드큐어, 반려견 맞춤형 면역항암제 개발로 치료 선택지 확대](https://www.venturesquare.net/1121881/) | 벤처스퀘어 |
+| 2026-10-22 | [넥썸, 반도체 냉각유체 관리에서 정밀 온도제어 장비까지](https://www.venturesquare.net/1121855/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
