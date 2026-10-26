@@ -7,18 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-10-25 (KST)_
+_자동 갱신: 2026-10-26 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-10-25 | [2026년 대전 스타트업 원스톱 지원센터 아카데미 3회차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179211) | 대전창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-10-25 | [현직 엔지니어와 함께하는 하드웨어 스타트업 제품화 실무 코칭](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179407) | 인탑스(주) | K-Startup 사업공고 |
-| 2026-10-25 | [[푼타컴퍼니]로컬 인디브랜드 성장을 위한 국내 및 글로벌 성장 프로그램 참가 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179366) | 주식회사 푼타컴퍼니 | K-Startup 사업공고 |
-| 2026-10-25 | [[벙커샷 컴퍼니] Pre-Seed 컴퍼니빌딩 프로그램 2026년 4기 참가기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179427) | (주)벙커샷컴퍼니 | K-Startup 사업공고 |
-| 2026-10-25 | [2026년 하반기 과천시 창업지원센터 스마트오피스 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179529) | 과천시 창업지원센터 | K-Startup 사업공고 |
-| 2026-10-25 | [[2026 에코스타트업 Green IR DAY] 참관 신청](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179553) | 마크앤컴퍼니 | K-Startup 사업공고 |
 | 2026-10-26 | [코리아 핀테크 위크 2026 「핀테크 스타트업 1:1 투자 밋업」 참여기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179012) | 한국성장금융투자운용 | K-Startup 사업공고 |
 | 2026-10-26 | [2026년 제6회 SDGs 소셜벤처 챔피언십 참가자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179241) | 사단법인 한국지속가능소셜벤처협회 | K-Startup 사업공고 |
 | 2026-10-26 | [2026년 7회차 지식재산 무료 초청교육 수요조사](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179376) | 한국특허정보원 | K-Startup 사업공고 |
@@ -33,21 +27,27 @@ _자동 갱신: 2026-10-25 (KST)_
 | 2026-10-27 | [2026 정주영 창업경진대회: 무한(INFINITE)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179245) | 아산나눔재단 | K-Startup 사업공고 |
 | 2026-10-27 | [[동대문구 창업지원센터] 10월 메이커스페이스(레이저커터, 3D프린팅) 교육 일정](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179420) | 동대문구 창업지원센터 | K-Startup 사업공고 |
 | 2026-10-27 | [2027년도 관광기업지원센터(서울) 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179465) | 한국관광공사 | K-Startup 사업공고 |
+| 2026-10-27 | [Applications Now Open: 2026 OASIS-6 Global Startup Challenge 「2026 외국인 창업대전(OASIS-6)」 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179459) | 글로벌창업이민센터(한국능률협회컨설팅) | K-Startup 사업공고 |
+| 2026-10-27 | [[무료|150석 한정] 딥테크 창업가 컨퍼런스 d.day : founders summit 참가자 모집 10/29](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179527) | 재단법인 은행권청년창업재단 | K-Startup 사업공고 |
+| 2026-10-27 | [2026 관광기업 동반성장 기술역량 강화교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179574) | 한국관광공사 | K-Startup 사업공고 |
+| 2026-10-27 | [2026 문화예술 창업교육의 모든 것.zip 2기 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179506) | 성북구 청년공간 길이음 | K-Startup 사업공고 |
+| 2026-10-27 | [[강원ICT융합연구원] 강원 미래산업 AX혁신과 지산학연 신사업 발굴 포럼](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179592) | 강원ICT융합연구원 | K-Startup 사업공고 |
+| 2026-10-28 | [동국대학교 BMC창업보육센터(고양)신규 입주기업 모집공고(2026년 6차)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179360) | 동국대학교 BMC창업보육센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-24 | [한국무역협회, LA서 첫 K-프리미엄 소비재전 개최…85개 기업 북미 판로 개척](https://www.venturesquare.net/1122609/) | 벤처스퀘어 |
-| 2026-10-24 | [중기부, 창업기업 규제 10개 과제 개선…R&D·벤처스튜디오·재창업 문턱 낮춘다](https://www.venturesquare.net/1122621/) | 벤처스퀘어 |
-| 2026-10-25 | [에이알에이, 14년 호흡 연구를 환자용 훈련기 ‘BreathSol’로](https://www.venturesquare.net/1122370/) | 벤처스퀘어 |
-| 2026-10-25 | [드림즈 방극진 대표, 원전 설비 연구에서 방사능 재난안전 솔루션까지](https://www.venturesquare.net/1122605/) | 벤처스퀘어 |
-| 2026-10-25 | [[Venture Insider의 글로벌 생존기] 미국 VC 40번 만났지만 투자유치는 0건…37번 반복된 질문](https://www.venturesquare.net/1122627/) | 벤처스퀘어 |
-| 2026-10-23 | [스튜디오메타케이, 신용보증기금 프리아이콘 선정…AI 콘텐츠·IP 사업화 확대](https://www.venturesquare.net/1122384/) | 벤처스퀘어 |
-| 2026-10-23 | [넘즈에이아이, 젠슨 황 엔비디아 GTC 기조연설에 등장…정형 데이터 AI 모델 ‘코실로’ 주목](https://www.venturesquare.net/1122390/) | 벤처스퀘어 |
-| 2026-10-23 | [스타팅파트너스, 더존비즈온과 소기업 AI 채용 서비스 협업…동행라운지 25대 1 경쟁률 통과](https://www.venturesquare.net/1122393/) | 벤처스퀘어 |
-| 2026-10-23 | [와디즈, AI 기반 펀딩 성과 관리 시스템 ‘메이커 인텔리전스’ 출시…매일 개선 전략 제안](https://www.venturesquare.net/1122404/) | 벤처스퀘어 |
-| 2026-10-23 | [경기창조경제혁신센터, AI 스타트업 4개사 싱가포르 진출 지원…오라클과 글로벌 로드쇼 개최](https://www.venturesquare.net/1122413/) | 벤처스퀘어 |
+| 2026-10-25 | [5만명 가르친 건축 스타트업, 이제 집을 바꾼다…렉터스 박상근 대표](https://www.venturesquare.net/1117989/) | 벤처스퀘어 |
+| 2026-10-25 | [“AI가 추천하는 브랜드를 설계한다”… 스토어링크, AI 마케팅 플랫폼으로 전환](https://www.venturesquare.net/1122669/) | 벤처스퀘어 |
+| 2026-10-26 | [아날로그에이아이 이재준 대표, ‘계산하는 메모리’로 초저전력 AI 반도체에 도전](https://www.venturesquare.net/1122655/) | 벤처스퀘어 |
+| 2026-10-26 | [아임웹, AI가 실행하고 개발자가 판단하는 협업 방식 공유…첫 기술 밋업 개최](https://www.venturesquare.net/1122630/) | 벤처스퀘어 |
+| 2026-10-26 | [허드슨에이아이, 더빙 제작부터 품질 검수까지 AI로 통합…콘텐츠 현지화 자동화 기술 공개](https://www.venturesquare.net/1122716/) | 벤처스퀘어 |
+| 2026-10-26 | [메디리타, 멀티오믹스 AI로 신약 후보물질 발굴부터 효능 예측까지](https://www.venturesquare.net/1122700/) | 벤처스퀘어 |
+| 2026-10-26 | [브이유에스, 폐기물 수거차량에 AI 계량 기술 적용…딥테크 팁스 선정](https://www.venturesquare.net/1122720/) | 벤처스퀘어 |
+| 2026-10-26 | [젠엑시스, 서울창조경제혁신센터와 손잡고 스타트업 투자금 회수·재투자 연결](https://www.venturesquare.net/1122724/) | 벤처스퀘어 |
+| 2026-10-26 | [리멤버, 17개 산업 CEO 300명 모아 AI 도입 전략 공유…첫 ‘디시전 메이커스 서밋’ 개최](https://www.venturesquare.net/1122742/) | 벤처스퀘어 |
+| 2026-10-26 | [두나무앤파트너스, 우주 데이터센터 스타클라우드 투자…23억 달러 기업가치 인정](https://www.venturesquare.net/1122747/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
