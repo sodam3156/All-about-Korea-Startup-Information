@@ -7,16 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-11-01 (KST)_
+_자동 갱신: 2026-11-02 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-11-01 | [DB손해보험 X 건국대학교 2026 DB KU Startup Match 프로그램 참가기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179567) | DB손해보험, 건국대학교 창업지원본부 | K-Startup 사업공고 |
-| 2026-11-01 | [[포스텍홀딩스 데모데이] 2026 PR Day : 기술, 현실이 되다](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179604) | 포항공과대학교 기술지주 주식회사 | K-Startup 사업공고 |
-| 2026-11-01 | [2026 예비창업패키지 ST 창업준비 아카데미 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179616) | 서울과학기술대학교  | K-Startup 사업공고 |
-| 2026-11-01 | [[2026 Beyond OI] 밋업 데이 참여 스타트업 모집(~11.1)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179624) | 경기창조경제혁신센터 | K-Startup 사업공고 |
 | 2026-11-02 | [[제2서울핀테크랩] 2027년 제2서울핀테크랩 입주ㆍ멤버십 기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179327) | 서울특별시 | K-Startup 사업공고 |
 | 2026-11-02 | [대학생 예비 창업가의 아이디어를 검증할 실전 무대, 2026 『신한 스퀘어브릿지』 HERO IR 참가자 모집(~11/2)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179413) | 신한금융희망재단 | K-Startup 사업공고 |
 | 2026-11-02 | [「민관협력 오픈이노베이션 지원」2026년 제2차 상호 자율탐색형(바이오 분야) 참여기업 모집공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179408) | 중소벤처기업부 장관 | K-Startup 사업공고 |
@@ -33,21 +29,25 @@ _자동 갱신: 2026-11-01 (KST)_
 | 2026-11-03 | [스타트업을 위한 정부 R&D 특강](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179674) | 한국기술교육대학교 앵커사업단 | K-Startup 사업공고 |
 | 2026-11-03 | [[성동구 사회적경제지원센터 x KT&G 상상플래닛] 현장사례 아카데미 <착한 사업을 위해, 되는 사업을 만들었습니다. >](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179600) | KT&G 상상플래닛 운영팀 | K-Startup 사업공고 |
 | 2026-11-04 | [2026년 11월 동네창업학교 교육생 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179522) | 충남신용보증재단 | K-Startup 사업공고 |
+| 2026-11-04 | [2026년 여성CEO 비즈니스 아카데미 경상권역 시즌 2](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179538) | 한국여성경제인협회 | K-Startup 사업공고 |
+| 2026-11-04 | [2026년 스타트업, 중소기업, 소상공인을 위한 M&A 전략 세미나](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179557) | 광진경제허브센터 | K-Startup 사업공고 |
+| 2026-11-04 | [강남구 개포동지역 ㈜오피스허브 1인 창조기업 지원센터 입주기업 모집(1인실)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179633) | ㈜오피스허브 1인 창조기업 지원센터 | K-Startup 사업공고 |
+| 2026-11-04 | [2026 연구개발특구 딥테크 스타트업 챌린지 Final Day 행사 사전접수](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179645) | (주)리벤처스 대표이사 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-10-31 | [네이버웹툰, 이토 준지 공포 만화 ‘걸작집’ 첫 세로 스크롤 웹툰으로 공개](https://www.venturesquare.net/1124518/) | 벤처스퀘어 |
-| 2026-10-31 | [티유브이슈드, 아이넥스 대장내시경 AI 소프트웨어 CE MDR 인증…유럽 시장 진출 기반 확보](https://www.venturesquare.net/1124570/) | 벤처스퀘어 |
-| 2026-10-31 | [쇼피, 10.10 메가데이서 한국 셀러 판매 7배 증가…현지 풀필먼트 판매는 10배](https://www.venturesquare.net/1124576/) | 벤처스퀘어 |
-| 2026-10-31 | [[최앤리의 스타트업 법률 가이드] 벤처투자 계약의 기준이 바뀐다…RCPS·상장 의무·창업자 책임까지](https://www.venturesquare.net/1121115/) | 벤처스퀘어 |
-| 2026-11-01 | [[VS 기획] 세계 평균 두 배 넘는 한국 AI 이용률…인크로스 보고서로 본 ‘AI 유료 소비 시대’](https://www.venturesquare.net/1124584/) | 벤처스퀘어 |
-| 2026-11-01 | [팀스파르타, 진단·교육·구축·폐쇄망 AI까지… 목표는 구성원마다 에이전트 하나씩 두는 ‘1인 1에이전트’](https://www.venturesquare.net/1124608/) | 벤처스퀘어 |
-| 2026-10-30 | [리멤버, AI 도입 기업 29% 고객센터 인력 충원…감원보다 업무 재배치 많았다](https://www.venturesquare.net/1124426/) | 벤처스퀘어 |
-| 2026-10-30 | [대전창조경제혁신센터, 스타트업파크 입주기업 성장 지원…선배 창업가 투자·사업화 경험 공유](https://www.venturesquare.net/1124462/) | 벤처스퀘어 |
-| 2026-10-30 | [아티스트베이커리, 서울 브루어리와 협업…소금빵에 수제 맥주 더한 ‘빵맥’ 선보여](https://www.venturesquare.net/1124463/) | 벤처스퀘어 |
-| 2026-10-30 | [인크로스, 생성형 AI 이용자 85% 시대…유료 구독자 월평균 3만 6천 원 지출](https://www.venturesquare.net/1124471/) | 벤처스퀘어 |
+| 2026-11-02 | [콜즈다이나믹스, 최성진 전 코리아스타트업포럼 대표 영입…로컬 투자 생태계 연결 강화](https://www.venturesquare.net/1124770/) | 벤처스퀘어 |
+| 2026-11-02 | [“치매 치료의 새로운 가능성, 유전자 조절에서 찾다”…조찬희 에피큐어 대표의 도전](https://www.venturesquare.net/1124785/) | 벤처스퀘어 |
+| 2026-11-02 | [TV 화면에서 뉴욕의 유리창까지..한세진 인네이처 대표가 넓히는 필름의 쓰임](https://www.venturesquare.net/1124788/) | 벤처스퀘어 |
+| 2026-11-02 | [KAIA·큐네스티, 임팩트 투자의 수익성과 지속가능성 논의…‘제9회 대표자 CLUB HOUSE’ 개최](https://www.venturesquare.net/1124769/) | 벤처스퀘어 |
+| 2026-11-02 | [[VS 현장] 미국 시장의 판이 바뀌었다…KITA 혁신포럼이 짚은 한국 기업의 생존 전략](https://www.venturesquare.net/1124820/) | 벤처스퀘어 |
+| 2026-11-02 | [임팩트스퀘어, 경북 로컬기업 8곳 성장 전략 수립…AI 진단으로 90일 실행계획 구체화](https://www.venturesquare.net/1124833/) | 벤처스퀘어 |
+| 2026-11-02 | [헤이만두컴퍼니, AI 실감형 콘텐츠 ‘번개맞은 찰스’ 전시…관람객 800명 방문](https://www.venturesquare.net/1124851/) | 벤처스퀘어 |
+| 2026-11-02 | [알바천국 ‘K-HIRE’, 외국인 구직자 맞춤형 AI 채용공고 추천 서비스 출시](https://www.venturesquare.net/1124862/) | 벤처스퀘어 |
+| 2026-11-02 | [팀이지, 시드 투자 이어 팁스 선정…중고차 보증보험에 설명가능한 AI 적용](https://www.venturesquare.net/1124861/) | 벤처스퀘어 |
+| 2026-11-02 | [제논, 피지컬 AI 상용화 사례 공개…이종 로봇 통합 관제 기술로 확장](https://www.venturesquare.net/1124869/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
