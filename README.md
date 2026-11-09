@@ -7,16 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-11-08 (KST)_
+_자동 갱신: 2026-11-09 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-11-08 | [2026년 청년 어촌창업 아이디어 공모전](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179448) | 한국어촌어항공단 | K-Startup 사업공고 |
-| 2026-11-08 | [의정부 FIT데이(Demo Day) 2회차 기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179447) | 경기창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-11-08 | [서울동부여성발전센터 창업센터 2027년 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179561) | 서울동부여성발전센터 | K-Startup 사업공고 |
-| 2026-11-08 | [2026 별별상상 스타트업 챌린지](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179676) | 주식회사 툰즈 | K-Startup 사업공고 |
 | 2026-11-09 | [동국대학교 창업보육센터(서울) 신규 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179598) | 동국대학교 창업보육센터 | K-Startup 사업공고 |
 | 2026-11-09 | [2026년 안산정보산업진흥센터(경기TP안산창업보육센터) 제4차 신규 입주자 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179606) | (재)경기테크노파크 | K-Startup 사업공고 |
 | 2026-11-09 | [[서초창업스테이션] 11월 창업 교육 프로그램 - 초기 스타트업을 위한 브랜드 만들기](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179622) | 서초창업스테이션 | K-Startup 사업공고 |
@@ -33,21 +29,25 @@ _자동 갱신: 2026-11-08 (KST)_
 | 2026-11-10 | [[GBSA] 2026 판교스타트업 투자교류회 제 4차 투자교류회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179554) | ㈜내비온파트너스 | K-Startup 사업공고 |
 | 2026-11-10 | [2026 TEL VENTURE CAPITAL X 충남창조경제혁신센터 Nexus Connect 투자 밋업 데이](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179543) | (재)충남창조경제혁신센터 대표이사 | K-Startup 사업공고 |
 | 2026-11-10 | [G밸리의료기기개발지원센터 글로벌역량강화 교육프로그램 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179545) | 한국과학기술연구원 | K-Startup 사업공고 |
+| 2026-11-10 | [상지대학교 창업보육센터 입주기업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179612) | 상지대학교 산학협력단 창업보육센터 | K-Startup 사업공고 |
+| 2026-11-10 | [[강동구 청년해냄센터] 전문분야 창업멘토링 11월 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179629) | 강동구 청년해냄센터 | K-Startup 사업공고 |
+| 2026-11-10 | [2026 서울게임콘텐츠센터 게임랩 신규 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179636) | (재)서울경제진흥원 | K-Startup 사업공고 |
+| 2026-11-11 | [구로구 청년창업지원센터 일반 창업교육(하반기: 6회차): 발표평가 자료 작성 및 발표 요령](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179590) | 구로구 청년창업지원센터 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-11-07 | [[AI 시대 리더의 대화법] AI로 FAQ 40개 만들었는데 성과평가는 C…팀장은 무엇을 설명해야 할까](https://www.venturesquare.net/1126531/) | 벤처스퀘어 |
-| 2026-11-08 | [[VS 기획] AI는 진화하는데 정부는 산업화 시대에…토니블레어연구소가 제안한 ‘국가 재설계’](https://www.venturesquare.net/1126542/) | 벤처스퀘어 |
-| 2026-11-06 | [[김지현의 Scale-Up Note] 스케일업을 위한 회사의 목어(木魚)는 깨어 있는가](https://www.venturesquare.net/1126473/) | 벤처스퀘어 |
-| 2026-11-07 | [“진료실에서 발견한 여성 건강의 정보 격차”…아르카디안 정선화 대표가 생리대를 만든 이유](https://www.venturesquare.net/1126514/) | 벤처스퀘어 |
-| 2026-11-05 | [경북창조경제혁신센터, 소셜벤처 11개사 판별 완료…9개사 사업화 지원](https://www.venturesquare.net/1126176/) | 벤처스퀘어 |
-| 2026-11-05 | [팀매버릭스 서창우 대표 “7번의 실패 끝에 찾은 기회, 누구나 콘텐츠로 사업하는 시대”](https://www.venturesquare.net/1126008/) | 벤처스퀘어 |
-| 2026-11-06 | [텍사스 인스트루먼트, 산업용 이더넷 통합 모듈 공개…하드웨어 교체 없이 3개 프로토콜 지원](https://www.venturesquare.net/1126248/) | 벤처스퀘어 |
-| 2026-11-06 | [더즌, 3분기 누적 순이익 94억원·8.7% 증가…외환거래 솔루션 매출 14.9% 성장](https://www.venturesquare.net/1126250/) | 벤처스퀘어 |
-| 2026-11-06 | [대전창조경제혁신센터, 일본 VC 대전 초청…딥테크 스타트업 5개사 투자·기술협력 논의](https://www.venturesquare.net/1126257/) | 벤처스퀘어 |
-| 2026-11-06 | [기술보증기금·부산시·BNK금융그룹, 기후테크 기업에 150억원 금융지원](https://www.venturesquare.net/1126260/) | 벤처스퀘어 |
+| 2026-11-09 | [월급쟁이부자들, 기초 재테크 교육 고객 3개월 새 59% 증가…종잣돈 마련 수요 확대](https://www.venturesquare.net/1126701/) | 벤처스퀘어 |
+| 2026-11-09 | [이노비즈협회, 베트남 기업 육성정책 설계 지원…3개년 역량강화 사업 첫해 마무리](https://www.venturesquare.net/1126704/) | 벤처스퀘어 |
+| 2026-11-09 | [경기창조경제혁신센터, 로보월드서 AI·로봇 스타트업 해외 투자 연결…미국 VC 5곳 참여](https://www.venturesquare.net/1126716/) | 벤처스퀘어 |
+| 2026-11-09 | [메디팔, 병원 AI 도입의 조건은 기술보다 업무 설계…ASLS KOREA서 운영 자동화 전략 제시](https://www.venturesquare.net/1126723/) | 벤처스퀘어 |
+| 2026-11-09 | [오후두시랩, COP31서 AI 탄소관리 플랫폼 ‘그린플로’ 소개…글로벌 기후테크 협력 모색](https://www.venturesquare.net/1126726/) | 벤처스퀘어 |
+| 2026-11-09 | [메디아크, 운정표병원에 AI 진료지원 솔루션 공급…입원 환자 회진 기록까지 지원](https://www.venturesquare.net/1126739/) | 벤처스퀘어 |
+| 2026-11-09 | [유아이패스, AI 에이전트에 기업 업무 맥락 연결하는 ‘카토그래퍼’ 출시](https://www.venturesquare.net/1126744/) | 벤처스퀘어 |
+| 2026-11-09 | [딥브레인AI, 영상 제작부터 면접·영업 훈련까지…‘AI스튜디오 5.0’ 출시](https://www.venturesquare.net/1126755/) | 벤처스퀘어 |
+| 2026-11-09 | [부산연합기술지주 박훈기 대표, 글로벌품질경영인 대상…126개 스타트업 투자 성과](https://www.venturesquare.net/1126762/) | 벤처스퀘어 |
+| 2026-11-09 | [카오스재단, 서울대서 ‘아름다운 오답’ 과학강연…수학·화학·기상학으로 풀어낸 실패의 가치](https://www.venturesquare.net/1126768/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
