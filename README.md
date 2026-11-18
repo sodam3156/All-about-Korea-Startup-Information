@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-11-17 (KST)_
+_자동 갱신: 2026-11-18 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-11-17 | [2026 글로벌 진출 - 글로벌 진출과 협력 네트워크 확장 전략](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179555) | 서울창업허브 창동 | K-Startup 사업공고 |
-| 2026-11-17 | [2026년 K-바이오랩허브 멤버십 기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179654) | 인천창조경제혁신센터 | K-Startup 사업공고 |
-| 2026-11-17 | [[서울과학기술대학교]3D프린터 장비교육](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179757) | 서울과학기술대학교 | K-Startup 사업공고 |
-| 2026-11-17 | [2026년 11월 전북 IR피칭 & 오피스아워 by KRYPTON 신청 접수](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179749) | (주)크립톤 전북지사 | K-Startup 사업공고 |
-| 2026-11-17 | [[KIIN 포럼] 반도체 공정을 혁신하는 스타트업들 (11/18, 수)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179716) | 한국임팩트투자네트워크 | K-Startup 사업공고 |
-| 2026-11-17 | [STARTUP STARRY NIGHT in Seoul 1:1 밋업(투자, O.I.) 참여기업 모집(11월 허브아워)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179765) | (재)서울경제진흥원 | K-Startup 사업공고 |
-| 2026-11-17 | [[알파브라더스] 「2026 충청 스타트업 벤처포럼」 2회차-오픈이노베이션 교류회 참가 안내의 건](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179764) | 알파브라더스 | K-Startup 사업공고 |
-| 2026-11-17 | [스타트업을 위한 B2B 영업 전략 특강](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179769) | 한국기술교육대학교 앵커사업단 | K-Startup 사업공고 |
 | 2026-11-18 | [2026 논산시 사회적경제 창업 아카데미 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179591) | 논산시 사회적경제통합지원센터 | K-Startup 사업공고 |
 | 2026-11-18 | [2026 서울창업허브 창동 데모데이 참관 신청](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179562) | 서울창업허브 창동 | K-Startup 사업공고 |
 | 2026-11-18 | [경기과학기술대학교 창업보육센터 입주기업 모집 9차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179623) | 경기과학기술대학교 창업보육센터 | K-Startup 사업공고 |
@@ -33,21 +25,29 @@ _자동 갱신: 2026-11-17 (KST)_
 | 2026-11-19 | [국민대학교 청년도약 인재양성 부트캠프 참가자 모집(AI 실무교육)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179559) | 국민대학교 글로벌창업벤처대학원 | K-Startup 사업공고 |
 | 2026-11-19 | [[온라인·무료] 코딩·사업자 없이 여는 내 강의·전자책 판매 사이트](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179702) | 스쿨모아 주식회사 | K-Startup 사업공고 |
 | 2026-11-19 | [2027년 팁스 추천 화성산업진흥원 성장 자원 확보 패키지 지원 프로그램 신청 안내](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179732) | 화성산업진흥원 | K-Startup 사업공고 |
+| 2026-11-19 | [제79회 단디벤처포럼 [2026 단디벤처 투자로드쇼] 1:1 투자상담회·IR 피칭기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179754) | 단디벤처포럼 | K-Startup 사업공고 |
+| 2026-11-19 | ['딸깍 한 번으로 완성하는 AI 업무 자동화' 실전 워크숍 참여자 모집 (『신한 스퀘어브릿지』 11월 브릿지 클럽)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179752) | 신한금융희망재단 | K-Startup 사업공고 |
+| 2026-11-19 | [2026년 경희대학교 캠퍼스타운 제6회 데모데이: 刮目相對괄목상대](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179690) | 경희대학교 (서울)앵커사업단 캠퍼스타운센터 | K-Startup 사업공고 |
+| 2026-11-19 | [2026 인수창업 설명회 - 당신의 성장을 지원합니다.](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179774) | 주식회사 디유파트너스 | K-Startup 사업공고 |
+| 2026-11-19 | [2026 강남구 미래산업 기반 기업 활성화 지원사업 데모데이 참관](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179771) | 더인벤션랩 | K-Startup 사업공고 |
+| 2026-11-19 | [제79회 단디벤처포럼 [2026 단디벤처 투자로드쇼] 일반참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179811) | 단디벤처포럼 | K-Startup 사업공고 |
+| 2026-11-19 | [2026 광명시 기업박람회 (GM TECH EXPO 2026)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179804) | 광명시청 | K-Startup 사업공고 |
+| 2026-11-20 | [선문대학교 맞춤형 창업멘토링 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179614) | 조슈아파트너스(주) | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-11-17 | [나눔비타민, 지역사회공헌 인정기업 선정…아동 식사 지원 성과·투명경영 A등급](https://www.venturesquare.net/1129251/) | 벤처스퀘어 |
-| 2026-11-17 | [AWS, 개발 업무 전담하는 AI 에이전트 ‘키로 봇’ 출시…이슈 관리부터 배포 준비까지 자동화](https://www.venturesquare.net/1129254/) | 벤처스퀘어 |
-| 2026-11-17 | [수호아이오·KB증권, 카드 포인트로 채권 토큰증권 투자…발행부터 만기 상환까지 실증](https://www.venturesquare.net/1129265/) | 벤처스퀘어 |
-| 2026-11-17 | [TIPA ValueUP, R&D 기술기업과 투자자 잇는다…VC 밋업 개최](https://www.venturesquare.net/1129190/) | 벤처스퀘어 |
-| 2026-11-17 | [경남창조경제혁신센터, 거제 로컬 창업기업 9곳 성과 공개…지역 특산물 활용 신제품 전시](https://www.venturesquare.net/1129288/) | 벤처스퀘어 |
-| 2026-11-17 | [CT, 과기정통부 ‘모두의 AI 챌린지’ 수행기관 선정…전자책·웹신문 제작 무료 개방](https://www.venturesquare.net/1129287/) | 벤처스퀘어 |
-| 2026-11-17 | [나라스페이스, 우즈베키스탄 우주청과 협력…초소형위성 기술·데이터 활용 지원](https://www.venturesquare.net/1129302/) | 벤처스퀘어 |
-| 2026-11-17 | [루닛, RSNA 2026서 의료 AI 연구 17편 발표…유방암 검출·위험 예측 성능 집중 검증](https://www.venturesquare.net/1129297/) | 벤처스퀘어 |
-| 2026-11-17 | [달파·컨슈머인사이트, 25년간 축적한 자동차 소비자 데이터로 구매 행동 예측 AI 개발](https://www.venturesquare.net/1129310/) | 벤처스퀘어 |
-| 2026-11-17 | [알바몬, 최예나·스윙스 앞세워 첫 알바 구직자 공략…’꿀알바’ 캠페인 공개](https://www.venturesquare.net/1129317/) | 벤처스퀘어 |
+| 2026-11-17 | [킵코퍼레이션, 외국인 환자 응대 솔루션 ‘킵커넥트’ 공개…다국어 예약·상담 통합 지원](https://www.venturesquare.net/1129520/) | 벤처스퀘어 |
+| 2026-11-17 | [튜링, 대학생 AI 에이전트 ‘파이’ 출시…시험 준비부터 조별과제까지 지원](https://www.venturesquare.net/1129523/) | 벤처스퀘어 |
+| 2026-11-18 | [패스트파이브, AI·보안 등 스타트업 8개사 선정…최대 6개월 사무공간 지원한다](https://www.venturesquare.net/1129549/) | 벤처스퀘어 |
+| 2026-11-18 | [아산나눔재단, 비영리스타트업 9개 팀에 총상금 1억 원…모스픽·사이트스페이스 대상 수상](https://www.venturesquare.net/1129551/) | 벤처스퀘어 |
+| 2026-11-18 | [마크비전, 월 13만 원부터 위조상품 대응…중소 브랜드용 AI 보호 서비스 출시](https://www.venturesquare.net/1129554/) | 벤처스퀘어 |
+| 2026-11-18 | [스미스, 소속 아티스트 그렉과 일본 니가타서 문화교류…현지 학생 50여 명과 음악 워크숍](https://www.venturesquare.net/1129565/) | 벤처스퀘어 |
+| 2026-11-18 | [와디즈 ‘삼무서점’, 4주간 19억 원 펀딩…’각시탈’ 완전판·’토지’ 소장판 인기](https://www.venturesquare.net/1129575/) | 벤처스퀘어 |
+| 2026-11-18 | [미미박스 ‘누니 립오일’, 올해 글로벌 매출 747억 원 전망…미국 타깃 1778개 매장 진출](https://www.venturesquare.net/1129591/) | 벤처스퀘어 |
+| 2026-11-18 | [리브라이블리 지창대 대표, 벤처창업진흥 유공 장관표창…AI 기반 시니어 통합돌봄 성과 인정](https://www.venturesquare.net/1129596/) | 벤처스퀘어 |
+| 2026-11-18 | [마이크로소프트, AI 에이전트를 기업 운영의 중심으로…이그나이트 2026서 ‘프론티어 생태계’ 공개](https://www.venturesquare.net/1129604/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
