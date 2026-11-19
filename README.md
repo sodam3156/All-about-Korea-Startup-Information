@@ -7,20 +7,12 @@ GitHub Actions가 수집→중복제거→상세저장→아래 대시보드 갱
 
 <!-- AUTO:START -->
 
-_자동 갱신: 2026-11-18 (KST)_
+_자동 갱신: 2026-11-19 (KST)_
 
 ## 마감 임박 지원사업
 
 | 마감 | 공고 | 기관 | 출처 |
 |---|---|---|---|
-| 2026-11-18 | [2026 논산시 사회적경제 창업 아카데미 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179591) | 논산시 사회적경제통합지원센터 | K-Startup 사업공고 |
-| 2026-11-18 | [2026 서울창업허브 창동 데모데이 참관 신청](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179562) | 서울창업허브 창동 | K-Startup 사업공고 |
-| 2026-11-18 | [경기과학기술대학교 창업보육센터 입주기업 모집 9차](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179623) | 경기과학기술대학교 창업보육센터 | K-Startup 사업공고 |
-| 2026-11-18 | [<2026년 AI 활용 온라인 플랫폼 제작 교육> 참여자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179680) | 충북Pro메이커센터 | K-Startup 사업공고 |
-| 2026-11-18 | [2026 서구토탈창업아카데미 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179638) | 온랩 | K-Startup 사업공고 |
-| 2026-11-18 | [2026 KOREA LBS Day(~11.17)｜선도기업·투자자·전문가와 만나는 1:1 비즈니스 미팅](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179683) | 한국능률협회컨설팅 | K-Startup 사업공고 |
-| 2026-11-18 | [2026년도 제4차 북부창업아카데미 및 북부창업멘토링 DAY 참가자 모집(주제 : 2027 정부지원사업 합격을 위한 실전 전략)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179741) | 북부여성새일센터 | K-Startup 사업공고 |
-| 2026-11-18 | [2026년 경기스타트업플랫폼 온라인 밋업위크(4차) 투자자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179747) | 주식회사 내비온파트너스 | K-Startup 사업공고 |
 | 2026-11-19 | [[서초창업스테이션] 서리풀 소상공인 창업 클리닉(11월) - 소상공인 1:1 컨설팅](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179586) | 서초창업스테이션 | K-Startup 사업공고 |
 | 2026-11-19 | [국민대학교 청년도약 인재양성 부트캠프 참가자 모집(AI 실무교육)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179559) | 국민대학교 글로벌창업벤처대학원 | K-Startup 사업공고 |
 | 2026-11-19 | [[온라인·무료] 코딩·사업자 없이 여는 내 강의·전자책 판매 사이트](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179702) | 스쿨모아 주식회사 | K-Startup 사업공고 |
@@ -33,21 +25,29 @@ _자동 갱신: 2026-11-18 (KST)_
 | 2026-11-19 | [제79회 단디벤처포럼 [2026 단디벤처 투자로드쇼] 일반참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179811) | 단디벤처포럼 | K-Startup 사업공고 |
 | 2026-11-19 | [2026 광명시 기업박람회 (GM TECH EXPO 2026)](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179804) | 광명시청 | K-Startup 사업공고 |
 | 2026-11-20 | [선문대학교 맞춤형 창업멘토링 참가자 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179614) | 조슈아파트너스(주) | K-Startup 사업공고 |
+| 2026-11-20 | [2026년 초기창업패키지 SM엔터테인먼트 오픈이노베이션 밋업 CultureTech Challenge](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179661) | 씨엔티테크(주) | K-Startup 사업공고 |
+| 2026-11-20 | [2027년도 초기창업·창업도약 패키지 사업 신규 주관기관 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179660) | 중소벤처기업부 장관 | K-Startup 사업공고 |
+| 2026-11-20 | [2026 맞춤형 창업과정 교육생 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179688) | 김해시중장년기술창업센터장 | K-Startup 사업공고 |
+| 2026-11-20 | [2026 제4차 노원사회적경제지원센터 입주기업 신규 공모](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179700) | 노원사회적경제지원센터 | K-Startup 사업공고 |
+| 2026-11-20 | [2027년 청년 쿡 비즈니스·푸드테크 센터 스타트업 모집 공고](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179687) | 서울특별시 | K-Startup 사업공고 |
+| 2026-11-20 | [NEST G밸리 4기 입주기업 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179733) | 신용보증기금 스케일업금융센터 | K-Startup 사업공고 |
+| 2026-11-20 | [임팩트 페스타 2026 참관객 모집](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179745) | 서울소셜벤처허브 | K-Startup 사업공고 |
+| 2026-11-20 | [[행사 안내] 2026 경기도 R&D 성과공유회](https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179763) | 주식회사 내비온파트너스 | K-Startup 사업공고 |
 
 ## 스타트업 뉴스
 
 | 날짜 | 제목 | 출처 |
 |---|---|---|
-| 2026-11-17 | [킵코퍼레이션, 외국인 환자 응대 솔루션 ‘킵커넥트’ 공개…다국어 예약·상담 통합 지원](https://www.venturesquare.net/1129520/) | 벤처스퀘어 |
-| 2026-11-17 | [튜링, 대학생 AI 에이전트 ‘파이’ 출시…시험 준비부터 조별과제까지 지원](https://www.venturesquare.net/1129523/) | 벤처스퀘어 |
-| 2026-11-18 | [패스트파이브, AI·보안 등 스타트업 8개사 선정…최대 6개월 사무공간 지원한다](https://www.venturesquare.net/1129549/) | 벤처스퀘어 |
-| 2026-11-18 | [아산나눔재단, 비영리스타트업 9개 팀에 총상금 1억 원…모스픽·사이트스페이스 대상 수상](https://www.venturesquare.net/1129551/) | 벤처스퀘어 |
-| 2026-11-18 | [마크비전, 월 13만 원부터 위조상품 대응…중소 브랜드용 AI 보호 서비스 출시](https://www.venturesquare.net/1129554/) | 벤처스퀘어 |
-| 2026-11-18 | [스미스, 소속 아티스트 그렉과 일본 니가타서 문화교류…현지 학생 50여 명과 음악 워크숍](https://www.venturesquare.net/1129565/) | 벤처스퀘어 |
-| 2026-11-18 | [와디즈 ‘삼무서점’, 4주간 19억 원 펀딩…’각시탈’ 완전판·’토지’ 소장판 인기](https://www.venturesquare.net/1129575/) | 벤처스퀘어 |
-| 2026-11-18 | [미미박스 ‘누니 립오일’, 올해 글로벌 매출 747억 원 전망…미국 타깃 1778개 매장 진출](https://www.venturesquare.net/1129591/) | 벤처스퀘어 |
-| 2026-11-18 | [리브라이블리 지창대 대표, 벤처창업진흥 유공 장관표창…AI 기반 시니어 통합돌봄 성과 인정](https://www.venturesquare.net/1129596/) | 벤처스퀘어 |
-| 2026-11-18 | [마이크로소프트, AI 에이전트를 기업 운영의 중심으로…이그나이트 2026서 ‘프론티어 생태계’ 공개](https://www.venturesquare.net/1129604/) | 벤처스퀘어 |
+| 2026-11-19 | [삼삼엠투, 국토부 ‘우수 부동산서비스사업자’ 인증…단기임대 거래·소비자 보호체계 인정](https://www.venturesquare.net/1129938/) | 벤처스퀘어 |
+| 2026-11-19 | [삼쩜삼, 환급 서비스 중심으로 앱 개편…월세 계약서 AI 점검 기능도 도입](https://www.venturesquare.net/1129949/) | 벤처스퀘어 |
+| 2026-11-19 | [로가, 식물성 콜라겐 기술로 대통령표창 쾌거…대만 독점 협력·미국 시장 진출 추진](https://www.venturesquare.net/1129962/) | 벤처스퀘어 |
+| 2026-11-19 | [피처링, 유튜브 공식 데이터 연동…시청자 관심사·브랜드 협업 이력까지 분석](https://www.venturesquare.net/1129959/) | 벤처스퀘어 |
+| 2026-11-19 | [파라택시스이더리움, 10억원 규모 자사주 취득 결정…주주환원 정책 이어간다](https://www.venturesquare.net/1129987/) | 벤처스퀘어 |
+| 2026-11-19 | [오디바이스, 2027학년도 AI 정시 합격예측 ‘입시캐스트’ 출시…100여 개 대학 전형 분석](https://www.venturesquare.net/1129989/) | 벤처스퀘어 |
+| 2026-11-19 | [휴민랩스, 630억원 시리즈A 투자 유치…한국에 피지컬 AI 로봇 배치 인프라 구축한다](https://www.venturesquare.net/1130000/) | 벤처스퀘어 |
+| 2026-11-19 | [[VS 현장] “기술은 개발했는데, 어떻게 지킬 것인가”…판교에 모인 스타트업들의 IP 생존 전략](https://www.venturesquare.net/1130008/) | 벤처스퀘어 |
+| 2026-11-19 | [초기투자액셀러레이터협회, 부산서 ‘LunchSAI’ 개최…LP 관리·펀드 운영 실무 공유](https://www.venturesquare.net/1130024/) | 벤처스퀘어 |
+| 2026-11-19 | [한국주택정보, 관리비를 건물 경쟁력 지표로…AI 자동화 넘어 일본 시장 진출](https://www.venturesquare.net/1130023/) | 벤처스퀘어 |
 <!-- AUTO:END -->
 
 ## 데이터 구조
